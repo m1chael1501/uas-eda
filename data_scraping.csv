@@ -1,0 +1,1001 @@
+reviewId,content,score,cleaned_text,sentiment,predicted_sentiment,sentiment_label
+521913e4-c7b1-46be-8242-9ced919156a3,buruk,1,buruk,0,0,Negative
+4f81924b-e06e-491d-9872-865fc5b6c78b,"Amit-amit ni aplikasi Verifikasi wajah ribet bgt gak lolos terus heran,gak guna. sayang banget padahal pelayanan face to face nya juara tapi developer aplikasi nya ampas kayak gini. CAHAYA MATAHARI MASIH KURANG TERANG KAH ADMIN PINTAR? bukan nya di benahi ni aplikasi malah ngles aja cari2 alasan busuk.",2,amit amit ni aplikasi verifikasi wajah ribet bgt lolos heran sayang layan face to face juara developer aplikasi ampas kayak gin cahaya matahari kurang terang kah admin pintar bukan benah ni aplikasi ngles cari alas busuk,0,0,Negative
+29c07bdc-1d0b-455b-8170-5ccc3d766989,"ini apaan sih setiap kali pasti ada gangguan. lagi belanja pake Qris agar lebih mudah tbtb ga bisa. alhasil saya ga jadi belanja. selalu begini, jelek banget sistem nya. saya rasa bintang 1 udah cukup bagus untuk aplikasi ini. *jangan cuma bales ulasan kami, yg kami mau perbaiki sistem nya. bank gede kok sistem nya primitif",1,sih kali ganggu belanja pake qris mudah tbtb alhasil belanja jelek sistem bintang bagus aplikasi jangan bales ulas baik sistem bank gede sistem primitif,0,0,Negative
+53d5a360-e0c4-4a40-a6d5-d182294b2a7b,sangat puas,5,puas,1,1,Positive
+35e8d31c-7783-4444-beb2-82eb4d4b1a76,the best pokoknya mah,5,the best pokok mah,1,1,Positive
+f5b6f0f7-ec3e-4cc3-bcde-d0e1c32d61f1,bagus,5,bagus,1,1,Positive
+0d209743-4a02-4f43-8b21-158731dc4781,top,5,top,1,1,Positive
+fd3ddc9f-00fe-4828-a4d6-8108e7389457,"saya tidak ada keluar akun sama sekali tapi waktu saya buka lagi tiba"" dah ke log out, pas nyoba login lgi salah masukin password sekali langsung keblokir biasanya juga 3x salah masukin password bru keblokir lah ini bru sekli masukin lngsung keblokir aja",2,tidak akun buka dah log out pas nyoba login lgi salah masukin password langsung blokir salah masukin password bru blokir bru sekli masukin lngsung blokir,0,0,Negative
+8837c409-9bd0-4db5-b174-a565a38911cf,"kok kode otp dari BCA blm terkirim,pdahal saya sdah isi pulsa tlong di bantu",4,kode otp bca blm kirim pdahal sdah isi pulsa tlong bantu,1,0,Negative
+1516be4d-3a29-4575-a62f-19154a16bc9a,"uang gue ketahan gara"" lu eror mulu",1,uang gue tahan gara lu eror mulu,0,0,Negative
+a1c80102-2e6c-4054-98a0-cd0fc422072b,aplikasi gajelas gaada kode negara indonesia trus login gmna ttep dsruh masukin nmor telpon,1,aplikasi gajelas gaada kode negara indonesia trus login gmna ttep dsruh masukin nmor telpon,0,0,Negative
+e27bc13f-57aa-485f-a7db-400ffe706170,sat habis di hapus di download lagi malah konfirmadi no hp kode otp nya gak kekirim ke pesan anjir,1,sat habis hapus download konfirmadi no hp kode otp kirim pesan anjir,0,0,Negative
+cf77c3c8-8c31-4032-8109-27e30ca43ecb,kode otp lama ngasihnya,3,kode otp ngasihnya,0,0,Negative
+7f2826c4-7ede-4938-aec9-5d3a361769d1,untuk password seharusnya bisa di ke save via google,1,password save via google,0,0,Negative
+eb3334c9-cfa5-4546-a233-f78b679594f7,bagus,5,bagus,1,1,Positive
+301f7f43-cf78-4b15-acaa-cfb5869e6a93,"lah kirim otp nomor telpon saja susah banget, harus bolak balik ke kantor cabang",1,kirim otp nomor telpon susah bolak kantor cabang,0,0,Negative
+e4c7a37d-5ac9-49d5-b93f-14e502eddfdb,kenapa setelah di update malah ndk busa loging,2,update ndk busa loging,0,0,Negative
+154eec6b-6ad8-4df1-83da-50a5f8186602,suka gangguan,3,suka ganggu,0,0,Negative
+f90cea5e-ff29-40e8-a679-2e8c68d1e2fc,keluar apps terus gabisa login,1,apps gabisa login,0,0,Negative
+755ff6a9-3b67-4df7-84c7-3f05ebcb32b6,"oke udah bisa, sementara 3 dulu. mood ku masi jelek gara2 tadi",3,oke mood ku mas jelek gara,0,0,Negative
+741980fd-62b6-4b50-92be-27f4e058726a,Terjadi kesalahan Mulu padahal jaringan lancar tolong perbaiki,1,salah mulu jaring lancar tolong baik,0,0,Negative
+210d4750-d0f1-4811-a677-67628c4e9c30,apakah hari ini sedang error tidak bisa login,5,error tidak login,1,0,Negative
+73ca7d2c-ff22-4604-b3a4-90f790a79a98,"Sumpah sering banget error, malu tau pas lagi di tempat makan mau bayar pake Qris malah error, tolong dong di perbaiki",1,sumpah error malu tau pas makan bayar pake qris error tolong baik,0,0,Negative
+43b9df9a-c539-4fb1-8a2c-e56d32c66abd,"sering error disaat dibutuhkan, tidak bisa cek saldo, tidak bisa melakukan pembayaran. lagi belanja udah dibikin malah gabisa bayar, bikin malu dan akhirnya menunggu lama buat bayar",1,error saat butuh tidak cek saldo tidak bayar belanja bikin gabisa bayar bikin malu tunggu bayar,0,0,Negative
+106b2463-432d-406d-8514-be17e91e7f59,Hari ini kenapa aplikasi my BCA error tidak bisa di buka?????,1,aplikasi bca error tidak buka,0,0,Negative
+43d9336d-64b9-49d0-aca9-5b117c904f38,"semenjak abis di update tidak bisa login padahal username sama pasword udah bener tapi tulisannya pas di coba berkali kali ""terjadi kesalahan silahkan coba lagi"" kebanyakan update makin ga bener sistemnya",1,semenjak abis update tidak login username pasword bener tulis pas coba kali kali salah silah coba banyak update bener sistem,0,0,Negative
+7762f881-d20f-48e6-8f92-d954236b9ad4,"woi gw ga bisa login ini hadehhhh. Sinyal bagus padahal, tiap mau login pasti ga bisa",3,woi gw login hadehhhh sinyal bagus login,0,0,Negative
+658177ae-7b91-4df5-a2e6-720c2385ff25,saldo nggak bisa lihat,1,saldo nggak lihat,0,0,Negative
+38f5a80f-10ae-4f6d-a660-19f210b69a70,"Lah, malah gak bisa login. ganti developer saja, dari dulu sudah banyak keluhan juga.",1,login ganti developer keluh,0,0,Negative
+11d2e9c5-16fd-431c-a146-008228919123,"Kenapa tiba"" saldo tidak bisa di tampilkan",5,saldo tidak tampil,1,0,Negative
+57f63edf-e381-4901-881b-87f056b01c3b,sering eror,1,eror,0,0,Negative
+e2578e03-06ec-47fb-834b-91014dfa3ad9,kenapa BCA ini ya mau transfer gabisa saldo gabisa di liat tulisannya saldo dapat di akses beberapa saat lgi cht cs lambat respon orang mau cepat,1,bca transfer gabisa saldo gabisa liat tulis saldo akses lgi cht cs lambat respon orang cepat,0,0,Negative
+e538dfef-3076-4209-8a9e-7b5fefa89231,sangat bagus,5,bagus,1,1,Positive
+4dee9f1a-e096-444b-83e2-6fdd70bbf404,entah kenapa setelah update password yang biasa saya masukan salah (gagal),1,update password masuk salah gagal,0,0,Negative
+503549dc-2a3e-46e8-9cab-e240be600f93,setelah update malah ga bisa di buka,1,update buka,0,0,Negative
+ba9f450d-75d6-48a2-96fe-398bf0275742,TIAP HARI BERMASALAH. PINDAH APLIKASI BUKANNYA BAGUS MALAH TAMBAH PARAH,1,masalah pindah aplikasi bagus parah,0,0,Negative
+9531f578-7547-44fe-9eef-ca03bae58430,"ini lagi ada problem kah? masa saya mau masuk ke MyBCA tapi kok ga bisa² ya... padahal jaringannya bagus, udah di coba berkali-kali tapi tetep ga bisa..",1,problem kah masuk mybca bisa jaring bagus coba kali kali tetep,0,0,Negative
+6fd4ce1c-e119-416b-bfe3-3b8414f237bb,setelah di update. kenapa tidak bisa login. tau gitu GK aku update,3,update tidak login tau gitu update,0,0,Negative
+d8fff877-c6c9-4154-962e-82f5565eaef5,kenapa g bisa login .. trtulis sedang terjadi kesalahan coba lagi nanti sering trjadi setelah saya ikut update,1,login trtulis salah coba trjadi update,0,0,Negative
+4d581924-fcc9-4643-a7b2-1400c91d3911,lagi error kah bca hari ini,3,error kah bca,0,0,Negative
+a16e728d-f82f-47e8-8c75-b7334ebba125,kenapa ini terjadi kesalahan terus tiap buka,3,salah buka,0,0,Negative
+da121cb3-2824-4e1e-b13d-1a0a37c68aef,bagus dan lebih mudah di gunakan nya,5,bagus mudah,1,1,Positive
+9d6c0334-b56c-41a4-9aa4-1195b493b0f9,"abis di update malah gabisa di buka, ett team it nya sama manajemen nya buruk",1,abis update gabisa buka ett team it manajemen buruk,0,0,Negative
+7d7dcbc4-7ce0-4697-a048-b7dafafd0b1f,kl tdk bisa di buka sdh sy hapus saja akun ini,5,kl tdk buka sdh sy hapus akun,1,0,Negative
+59b0f01b-c7e4-4462-add7-a6ab7f036416,tiba tiba pemeliharaan kan ga masuk akal..!!,1,pelihara masuk akal,0,0,Negative
+27dcf9ee-23cf-4e9f-84ea-24949bf93ffb,abis update malah kaga bisa masuk kesalahan terus bacaan nya,1,abis update kaga masuk salah baca,0,0,Negative
+55f58052-7ae9-477b-aee0-c48fa40064a3,"saat mau mengambil uang,tidak bisa menarik uang dari mybca tolong diperbaiki.woi gua mau qris gak bisa😡",2,ambil uang tidak tarik uang mybca tolong baik woi gua qris,0,0,Negative
+c43220da-cee6-41d3-b357-8e86abb70bc4,maintenance gaada info samasekali,1,maintenance gaada info samasekali,0,0,Negative
+964925f4-c4c1-4c4a-a263-7acc1920d7c7,woiii BCA kyak mana ini apk mu ini. malah tambah lelet trus ganggu buat transaksi gimna ni BCA masa tiap mau digunakan slalu gangguan sistemnya. ini lagi di butuhkan malah gangguan tolong di perbaiki lagi,2,woiii bca kyak apk mu lelet trus ganggu transaksi gimna ni bca slalu ganggu sistem butuh ganggu tolong baik,0,0,Negative
+8c0a89e1-7ee3-4528-bd69-4e4dda98f4f5,kenapa setelah pembaruan malah GK bisa dibuka,5,baru buka,1,0,Negative
+82c500a1-c979-4e73-889f-7606d73fe966,setelah di update gabisa cek saldo,1,update gabisa cek saldo,0,0,Negative
+ccea3fb5-9214-4eb9-8c47-a2fea6faef54,kenapa my BCA saya tidak bisa dibuka,4,bca tidak buka,1,0,Negative
+94339795-c47e-4f08-8edc-e882a65edc82,"habis update apk, malah erorr ga bisa di buka",5,habis update apk erorr buka,1,0,Negative
+ba04e7de-7c22-4291-a5b8-5c8f600fddab,GILAAAAK. WEEKEND MALAH EROR . GAK JELAS,1,gilaaaak weekend eror,0,0,Negative
+8c4040e7-1aac-464c-abde-38d7d99fd2a4,ko gangguan Mulu setiap hbis update,2,ko ganggu mulu hbis update,0,0,Negative
+a1d26d0d-a48f-439e-89d4-1358d71f63cf,Aplikasi terlalu banyak Gangguan,1,aplikasi ganggu,0,0,Negative
+4756170e-fedd-4565-b0e6-343d85726246,tidak bisa transfer uang hemmm,1,tidak transfer uang hemmm,0,0,Negative
+5e44d173-00db-4199-a11e-7e3423b0d01b,kok apknya habis update Eror gak bisa transaksi dan check saldo tolong lahh,2,apknya habis update eror transaksi check saldo tolong lahh,0,0,Negative
+16dcf46c-9a62-4077-9515-1163f48b7d87,mudah dan praktis,5,mudah praktis,1,1,Positive
+8f9cd69e-f338-49c9-9665-64c90e756f73,ini kenapa mau transaksi malah saldonya ga muncul ya? saya mau transaksi penting malah kayak gini jujur kecewa sih,1,transaksi saldo muncul transaksi kayak gin jujur kecewa sih,0,0,Negative
+6c595cbe-ce86-4944-9042-a525947534cd,terbaik,5,baik,1,0,Negative
+8758d0ae-ffd4-44f8-984b-059ecd4824a4,ini kemana gak bisa buka mbangking ?,2,mana buka mbangking,0,0,Negative
+23be6f93-ad76-4cf1-abe0-57a9b22449e6,semoga bermanfaat untuk menabung dan aman amanah,5,moga manfaat tabung aman amanah,1,1,Positive
+3aadabbb-91b5-48a9-a813-504bd63c98c2,top,5,top,1,1,Positive
+cf973d9e-dd30-4f76-9bfb-6826b1da54b9,ini kenapa saya tidak bisa penarikan dana,1,tidak tari dana,0,0,Negative
+3227f1c7-59f3-4b57-9d13-b943348a74f3,kenapa rekening saya tiba tiba tidak valid ?,5,rekening tidak valid,1,0,Negative
+1ea5d972-08b8-427e-8211-73a810c2bfc7,"e-channel perbankan TER(kelamin pria). BANYAK UPDATE, BANYAK JUGA ERROR NYA, CS WHATSAPP DI TANYA ESTIMASI PERBAIKAN MALAH CHAT NYA DI TUTUP (kelamin pria) BANGET POKOKNYA",5,channel perban ter kelamin pria update error cs whatsapp estimasi baik chat tutup kelamin pria pokok,1,0,Negative
+823b7c15-60a8-43f6-85b8-81caa778ae33,"habis update tidak bisa lihat saldo dan tidak bisa transaksi,solusinya dong min",5,habis update tidak lihat saldo tidak transaksi solusi min,1,0,Negative
+eac36434-ff5e-483b-a20a-485948ccfd35,"update terus , habis update ada masalah gangguan saldo di rekening ga bisa di gunain klo orang lagi butuh gimana masa harus nunggu",1,update habis update ganggu saldo rekening gunain klo orang butuh gimana nunggu,0,0,Negative
+52ace807-9d2e-4bc8-a59e-ac8a15ee781c,udah coba msuk beberapa x tapi GK bisa padahal udah beli pulsa juga tapi ttp GK bisa,2,coba msuk beli pulsa ttp,0,0,Negative
+decf60bc-f5fa-4631-a92a-020d1e14572a,tiba2 bgt mau transfer malah gabisa down kah servernya? penting lho,1,bgt transfer gabisa down kah servernya lho,0,0,Negative
+38d5b1f4-2823-45b5-b2e6-bfcf31f8c5af,eror mulu gajelas tulisannya opps terjadi kesalahan coba lagi,2,eror mulu gajelas tulis opps salah coba,0,0,Negative
+47c4a8b4-3d73-459b-bd14-c97c063bd599,aplikasi lemot orang mau apa apa transaksi jadi susah,1,aplikasi orang transaksi susah,0,0,Negative
+c6c8a573-aca5-44c6-81e8-c80be3882a9b,kenapa saya gak bisa login ke my bca,5,login bca,1,0,Negative
+6d2fe4e8-fb50-4adc-813b-a11a880aab43,tiba tiba aplikasi gak bisa di buka gak ada keterangan nya gak tau kenapa,5,aplikasi buka terang tau,1,0,Negative
+19dc9036-bd79-4d36-afdd-1eb6ea8179db,min saya tidak bisa masuk apakah lagi gangguan,4,min tidak masuk ganggu,1,0,Negative
+10e47ac2-ab00-4d43-9b66-348194ac756a,"gangguan mulu, ngecat cs lama gak bales2",1,ganggu mulu ngecat cs bales,0,0,Negative
+8df5cf7d-a60e-4c50-be79-ea229070f080,"udah hubungi halo bca, padahal id dan no rekening ATM udah bener tapi tetep aja tulisan nya ""Pastikan BCA ID dan nomor kartu ATM yang dimasukkan sudah benar. Hubungi Halo BCA di 1500888 untuk informasi lebih lanjut"", gimana sih ini bikin bingung ajg",1,hubung halo bca id no rekening atm bener tetep tulis pasti bca id nomor kartu atm masuk hubung halo bca informasi gimana sih bikin bingung ajg,0,0,Negative
+4adca252-489b-4e9f-b90f-38d644532b98,"mau masuk nggak bisa terus, terjadi kesalah",1,masuk nggak salah,0,0,Negative
+4a16dad4-247e-4c3b-98bf-cacb56b42c63,aplikasi ga jelas. login ga bisa bisa. kalo emang ada update atau maintenance setidaknya berikan notif di setiap penggunanya. kasian orang orang yg gunain aplikasi ini kalo tiba tiba butuh dana dadakan ga bisa di gunakan sama sekali,1,aplikasi login kalo emang update maintenance notif guna kasi orang orang gunain aplikasi kalo butuh dana dada,0,0,Negative
+437d883a-56cf-44e8-8f13-49f9d172ef7d,"apa apaan ni aplikasi, saya gak bisa cek saldo dan tidak bisa transfer uang saat ini. yang bener aja BCA, gak beres ni",1,ni aplikasi cek saldo tidak transfer uang bener bca beres ni,0,0,Negative
+203f3e2a-e9a9-4e82-8e95-6f4cd34ada5f,ini kenapa mau login malah terjadi kesalahan terus tulisannya? padhal baru update,1,login salah tulis padhal update,0,0,Negative
+9ea42cb5-dcd3-4142-add2-ba563129dd9b,hari ini mybca error kah.. tidak bisa login gini,2,mybca error kah tidak login gin,0,0,Negative
+4a25468d-68a4-4c60-adb3-026060b25347,ga jelas tiba tiba di blokir,1,blokir,0,0,Negative
+1612c33f-1cc5-41a6-a907-2bee7c343eb9,aplikasi bikin sstreeesss,1,aplikasi bikin sstreeesss,0,0,Negative
+d9bd209a-bc21-4aeb-aa0c-ee09df92eeff,"kenapa saya tidak bisa login?, dan terdapat pemberitahuan ""oopss, terjadi kendala, silahkan coba lagi"", apakah BCA sedan terjadi kendala?",2,tidak login pemberitahuan oopss kendala silah coba bca sedan kendala,0,0,Negative
+90a9b455-2e16-4684-97de-fb71e4aeae30,"ini my bca sering banget gangguan kenapa dah. mau bayar qris gak bisa terus. padahal jaringan bagus, di-update udah.",2,bca ganggu dah bayar qris jaring bagus update,0,0,Negative
+5c51629a-656b-4678-b2da-bc02e4f53edb,kebanyakan eror Mulu ini buset,1,banyak eror mulu buset,0,0,Negative
+7ab7b3cb-b183-43a7-af87-78786f70d9c7,eror gabisa transaksi,1,eror gabisa transaksi,0,0,Negative
+d7e66f5a-e46e-44fc-a24a-2ff9fd428975,"sering gangguan, sangat menghambat pekerjaan",1,ganggu hambat kerja,0,0,Negative
+15d396ea-c337-4afa-8337-bd78daf34ae1,sangat membantu,5,bantu,1,1,Positive
+da7664e8-457f-452b-a97c-a526764838b9,ini bagaimana habis pemeliharaan ko malah buat transaksi dan cek saldo gak bisa,1,habis pelihara ko transaksi cek saldo,0,0,Negative
+62b1bbad-5ab2-4054-b16b-2a63bd7a4256,baik,5,,1,0,Negative
+fe52868e-4c34-43ce-96e6-6572ad3ba257,kualitas aplikasi buruk.,1,kualitas aplikasi buruk,0,0,Negative
+c84cdd1a-aefb-46f3-bf45-5149b1d899d7,"my bca TOLOL, diupgrade malah bego, eror mulu",1,bca tolol diupgrade bego eror mulu,0,0,Negative
+e443ab88-7a6b-4ef9-a473-78e835eb2558,buat kerja kejar waktu malah eror,1,kerja kejar eror,0,0,Negative
+54eb5244-585a-457a-8cc5-c58ef08c7fdb,knp ni saya ga biisa login ke my bca keterangan terjadi kesalahan,1,knp ni biisa login bca terang salah,0,0,Negative
+3f82e0fe-1813-4a07-b020-5a478c5bc409,gak bisa masuk habis update malah ada teks opps silahkan coba lagi apaan dah gak becus banget ni aplikasinya padahal pasword udah benar,1,masuk habis update teks opps silah coba dah becus ni aplikasi pasword,0,0,Negative
+c3eb1efe-8ed3-4427-9663-ddfe93cb0c59,"habis di update saldo tidak bisa di akses, ini gimana ceritanya?",1,habis update saldo tidak akses gimana cerita,0,0,Negative
+001bc208-d0c8-4eaf-be5b-a3e3867b2dfc,"mohon maaf ini saya baru alami saya masuk ke my BCA dengan id dan pin atau pasword yg bner malah ga bisa masuk atau ga bisa akses dengan notif ""opps maaf terjadi kesalahan, silahkan coba beberapa saat lagi"" harap solusi sebelum uninstall",1,mohon maaf alami masuk bca id pin pasword bner masuk akses notif opps maaf salah silah coba harap solusi uninstall,0,0,Negative
+84170c89-8236-47da-aa04-42d0a493af8c,kpd yth manajemen BCA ada kendala apa ya ini aplikasi myBCA saya ga bisa masuk tolong ka,1,kpd yth manajemen bca kendala aplikasi mybca masuk tolong ka,0,0,Negative
+b4d8de7d-0434-4f5c-8d6b-38db337891e7,ini gimana ini.di update malah kga bisa masuk...,3,gimana update kga masuk,0,0,Negative
+1e6e4465-37d9-4beb-a974-f544efdd7252,baik,5,,1,0,Negative
+189f6d5d-cf8c-46af-a9cb-0497cf007bd0,"masuk aja susah ni,,,oops,,terjadi kesalahan mulu ayolah,masa kelas bank gede masih ada kendala sprti ini",3,masuk susah ni oops salah mulu ayo kelas bank gede kendala sprti,0,0,Negative
+6e953d58-eb50-4ba0-b125-9e64e992e25e,sering ngadat,1,ngadat,0,0,Negative
+0d4506ad-924a-412c-85e4-298b9c9164e5,sumpah aplikasii buruk bgttt mending hapus aja dah!!! disuruh update terusss tapiiii sering bgttt erorrr!!!!,1,sumpah aplikasi buruk bgttt mending hapus dah suruh update terusss tapiiii bgttt erorrr,0,0,Negative
+75f8456b-4409-4d5e-bf98-5ca2b657315e,"knp eroe gabisa login ini, lama bgtt terjadi kesalahn terussssss😩😩",2,knp eroe gabisa login bgtt kesalahn terussssss,0,0,Negative
+309a8529-3b53-4ec2-a29a-ccabc0e4d753,"apakah mybca lagi eror ,, kok ada kesalahan terus tiap mau masuk",5,mybca eror salah masuk,1,0,Negative
+8e58db5c-9617-40a5-bdff-273a0f69a9ca,setelah update sering eror g jelas,1,update eror,0,0,Negative
+68076bc0-5b84-43b5-b84e-67364aced6b6,keren,5,keren,1,1,Positive
+7d4afe6a-60d6-4fd9-8439-6ce56a470d65,ini mybca hari ini ada eror kah min? ga bisa transfer sama lihat saldo saya,2,mybca eror kah min transfer lihat saldo,0,0,Negative
+3fc92eae-2401-4a6b-b5e1-2fc78e02cbdc,ada tulisan terjadi kesalahan silahkan coba lagi.. bagaimana solusinya,2,tulis salah silah coba solusi,0,0,Negative
+9c1813b4-4c09-4558-be19-93cb184c44de,"Terjadi Kesalahan saat Login, MENYEBALKAN...",1,salah login sebal,0,0,Negative
+127c8565-0524-4aa7-9a89-85ff57bb5e97,Tolong dong kalo mantainance jangan siang hari saat orang perlu transaksi,3,tolong kalo mantainance jangan siang orang transaksi,0,0,Negative
+ebe955ff-654f-43c6-baa5-e7ac226ac61c,"KENAPA INI GA BISA LIHAT SALDO, MAU TRANSAKSI SUSAH , KETERANGAN SALDO DAPAT DI AKSES BEBERAPA SAAT LAGI",4,lihat saldo transaksi susah terang saldo akses,1,0,Negative
+45ef61b5-5605-4efb-80b0-3b19e8ea8520,gangguan terus dahh bca,1,ganggu dahh bca,0,0,Negative
+20131c10-f2b8-4b38-9960-bea0ea4c1954,"setelah update malah tak bisa log in, BUG parah 😴😴",1,update log in bug parah,0,0,Negative
+25603ae4-ce98-40cd-9a03-ba9d99fcb18f,sayang bngt bcnya bagus aplikasinya jelek bngt,1,sayang bngt bcnya bagus aplikasi jelek bngt,0,0,Negative
+2b4a7e7d-e1d4-419b-877e-4a82a4d425c3,suka eror tiba tiba dan bikin susah saat transaksi,1,suka eror bikin susah transaksi,0,0,Negative
+75a6aaa2-e052-4107-a473-9eb6782505ba,makin jelek masa mau masuk passwordnya bener opps something wrong,1,jelek masuk passwordnya bener opps something wrong,0,0,Negative
+1a006610-7e72-42aa-8e3a-8247b9f02c8d,Gara gara update sekarang ga bisa login...error terus,1,gara gara update login error,0,0,Negative
+0ee7f960-a65b-4a14-88f1-6b8847ab3904,min ini gimana saya masukin password terjadi kesalahan mulu jaringan daya bagus dan pasword nya juga udah bener,4,min gimana masukin password salah mulu jaring daya bagus pasword bener,1,0,Negative
+a4f95c0b-eca4-4692-8881-d28f5f1d5283,"kok mau log in gak bisa, lagi ada gangguan kah?",2,log in ganggu kah,0,0,Negative
+4fad46a2-4805-4cda-b459-8280996a2921,"jaringan eroor gl bisa masuk..wifi bagus sinyal nya kasih 5 bintang,biar tim nya semangat dan kerja nya propesional.,bi",5,jaring eroor gl masuk wifi bagus sinyal kasih bintang biar tim semangat kerja propesional bi,1,1,Positive
+7609696c-4d8f-4ade-98c5-a8d2f0e8f376,👍👍,5,,1,0,Negative
+988b5352-473f-400d-b18e-e21799eafa52,"aplikasi suka error, mulai pindahin deh uangnya jgn disini semua sekalinya error repot",1,aplikasi suka error pindahin deh uang jgn sekali error repot,0,0,Negative
+d0a0ad60-0ed3-4681-91ce-542acbc9b86f,setelah update malah error bukanya makin bagus malah makin ancur,1,update error buka bagus ancur,0,0,Negative
+76c662b0-7b93-47ab-994d-39555f3c6756,seribg gangguan gak bisa kirm ke lain bank,4,seribg ganggu kirm bank,1,0,Negative
+fbe33a38-e2c5-496d-bdc3-963f2ff4f46d,abis di upgrade pasword sudah benar malah tidak bisa masuk,1,abis upgrade pasword tidak masuk,0,0,Negative
+8e995c9a-c25a-4e53-9064-44b90c583d7f,ini kenapa ya tiba-tiba aku g bisa masuk ke MyBCA padahal kata sandi sudah benar. tolong dong pihak bca ini gimana ya,3,masuk mybca sandi tolong bca gimana,0,0,Negative
+b462139c-c3f0-46d4-864b-8f2af562d473,"banyak erornya, mau login pasword udah bener terjadi kesalahan mulu. mana suka tiba"" erornya padahal mau buat transaksi",1,eror login pasword bener salah mulu suka eror transaksi,0,0,Negative
+c64db842-da1f-4de8-bd03-9f9b321912e5,cepat login dan transaksi,5,cepat login transaksi,1,0,Negative
+c9d48f4a-2846-4b5a-9e40-7ae547d4e6db,"banyak bug, saya tidak bisa melihat saldo saya",1,bug tidak saldo,0,0,Negative
+137162c8-409e-49d7-968e-bc2a4a637535,gangguan gk bsa transaksi,1,ganggu bsa transaksi,0,0,Negative
+3e7b512d-feb5-46ba-9364-da0b5c02353f,Setelah Update malah banyak masalah.,2,update,0,0,Negative
+b7a49556-a13d-4f28-b81c-d66bf1f85f2b,kenapa tidak bisa cek saldo?,2,tidak cek saldo,0,0,Negative
+899eca76-8f11-4a35-a6f9-52954a890512,"disuruh update , ikutan update , mau masuk malah kendala",1,suruh update ikut update masuk kendala,0,0,Negative
+4d7184dc-b813-4083-99ed-2035b259ae85,gaje makin update,2,gaje update,0,0,Negative
+9785ff11-eb33-4e35-a4ac-4912d31cda9a,"kenapa habis di update jadi gak bisa di buka aplikasi nya,,, oops terjadi kesalahan terus",1,habis update buka aplikasi oops salah,0,0,Negative
+83b40177-aa72-41a6-af41-107a09eca303,"suka tiba tiba eror, pas mau login dan bayar suka lemot pdhl jaringan bagus",3,suka eror pas login bayar suka pdhl jaring bagus,0,0,Negative
+6f496a5c-f502-4143-a469-cb780361b8cc,bgus cma kdang erorr,5,bgus cma kdang erorr,1,1,Positive
+74e7ce59-98a6-4301-8f4a-1f7c5c2a819d,"kok ga bisa masuk,oops terjadi kesalahan terus padahal udah bener password",3,masuk oops salah bener password,0,0,Negative
+b72d9065-ab60-4b38-88c7-5e7e7d96b1ac,"aplikasi ga bisa dibuka, terjadi kesalahan terus.",1,aplikasi buka salah,0,0,Negative
+09676962-bbb6-4d52-aeec-ceeefbfa9e88,bagusss,5,bagusss,1,0,Negative
+13d01c13-dbc7-4a7f-a928-9a481516746f,lemot. update mulu,2,update mulu,0,0,Negative
+7d68e562-a794-4e59-b77b-456612f8bbcf,sangat mudah dan menyenangkan,5,mudah senang,1,1,Positive
+55651836-d256-433e-b24f-9468b5c2c051,"gangguan trussss, bosan",1,ganggu trussss bosan,0,0,Negative
+c8ee7697-36d7-40bf-a2ad-57fcd6d0c9b0,apk nya kurang kompeten mau kiris aja kadang eror semenjak update terbaru,3,apk kurang kompeten kiris kadang eror semenjak update baru,0,0,Negative
+6a2689be-f844-44e5-9349-a9e0ddfb72ca,"ini kenapa setiap cek saldo sering gangguan terus, apalagi mau payment ada tulisan sedang maintenance terus terusan, kenapa dah ini ????",1,cek saldo ganggu payment tulis maintenance terus dah,0,0,Negative
+58f7f35d-e6c9-4ed7-8228-7ccd7cbd5541,menggangu kalo gangguan di jam jam kerja,1,menggangu kalo ganggu jam jam kerja,0,0,Negative
+ab4a2afb-7a9b-416d-aa8b-41a854c73b78,my bca apakah sdg gangguan,5,bca sdg ganggu,1,0,Negative
+efc5706c-1025-40b5-8054-f99a48697633,aplikasi ini tu knp ya bermasalah trs gabisa buka heran password bener,1,aplikasi tu knp masalah trs gabisa buka heran password bener,0,0,Negative
+d8feeb0c-5d39-4905-a02f-bc916ce47f3b,"gabisa login terus nih, gmna haduuuh update-update doang",1,gabisa login nih gmna haduuuh update update doang,0,0,Negative
+8cf60fe8-a47d-4734-b101-000c4144bb8d,Terkadang sering gangguan,4,terkadang ganggu,1,0,Negative
+91b97c54-9666-4be5-b46a-b904727c5aa2,sering gangguan,2,ganggu,0,0,Negative
+a2594409-3e75-4887-9219-de6af05295d4,lancar mantap,5,lancar mantap,1,1,Positive
+769d8c19-7584-4960-b917-4a7d1fadbb91,ga bisa masuk rip,1,masuk rip,0,0,Negative
+b9bfe8da-2563-4e17-90b2-68f448803a9b,"aplikasi buruk, menginstal/update aplikasi sangat lama, dan aplikasi sering bermasalah",1,aplikasi buruk menginstal update aplikasi aplikasi masalah,0,0,Negative
+1fe185ae-0829-49d5-8b5a-b3fc3be9da67,"semakin kesini semakin bapuk aplikasi ini, padahal jaringan bagus",1,kesini bapuk aplikasi jaring bagus,0,0,Negative
+1f3486f2-2691-4255-99b6-e0fa2d4798bc,hmmm saya mau login ulang tapi pas bagian milih kode negara GK ada Indonesia udah coba di 2 hp yang berbeda sama aja ini maksud gimana yaa,1,hmmm login ulang pas milih kode negara indonesia coba hp beda maksud gimana yaa,0,0,Negative
+3a28cd10-71a9-428b-b66c-bd6f4eb49627,kenapa nih gk bisa login woi,1,nih login woi,0,0,Negative
+816829b7-28d7-4e20-865b-bfa990fa2025,nunggu OTP verifikasi se abad,1,nunggu otp verifikasi abad,0,0,Negative
+fd8798e4-0a82-4f7d-9f7f-5c2705b31b42,"aku sengaja kasih bintang 1 supaya dibaca sama pihak bank nya, kemaren saya transfer dari dana ke BCA terus kenapa saldo yang masuk ke BCA nya terpotong 50 rebu, terus liat di mutasi ga ada riwayat terpotong saldonya,, seharusnya ada persetujuan atau hal pasti kenapa saldo saya terpotong, sayangg tau 50 rebu itu bagi saya bukan uang kecil, itu gajih kerja sehari saya mohon ditindak lanjuti yah k.. kalo bisa secepatnya hubungi no saya biar saya tau kenapa saldonya kepotong",1,sengaja kasih bintang baca bank kemaren transfer dana bca saldo masuk bca potong rebu liat mutasi riwayat potong saldo tuju saldo potong sayangg tau rebu bukan uang gajih kerja hari mohon tindak lanjut yah kalo cepat hubung no biar tau saldo potong,0,0,Negative
+5f927901-1f37-4249-8149-9b3b0099c926,"sebenernya admin tuh di potong 1 bulan berapa kali sih, perasaan tgl 1 udah du potong 14, kenapa tgl 19 kemarin di potong lagi??",2,sebenernya admin tuh potong kali sih asa tgl du potong tgl kemarin potong,0,0,Negative
+95ace503-2123-4352-a313-7d3c463d4430,Good,5,good,1,1,Positive
+c521163d-aa5a-4bd2-99c9-911b10e5430e,susah banget verivikasi wajahnya asu padahal punya sendiri,1,susah verivikasi wajah asu,0,0,Negative
+3732a58a-3c27-4ad2-8cf1-80afc1baa99f,"Pelayanan buruk, sering bug memalukan",1,layan buruk bug malu,0,0,Negative
+976cd7c4-40bd-4409-ad3b-47fe1bc279c0,sangat membantu,5,bantu,1,1,Positive
+693a0e08-0ed2-465c-91e3-f25be6d2e4ae,Biaya administrasinya Memberatkan..Setiap ada Pemeliharaan Ada potongan saldo yg tidak jelas Untuk apa.,1,biaya administrasi berat pelihara potong saldo tidak,0,0,Negative
+5a5c6930-6544-43d1-8219-f072007422a8,sangat membantu. Terima kasih,5,bantu terima kasih,1,1,Positive
+1d9ad236-e81e-43d0-97d6-08b55bed4a89,bagus sekali bisa di pakai di luar negeri,5,bagus pakai negeri,1,1,Positive
+906af4db-f4a4-4de1-8c08-24fc948ee267,"pliss ini gimana kok gabisa bikin bca id harus vermuk tapi giliran ditunjukin mukanya dah ngikutin arahan tetep gabisa tulisannya 'verification failed' padahal kameraku ga buruk buruk amat, pencahayaan juga aman. minta tolong solusinya",3,pliss gimana gabisa bikin bca id vermuk gilir ditunjukin muka dah ngikutin arah tetep gabisa tulis verification failed kamera buruk buruk cahaya aman tolong solusi,0,0,Negative
+ef04d372-a3dd-45e9-a83c-c0be08b05914,mantap,5,mantap,1,1,Positive
+2a7c9f2f-7aea-4688-afc6-21b56d2e165d,sangat bagus,5,bagus,1,1,Positive
+1062ec1c-295b-49c8-b7f4-b12d7af2fb6f,setelah update pada saat dibuka mybca lama banget ga kaya biasa nya😔 tolong agar perbaiki lagi,1,update buka mybca kaya tolong baik,0,0,Negative
+1e56e475-151e-4c06-afe2-69ec0664292c,MY BCA BODOH PERBAIKI KINERJA SISTEM TENGAH MALEM SUKA EROR NGELAG LOGOUT AKUN PADAHAL SUDAH BENAR,1,bca bodoh baik kerja sistem malem suka eror ngelag logout akun,0,0,Negative
+d2b65896-588b-4c51-9c14-a3e83e63c5a4,ok my,5,ok,1,1,Positive
+e1d650e6-a64e-4fe3-a48b-fe1d6bed5adb,APK sangat tidak bagus dan pelayanan kurang baik,1,apk tidak bagus layan kurang,0,0,Negative
+b55385c1-adc5-4ff5-911b-1bc8ca71d52b,"Udah aplikasinya keren, anti leleh dan mudah digunakan, kalau di tambahkan suara notifikasi lebih mantep kayanya deh, seperti aplikasi BRI, ada suara notifikasi khususnya",5,aplikasi keren anti leleh mudah tambah suara notifikasi mantep kaya deh aplikasi bri suara notifikasi,1,1,Positive
+76fc6d94-1b94-4511-aa73-15f2014457e1,ini kenapa yah? kode negara Indonesia gk ada muncul? ini sistemnya kok bobrok banget sihh.,1,yah kode negara indonesia muncul sistem bobrok sihh,0,0,Negative
+3d563bad-272a-41ff-9e24-b81d724feeb6,bagus sih.. tapi terlalu sering suruh update,5,bagus sih suruh update,1,0,Negative
+10701c13-ab04-4095-bd30-72696bc64c55,"bayangin saya tranfer dari mbangkin BCA ke MY BCA masa kepotong 5rb, biasanya juga kaga kenapa ini ?",5,bayangin tranfer mbangkin bca bca potong rb kaga,1,0,Negative
+fbae0ab8-9191-4a94-81de-b4a3f9f5867d,"aplikasi jelek, daftar sja keluar terus...",1,aplikasi jelek daftar sja,0,0,Negative
+6e973f13-117e-4707-b19c-822307c1dfed,setelah di update knapa loginya harus pakek kartu yang terdaftar no telpon di bank .di hp pasangan jadi tidak bisa masuk.masak harus.mindah mindahin kartu,1,update knapa log pakek kartu daftar no telpon bank hp pasang tidak masuk masak mindah mindahin kartu,0,0,Negative
+dd73eaf3-7c9e-47dc-b780-c0b8f9ba9d1c,bagus lengkap,5,bagus lengkap,1,1,Positive
+7e423b86-7a91-4548-baf5-7d7e32dbbfa9,tidak bisa apdet,2,tidak apdet,0,0,Negative
+c135a6a0-52a0-46b3-8eca-4c7664e03663,mantap,5,mantap,1,1,Positive
+92af6775-66ce-4873-8f37-683e9f6229f5,"keren si, cuman memang updatenya sesering itu.",5,keren si cuman updatenya sering,1,1,Positive
+2cda1b6c-768d-4c34-a2aa-c60d664bed57,"melakukan pembaruan malah nggak bisa di buka, padahal urgent untuk di gunakan. menghambat saja !!!!!!",2,baru nggak buka urgent hambat,0,0,Negative
+b1de1fa8-fd14-4212-90a7-865096f8960e,aku uda daftarin no hp lwt atm bca.. tp msh saja ga bsa.. disuruh daftarin mulu no hpnya... gmn sih..,2,uda daftarin no hp lwt atm bca tp msh bsa suruh daftarin mulu no hpnya gmn sih,0,0,Negative
+2f383f7a-66a9-4789-abf6-849bc6c46b72,"aplikasi busuk transfer uang ke dana, pas masukin pin udh bener malah salah malahan sampe ke blokir aneh busuk ni aplikasi",5,aplikasi busuk transfer uang dana pas masukin pin udh bener salah sampe blokir aneh busuk ni aplikasi,1,0,Negative
+9ac956d3-d85f-428e-a369-06aa16f568b6,oyyy gw gak bisa masuk setelah update tgl 19/06/2026,1,oyyy gw masuk update tgl,0,0,Negative
+f8f4b86b-fe50-45d0-aa6d-f4420d5d7bb9,pas mau vermuk selalu ada tulisan turn off depoler apa maksud nya,5,pas vermuk tulis turn off depoler maksud,1,0,Negative
+e6865f6f-6b3a-40e4-b67b-83f3267e6dc7,SAYA STOP PAKAI BCA. KECEWA. BANK LAIN BANYAK KOK.,1,stop pakai bca kecewa bank,0,0,Negative
+32afea84-f2f4-452d-8f20-f42ffd0b0d9a,sangat baik,5,,1,0,Negative
+930e84f1-a97a-4b09-8e11-c98e437dd203,mantap,5,mantap,1,1,Positive
+2a70c909-fca0-440a-9c97-dcc71e27e321,sangat baik,5,,1,0,Negative
+1e4affcf-bc84-4bde-bec5-50fe43179b5e,"tiap hbs update ID suka ke blokir, bangke capek tlfn hallo bca",1,hbs update id suka blokir bangke capek tlfn hallo bca,0,0,Negative
+c8b883ab-ba72-486c-87a7-6708c079acd8,bagus dan bertransaksi lebih mudah👍👍👍👍,5,bagus transaksi mudah,1,1,Positive
+34481f4a-4648-48a8-a226-f85d64d044dc,tidak ada kode negara Indonesia,1,tidak kode negara indonesia,0,0,Negative
+15b2edbd-e97e-44ae-8744-548068790050,Alhamdulillah setelah gunakan aplikasi MyBCA semua transaksi lancar.... 👍,5,alhamdulillah aplikasi mybca transaksi lancar,1,1,Positive
+d8cd3dc3-b018-4635-a2a5-32c7d03a39ad,Alhamdulillah bisa di pakai juga,5,alhamdulillah pakai,1,1,Positive
+267ba621-da01-47a0-b97e-76f15bf5b30f,buka dulu akun ku yang diblokir 207 ribu hilang kalau dibuka baru kita Anggap bank jujur,5,buka akun ku blokir ribu hilang buka anggap bank jujur,1,0,Negative
+6dc16e45-3491-4be0-ba83-b558872eb9c8,sangat puas,5,puas,1,1,Positive
+e09e2500-79d4-4b70-9737-40ac9351d65f,"Setelah di update malah sering gangguan kalau mau masuk aplikasi, sangat mengganggu aktivitas, jadi lama kalau mau transaksi",2,update ganggu masuk aplikasi ganggu aktivitas transaksi,0,0,Negative
+e8ccb653-33d2-4d29-bfbc-8f7f9b5b88ac,"mendadak kelogout sendiri, pas mau login lagi mesti pake otp tapi otpnya gak masuk2 pdhl udah beli pulsa",1,dadak kelogout pas login mesti pake otp otpnya masuk pdhl beli pulsa,0,0,Negative
+4dc8d85e-822f-411d-b579-8197c4c414cc,setelah di update makin lelet.,3,update lelet,0,0,Negative
+d53e6bca-0267-4b23-b67e-691be242bfa8,Perlu penerapan inovasi tingkat tinggi pancanomics untuk peningkatan kualitas fitur aplikasi.,1,terap inovasi tingkat pancanomics tingkat kualitas fitur aplikasi,0,0,Negative
+e3288c53-3025-45fe-948b-e2ddc7238c4d,aneh g bisa buka rekening,1,aneh buka rekening,0,0,Negative
+8e74d22a-dd2a-4cf3-b762-5247cbddac47,hanya masuk ke cash flow,1,masuk cash flow,0,0,Negative
+606e9668-c9b9-45b2-82dd-2d4ae03296b4,mantul sekali,5,mantul,1,0,Negative
+a67f2361-3958-45d8-8270-c3ff38f5b039,bca mantap,4,bca mantap,1,1,Positive
+013cf67d-d1e7-45b1-9046-a7ec39b56b17,aktivasinya lama banget ngirim kode ke email aja lama.,1,aktivasinya ngirim kode email,0,0,Negative
+8f877484-9b0f-43d4-a40e-a4b8b8ae5aae,mantul,5,mantul,1,0,Negative
+ff1bbfe6-763b-46d2-b397-5497584c12ff,woi disuruh masukin nomer hp malah kode negara indonesia ga ada ini gimana yg bikin app kok tolol begini,1,woi suruh masukin nomer hp kode negara indonesia gimana bikin app tolol,0,0,Negative
+1f497ea2-39bc-45f8-bd4e-9b0019078632,aplikasinya sangat bagus dan cepat respon nya juga bagus makasih,5,aplikasi bagus cepat respon bagus makasih,1,1,Positive
+8982f456-e4ab-4b7a-bd75-7376cb2492cd,kenapa BCA gagal transaksi saldo tetap berkurang dan tidak di refund akhirnya hilang duit nya,1,bca gagal transaksi saldo kurang tidak refund hilang duit,0,0,Negative
+56db3b65-ca99-4b87-a498-84c92e0ea1dc,selalu mantap,4,mantap,1,1,Positive
+b719208b-2c3b-4e0e-813d-87ddac6b5fae,kenapa saya masuk ga ada kode nomer indonesia ya,1,masuk kode nomer indonesia,0,0,Negative
+47a0531a-c6d8-4e40-8239-1e4ac46ffa8d,ini kode nomor Indonesia mana sih kok gada,2,kode nomor indonesia sih gada,0,0,Negative
+3258f8af-7499-495e-ac59-d1ac70c19b5b,saat masuk nya lama sekali dan kadang suka tiba tiba keluar,1,masuk kadang suka,0,0,Negative
+566289a4-7a4c-4a33-be02-41cb6419a21d,Mantap,5,mantap,1,1,Positive
+500e5517-b5a0-41b7-8b8c-6636032036d1,"BCA itu Bank paling sadis n Kejam,ga Bs ks solusi n kemudahan utk kita yg di luneg,palagi kalo nelp halobca,jawabannya template semua,ga mau dengar problem kita,asyik nyeroscos sendiri,kirain ini apps Bs kasi kemudahan eh gak taunya,km diharuskan pulang kampung dulu utk daftar di ATMnya pakai kartu ATM br bs dipake,bayangin kartu ATM dah expired,utk pulang kampung aja perlu uang yg uangnya tersimpan di bca,utk yg mau ke luneg sebaiknya jangan pakai BCA,tukar aja uangnya ke dollar, Jd km Bs balik",1,bca bank sadis kejam bs ks solusi mudah utk luneg palagi kalo nelp halobca jawab template dengar problem asyik nyeroscos kirain apps bs kasi mudah eh tau km harus pulang kampung utk daftar atmnya pakai kartu atm br bs dipake bayangin kartu atm dah expired utk pulang kampung uang uang simpan bca utk luneg jangan pakai bca tukar uang dollar jd km bs,0,0,Negative
+44b39b93-6066-4947-b050-9b2e28485c42,Januari 2026 gw bikin ATM...trs GK gw isi saldo..itu tiap hari di TLP nin terus nanya kapan di pake transaksi..kapan transaksi pertama..dah kaya gw punya hutang ratusan miliar aja di tagihin..bulan Juni ini baru gw pake tuh ATM orng byar utang ke gw 200rb..pas gw ambil cuma 160rb..hari ini masih bulan juni tgl 18 temen gw TF 41rb..pas gw ambil cuma 21rb..heran gw..kmna itu sisa nya..masa bayar pajak lagi..Segede itu bayar pajak nya bca.....ini sih bukan bank..tapi lintah darat...,1,januari gw bikin atm trs gw isi saldo tlp nin nanya pake transaksi transaksi dah kaya gw hutang ratus miliar tagihin juni gw pake tuh atm orng byar utang gw rb pas gw ambil rb juni tgl temen gw tf rb pas gw ambil rb heran gw kmna sisa bayar pajak gede bayar pajak bca sih bukan bank lintah darat,0,0,Negative
+dfad532f-c735-4c21-b03a-eb618c432f16,"saya suka dengan bca. potongan bulanan memang lebih besar dari bank lain , tapi bca bisa saldo sampai nol. hebat..",5,suka bca potong bulan bank bca saldo nol hebat,1,0,Negative
+59692c78-23ac-4246-8402-24ed51aadf6a,apk nya bagus membantu tapi kurang di saat login selalu lambat padahal jaringan bagus,4,apk bagus bantu kurang login lambat jaring bagus,1,1,Positive
+7965b1ee-68a8-40c4-a54e-2d33b6e31dc6,aplikasi busukkkk.. sudah sering banget update. tapi masihhhhh aja ngebug,1,aplikasi busukkkk update masihhhhh ngebug,0,0,Negative
+df8e7377-2534-4b8b-82a0-7024f1b633b5,Terlalu ribet,1,ribet,0,0,Negative
+b1b35cbf-72d1-4696-a499-d86e9aaf94c3,"aplikasinya eror terus ini, padahal pasword sama BCA id sudah bener",2,aplikasi eror pasword bca id bener,0,0,Negative
+7eb3b220-202b-4948-a06d-cf91bae8e5ba,duit gw abis mulu apk skem,5,duit gw abis mulu apk skem,1,0,Negative
+aeef9346-d7f0-47dc-b600-5f9b3c171ad7,"berbagai pengalaman transaksi keuangan, mulai 100jt per hari",5,alam transaksi uang jt,1,0,Negative
+40da3d30-d33e-4211-88ab-6a36ea2c6565,Mantap😄,5,mantap,1,1,Positive
+b45bff41-6a6b-48e4-9af1-659f86810890,sangat membantu,5,bantu,1,1,Positive
+8e25fdee-ec26-4fd8-a9ff-ada120fbac95,"anjay berkali vermuk, gagal .. padahal tempatnya SDH terang.. akhirnya pakai BCA mobile saja..",1,anjay kali vermuk gagal tempat sdh terang pakai bca mobile,0,0,Negative
+ea7f26dc-2acf-424b-9606-d4609c2e030c,Yookk Bisaaa Yoookkk Untuk Bank BCA untuk kembankan fitur Qris sumber dana dari Kartu Kredit BCA jangan cuma dari Tabungan aja. Masaaa sekelas Bank Besar BCA tapi tidak ikuti perkembangan Bank-Bank Lain. Malulah dengan nama Besar Bank BCA yang mendunia.,3,yookk bisaaa yoookkk bank bca kemban fitur qris sumber dana kartu kredit bca jangan tabung masaaa kelas bank bca tidak ikut kembang bank bank malu nama bank bca dunia,0,0,Negative
+62827276-103f-4717-8374-f171a69ea12f,Sering terblokir padahal tidak pernah ganti hp,1,blokir tidak ganti hp,0,0,Negative
+4cff3dc2-0ff0-4757-998e-8be1599a7d06,"Kemaren ada yang transfer ke rekening saya, 50rb, tapi kenapa masuknya cuma 22rb?",1,kemaren transfer rekening rb masuk rb,0,0,Negative
+aa33edf8-35bf-409a-9887-c220b3afb8e8,Tolong dong aplikasinya dipermudah untuk verifikasi wajah. Saya matanya minus sehingga gagal terus verifikasi,5,tolong aplikasi mudah verifikasi wajah mata minus gagal verifikasi,1,0,Negative
+492ace6d-646d-4c09-a8b0-252885499777,ok,5,ok,1,1,Positive
+29e8f1c5-6cce-455f-bc7a-751ccfe34d20,makin update aplikasinya makin lemot buka aplikasi my bcanya,1,update aplikasi buka aplikasi bcanya,0,0,Negative
+e683e15e-6e6b-4600-b894-b2ffbe1d7917,"bca layanan bagus mantep,,, slalu d hati",5,bca layan bagus mantep slalu hati,1,1,Positive
+4e328d6f-9b6a-415b-b99b-81d377e9afb6,Jelek banget gak diapa apain tiba-tiba terblokir sendiri aplikasi aneh sekelas BCA masa begini aplikasi perbankan modern nya masih bagusan MobileBCA,1,jelek apa apain blokir aplikasi aneh kelas bca aplikasi perban modern bagus mobilebca,0,0,Negative
+bcdf9ff1-7909-41bb-93f3-e4d77d7ef187,"aplikasinya mantap, memudahkan pengguna",5,aplikasi mantap mudah guna,1,1,Positive
+c9737bce-7091-49bb-a6ff-f3a959745446,Transaksi mudah aman dan cepat,5,transaksi mudah aman cepat,1,1,Positive
+b5524c3e-f850-43a6-b4cb-61a6c4ed3455,mantap dah lanjay...,5,mantap dah lanjay,1,1,Positive
+fd60a2bc-ce38-4683-a869-fcff3a7777d4,sangat membantu,5,bantu,1,1,Positive
+4745f4b0-cc92-4f58-b101-5dbce762f815,bagus dan multifungsi!,5,bagus multifungsi,1,1,Positive
+34ab1aa1-35ae-492e-b5b9-4aad5127def3,Mantap myBCA👍,5,mantap mybca,1,1,Positive
+c432032c-dbfb-4f7d-ae53-ec0cc27245aa,"Kenapa ya sering ke log out sendiri, kadang-kadang juga gabisa login gimana ini apk nya",3,log out kadang kadang gabisa login gimana apk,0,0,Negative
+33e152fe-7904-4389-bdf3-a38226be1318,ini kok kenapa ya akun my BCA saya tidak bisa masuk sama sekali selepas update! minta bantuannya dong,3,akun bca tidak masuk lepas update bantu,0,0,Negative
+200835ab-3276-477a-9356-7cc94d6625a1,aplikasi mantap,5,aplikasi mantap,1,1,Positive
+fc26cc07-3b2a-48ec-9b65-c62a12c8fbae,"apa fungsinya tiba iklan mybca masuk nawarin untuk di unduh, padahal saya sudah punya BCA mobile",3,fungsi iklan mybca masuk nawarin unduh bca mobile,0,0,Negative
+e61944d5-d76d-4286-a0cc-d9b63da80e94,mudah simple dan bnyk fiturnya dan I love my BCA,5,mudah simple bnyk fiturnya love bca,1,1,Positive
+67016308-981b-4af6-b5c4-9f5bf65421b1,sangat membantu dan gampang banget untuk di gunakan dan lain²nya sangat nyaman,5,bantu gampang lain nya nyaman,1,1,Positive
+e1c5f2f5-574f-41d3-8d4b-4fe60b9c2b47,"tolong dong keluhan saya sama dengan kebanyakan orang"",banyak update tapi malah makin lemot,mau transaksi lama banget jadi malu sendiri,SAYA INGAT KAN SEKALI LAGI,BUKAN MASALAH JARINGAN TAPI APK NYA YG LEMOT,HARAP DI BACA DENGAN TELITI KELUHAN KAMI SEMUA,SAYA GAMAU LIAT ALASAN CEK JARINGAN CEK JARINGAN,BUKAN MASALAH JARINGAN,APK NYA LEMOTTTTT,LAMA LAMA GA PADA MAU LAGI PAKE APK INI!!!!!!!!",1,tolong keluh banyak orang update transaksi malu bukan jaring apk harap baca teliti keluh gamau liat alas cek jaring cek jaring bukan jaring apk lemottttt pake apk,0,0,Negative
+76382641-4153-4988-aac2-3f82aae4afd5,"APK GA JELAS, LAGI BUTUH TIBA TIBA LOGOUT PAKE PASSWORD YANG SAMA TETEP SALAH",1,apk butuh logout pake password tetep salah,0,0,Negative
+3aaf4a3b-a03f-4bee-90bd-359b59ab2a56,"parah my BCA.ngebug""",1,parah bca ngebug,0,0,Negative
+3a983b1a-8173-4ea1-9938-94b2d233488e,"verifikasi tidak dapat dilanjutkan, semntara notif pesan sudah info dan verifikasi berhasil tetapi tidak bisa login",1,verifikasi tidak lanjut semntara notif pesan info verifikasi hasil tidak login,0,0,Negative
+c4ab500e-63d6-4da1-8abd-06ec067b76f5,"Terimakasih tutorialnya dengan informasi, institusi, intelektual, investasi, independen, internasional, ECU sistem pengawasan lalu lintas mata uang digital di perangkat lunak desentralisasi Global Holding AI, singkronisasi merajut perdamaian ekonomi dunia yang adil dan beradab, ber KETUHANAN YANG MAHA ESA 💯❤️🙏☝️",5,terimakasih tutorial informasi institusi intelektual investasi independen internasional ecu sistem awas lintas mata uang digital perangkat lunak desentralisasi global holding ai singkronisasi rajut damai ekonomi dunia adil adab ber tuhan maha esa,1,1,Positive
+0bbe2c47-e15a-423e-846d-61f126bf771a,"tgl 30 mei saldo saya hilang 400 ribu tgl 01 Juni saldo saya hilang 100 ribu gak bisa di percaya lagi nih mbangking my BCA, buat mau bikin my BCA,mikir""lagi deh, awas saldo nya ke kuras",1,tgl mei saldo hilang ribu tgl juni saldo hilang ribu percaya nih mbangking bca bikin bca mikir deh awas saldo kuras,0,0,Negative
+05b53560-43ab-4cc8-953b-4ef5cc7ac027,woi buat aplikasi yg bener dong masa kirim kode otp aj selalu gagal,1,woi aplikasi bener kirim kode otp aj gagal,0,0,Negative
+a92a4205-ea03-4a4e-85b6-a5dc8323a744,setalah update di playstore. tidak bisa dibuka aplikasi my bca nya . keteranganya sedang diperbarui padahal sudah slesai update,2,seta update playstore tidak buka aplikasi bca keteranganya baru slesai update,0,0,Negative
+55b56fc2-170c-4feb-960f-8c7f78795723,saya suka,5,suka,1,1,Positive
+ce8dfac8-5899-4b21-a692-89272df21964,"Proses veifikasi wajahnya susah sekali, wajah sudah muncul, sudah ditempat terang, tapi gagal terus.",1,proses veifikasi wajah susah wajah muncul tempat terang gagal,0,0,Negative
+e8bd5015-99a7-4bfc-ac85-312168bd5a47,"Seperti nya myBCA Harus Update.. Buat TAP Kendala Semua.. Sy Mencoba di 5 Produck TAP Baik samsung dan Xiomy Selalu Close Aplikasi Saat Membaca Wajah.. sy.. Sudah Call BCA, Datang Ke Kantor cabang BCA, Sampai Ke Samsung Dan Xiomy Center.. Hasil Nya Aplikas BCA HaruS UPDATE.. Disayang kan Bank Terbesar di Indonesia Kerja IT nya Tidak Di Tes Dulu. Sebelum di Tampil kan di Play Store.. lebih baik apk sblmnya Pakai Foto KTP saja.. Terima Kasih Sudah Membuang Waktu Saya 4 Hari Untuk Masalah Ini..",1,mybca update tap kendala sy coba produck tap samsung xiomy close aplikasi baca wajah sy call bca kantor cabang bca samsung xiomy center hasil aplikas bca update sayang bank besar indonesia kerja it tidak tes tampil play store apk sblmnya pakai foto ktp terima kasih buang,0,0,Negative
+c8d643dc-941b-494b-8451-dd573a7ce3ee,"mbanking ter aneh saya mau login ke akun, malah stuck di kode negara (no telepon) di karenakan kode negara ""Indonesia"" tidak ada",2,mbanking ter aneh login akun stuck kode negara no telepon karena kode negara indonesia tidak,0,0,Negative
+58d6d30f-fdeb-4962-bbcc-9e5574018eb9,lha kok aplikasine sering tiba2 berhenti sendiri pye to kih ! tolong di perbaiki lagi,1,lha aplikasine henti pye to kih tolong baik,0,0,Negative
+a2791be4-6763-4c67-af65-60b5acf3a0e8,"mau login, kok gak ada +62 indonesia.",1,login indonesia,0,0,Negative
+ab42adf2-a889-45dc-9dc3-ecd9b9461192,"Mohon perbaikan untuk pembayaran PBB. Saya memasukkan NOP saya untuk wilayah Kab. Trenggalek, muncul ""No. Objek Pajak yang Anda masukkan tidak sesuai. Mohon periksa kembali"". Semoga segera ada perbaikan sehingga saya tidak perlu membayar melalui online marketplace",4,mohon baik bayar pbb masuk nop wilayah kab trenggalek muncul no objek pajak masuk tidak sesuai mohon periksa moga baik tidak bayar online marketplace,1,0,Negative
+6f37bb23-134b-4f2d-b5a0-d574289fe420,payah,1,payah,0,0,Negative
+52becb89-31ca-4be1-a468-50e60bfc583f,apk myBCA semakin tida relevan begitu sangat buruk loging lemot pas mau melakukan transaksi semakin parah lemotnya saya sarankan untuk yg belum ada apk my BCA lebih baik jangan di download cuma bikin ngeselin,2,apk mybca tida relevan buruk loging pas transaksi parah saran belum apk bca jangan download bikin ngeselin,0,0,Negative
+c2e18648-a16a-40f8-823e-05e7e97ab9d1,"mutasi tidak tercatat penuh, aneh",1,mutasi tidak catat penuh aneh,0,0,Negative
+d61e1eaa-ad22-4b7a-934f-e356e5283461,BCA BANK TERBAIK.,5,bca bank baik,1,0,Negative
+c9ee7cbc-af2a-4ffd-ab03-00e779a81147,lanjutkan,5,lanjut,1,0,Negative
+60b9ebba-c512-40b9-b53f-1293cc78156f,lama banget mengistal,4,istal,1,0,Negative
+e61a0af2-ab9a-42c5-950f-60b47125adb2,sangat bagus,5,bagus,1,1,Positive
+000c1326-9c01-466b-8e35-d263b80235f8,jossss,5,jossss,1,0,Negative
+26c04f43-6401-4a5b-9237-16132c87180c,"selalu gagal verifikasi wajah, harus telepon CS baru bisa. merepotkan.",2,gagal verifikasi wajah telepon cs repot,0,0,Negative
+1b5c0b1a-4481-4f05-9e7d-a7bb0ebc8c92,ok,5,ok,1,1,Positive
+cf796dbb-79fe-4ebc-a5bd-de38aecafb1b,setelah di update semakin parahhhh,2,update parahhhh,0,0,Negative
+91d88131-6536-46c7-a886-69f585254c71,mantap,5,mantap,1,1,Positive
+97efef2a-97d9-4dbe-b815-b9445b2d9d72,👍,5,,1,0,Negative
+f061a9b2-ad00-4eb2-bc6a-7062779dfd1a,"Selamat Tahun Baru Islam 1 Muharram 1448 H Semoga di tahun yang baru ini, iman kita semakin kokoh, rezeki semakin berkah, dan segala doa yang kita semogakan segera diijabah Allah SWT 🤲",1,selamat islam muharram moga iman kokoh rezeki berkah doa moga diijabah allah swt,0,0,Negative
+5c8ff7d7-c928-46e0-9b6e-18bb6429813e,niat hati mau belajar invest reksadana di my bca malah gak bisa daftar data investor harus melalui cabang mulu gak jelas,2,niat hati ajar invest reksadana bca daftar data investor cabang mulu,0,0,Negative
+b678f2e7-80db-4092-a33a-55b08f17d414,"bagus tapi mohon di tingkatkan kualitas""y lagi sering ngebleng lelet.tidak kaya BCA mobile cepet tidak ada lelet",5,bagus mohon tingkat kualitas ngebleng lelet tidak kaya bca mobile cepet tidak lelet,1,0,Negative
+08d203f4-5768-419c-884d-9d162aa8308a,"Semuanya sudah bagus, hanya saja dari segi performa perlu ditingkatkan lagi. [Update] Fiturnya sudah banyak, tapi optimasi performa perlu ditingkatkan agar dapat seringan BCA Mobile. [Update] Tolong tambahkan fitur mode gelap.",5,bagus segi performa tingkat update fiturnya optimasi performa tingkat sering bca mobile update tolong tambah fitur mode gelap,1,0,Negative
+ad863fe5-c11c-4dd4-a15c-fc6e9fe30ce0,"tolong kalau membuat iklan sedikit lebih mudah di lewati karena saya sedang mengedit tugas kuliah saya di aplikasi editor dan muncul iklan bca saya ingin menekan lewati tetapi malah masuk ke bca dan alhasil tugas kuliah saya hilang padahal besok harus di kumpulkan dan bila kalian ingin tahu, saya mengerjakan ini 5jam untuk desain dan video iklan produk yang bagus, sudah hampir selesai malah hilang... saya kasih bintang 5 supaya bisa di lihat kalian semua.",5,tolong iklan mudah lewat edit tugas kuliah aplikasi editor muncul iklan bca tekan lewat masuk bca alhasil tugas kuliah hilang besok kumpul jam desain video iklan produk bagus selesai hilang kasih bintang lihat,1,1,Positive
+79f8480c-db73-41cb-8cb3-9bea49ce646f,pulsa udah abis banyak tapi otp ga terkirim²,1,pulsa abis otp kirim,0,0,Negative
+889c94ff-f481-46ed-b58c-f3ba3bcd64ff,aku juga bingung masa di bawa masuk di pembuatan rekening Mulu dan singkron data gak bisa masukenu my bca,4,bingung bawa masuk buat rekening mulu singkron data masukenu bca,1,0,Negative
+2c3d6365-795f-4481-ad46-d1c8170b3e7d,Terima Kasih Kak,5,terima kasih kak,1,0,Negative
+abe24152-73c6-4ed8-be24-23d1bcc20c0c,"ini kenapa ya,ga bisa masuk padahal selalu bener masukin PINnya terus pasword juga dan selalu pakai fingerprint,gimana si bca,kalau bukan karena untuk kerja tau masalah begini ogah buat pake bca",1,masuk bener masukin pin pasword pakai fingerprint gimana si bca bukan kerja tau ogah pake bca,0,0,Negative
+b60dd9b1-3dca-4404-8df0-a4175f0ef3e3,beli token gak muncul sudah bayar padahal lelet,1,beli token muncul bayar lelet,0,0,Negative
+5f876395-f914-4148-aefc-1ce6aff5777c,"mau masukin nomor telpon tapi kode negara Indonesia ga ada. Ini gimana maksudnya, ga jelas masa negara lain ada kodenya sedangkan Indonesia ga ada",1,masukin nomor telpon kode negara indonesia gimana maksud negara kode indonesia,0,0,Negative
+88f5dd3f-2f39-4801-afce-bf27fa4fffac,potongan gede udh ribet jga,1,potong gede udh ribet jga,0,0,Negative
+8b860ac2-34a0-4d63-a699-7ff8452f7544,sangat bagus,5,bagus,1,1,Positive
+750a13b5-8f74-4d1f-8f00-fa206fb9ad81,ok baik dan jelas,5,ok,1,1,Positive
+b5b06f9d-342f-4721-aead-4af0ec8d7aec,verifikasi kontollll beberapa kali verifikasi gagal gagal terus dah 3 hari tiap kali dicoba gagal gagal terus.payah !,1,verifikasi kontollll kali verifikasi gagal gagal dah kali coba gagal gagal payah,0,0,Negative
+b64634f8-68fb-45f0-b517-9952a75cdbf4,sangat membantu meski tanpa kartu atm,5,bantu kartu atm,1,1,Positive
+d0d7d388-d645-4cb9-b577-c882777dcdfe,tidak bisa untuk verifikasi e-ktp dan wajah,1,tidak verifikasi ktp wajah,0,0,Negative
+8edfedcb-d1aa-4408-aa81-fe269d56d891,ok,5,ok,1,1,Positive
+b278958c-5254-4b7a-ab63-875ab0d5b894,bagus,5,bagus,1,1,Positive
+d8a8ea23-c802-4e1a-94d5-c7a5e0b64ad2,aplikasi sangat membantu di saat genting dan sangat membantu buat bisnis,5,aplikasi bantu genting bantu bisnis,1,1,Positive
+fb3ea4bc-e5a3-476b-a327-53fd92d0aa4b,saya edit ulasan saya karna sekarang aplikasinya tidak pernah mengalami kendala,5,edit ulas karna aplikasi tidak alami kendala,1,0,Negative
+11def4e4-dd6b-404d-989a-4e8764492794,"mau login malah BCA ID nya diblokir, udah chat cs katanya blokiran sudah dibuka dan disuruh reset password, eh katanya no telepon tidak bisa dipakai untuk transaksi, mau coba reset password lagi malah nomor kartu tidak valid, hadeh aneh banget layanannya",1,login bca id blokir chat cs blokir buka suruh reset password eh no telepon tidak pakai transaksi coba reset password nomor kartu tidak valid hadeh aneh layan,0,0,Negative
+b2e3219e-d567-49be-9400-8b70894fd8ee,baru download udah suruh update kenapa ga sekalian aja pas download,2,download suruh update pas download,0,0,Negative
+a377aa50-a92a-4963-b1e5-3adf2452fa2e,"penempatan deposito untuk perpanjangan (Aro) cukup ribet dan membingungkan, Krn TDK bisa merubah Aro sebelum jatuh tempo..bank lain sdh demikian flexible. ini terasa kaku. harus bolak balik lihat Ken kalau terlewat masuk status Aro berikutnya..",4,tempat deposito panjang aro ribet bingung krn tdk rubah aro jatuh tempo bank sdh flexible kaku bolak lihat ken lewat masuk status aro,1,0,Negative
+b2317676-61d3-409e-ab39-e91f10e9506a,kurang masalah notifikasi jarang nongol,5,kurang notifikasi jarang nongol,1,0,Negative
+23e35592-5666-40cb-aee4-5e05b4c8619d,kenapa di hp saya kode negara indonesia tidak muncul?,1,hp kode negara indonesia tidak muncul,0,0,Negative
+06661cf2-1b17-447a-b740-255411fb4ad0,ok,5,ok,1,1,Positive
+620b4ca9-2eb6-4ae7-bb75-e52bf5d4702b,Cepat dan mudah,5,cepat mudah,1,1,Positive
+bf858135-0408-4f45-9825-da82f44dd7b2,dear developer str3ss! adeh adeh daftar harus pake nomor yg digunakan untuk paket saat ini begitu mulu udah bner benr nomor teleponnya itu udh sya cek 100x mungkin tapi tetep pesan itu trus yg muncul aneh aneh. yg salah nomor teleponnya apa aplikasinya ini? apa 0T4K developernya yang error?,1,dear developer strss adeh adeh daftar pake nomor paket mulu bner benr nomor telepon udh sya cek tetep pesan trus muncul aneh aneh salah nomor telepon aplikasi tk developer error,0,0,Negative
+1eb26a82-491f-48c0-9a61-bfd47dff8775,er or pas verifykasi wajah Malah keluar aplikasi atau mental keluar aplikasi mohon diperbaiki buat vivo y93,1,er or pas verifykasi wajah aplikasi mental aplikasi mohon baik vivo,0,0,Negative
+216a6906-6d74-4f23-b3d3-8eae8f8643b5,Lebih simpel dan fitur lengkap✨👍🏻,5,simpel fitur lengkap,1,1,Positive
+a4d5696e-7e79-45f6-bb96-154c362da26b,cukup baik',5,,1,0,Negative
+00ccb5bc-09d6-4ce2-a61e-79f151bb095c,"udah jadi,masuk masak ngulang terus,tolong perbaiki,ngentek2 pulsa otp wae kang, piye Ki,seng genah gawe ne,",1,masuk masak ngulang tolong baik ngentek pulsa otp wae kang piye ki seng genah gawe ne,0,0,Negative
+f62e9e9a-e8ac-4539-8edd-5c099abda37b,"padahal semua data udh bener,tinggal verivikasi wajah aja susah gabisa -bisa..angel",1,data udh bener tinggal verivikasi wajah susah gabisa angel,0,0,Negative
+6c0da210-07a5-476a-b65a-13f5302a7c98,"kok lemot banget min padahal jaringannya bagus, dan pas scroll lagi min",4,min jaring bagus pas scroll min,1,1,Positive
+7bb22ce0-b953-40eb-8e42-99dc70fc3114,"aplikasi bapuk, loading lemot",1,aplikasi bapuk loading,0,0,Negative
+dfd9caa9-b794-4428-aa14-f8a70b38546b,baru maunyoba bismillah aman amanah,5,maunyoba bismillah aman amanah,1,0,Negative
+2047341b-d8bc-4a36-9866-36b927aca6d8,gak ada kode negara Indonesia untuk ngisi nomor telpon,1,kode negara indonesia ngisi nomor telpon,0,0,Negative
+b4e32013-5c5a-42f4-a91e-322a075e455f,setelah update kenapa biometrik saya selalu gagal? agak ribet kalau harus ketik password setiap kali mau login.,5,update biometrik gagal ribet ketik password kali login,1,0,Negative
+4c364247-d96a-4703-ad3c-371a55e3dd63,kenapa kalau kita buka aplikasinya selalu lag padahal ada paket internet dan jaringan bagus. perbaiki dlu itu mengani login ke aplikasinya ngeleg terus,2,buka aplikasi lag paket internet jaring bagus baik dlu ani login aplikasi ngeleg,0,0,Negative
+a1c3dd0b-d569-4a23-b36e-6fd3abcb1e9a,ok,5,ok,1,1,Positive
+b42fda48-2aef-4ecf-af4e-502dc19a91dd,ribet,1,ribet,0,0,Negative
+2a16b732-c818-4915-82d4-7e7967704f20,selvi nya susaah...parah bngtt,1,selvi susaah parah bngtt,0,0,Negative
+618d8dea-b331-465a-87a2-79bfde05de52,aplikasi yang memudahkan nasabah untuk bertransaksi dan berinvestasi,5,aplikasi mudah nasabah transaksi investasi,1,1,Positive
+71e13114-dab5-41dc-9c10-3c42307992b9,sangat bagus,5,bagus,1,1,Positive
+7aaaec8c-8c5a-429e-b570-866e0e53d540,"ganti nomor hp dan ganti kartu expresi via mybca sudah bisa blm ya, dan menu quik akses tanpa login dong",4,ganti nomor hp ganti kartu expresi via mybca blm menu quik akses login,1,0,Negative
+a6646e4c-2197-48c1-9cbb-57ed7d371214,kenapa bca saya tidak bisa dibuka,4,bca tidak buka,1,0,Negative
+83fcff5f-76c1-4816-918f-9161d050e3b8,Sering ngebug padahal app nya enak tp sayang layanan nya harus lebih ditingkatkan,3,ngebug app enak tp sayang layan tingkat,0,0,Negative
+2b304cce-572c-436d-961f-56103fc38597,"saya merasa terbantu n pelayanannya cepet jg ramah,BCA tingkatin trus utk cs n jaringannya ya",5,bantu layan cepet jg ramah bca tingkatin trus utk cs jaring,1,1,Positive
+e0eccea5-e298-4e27-ae03-891023a1ac36,gangguan terus sangat ganggu jam segini belum bisa di buka,1,ganggu ganggu jam gin belum buka,0,0,Negative
+407cea3e-8bc1-4acd-a96c-5d6d14bd2ff6,"alah sekalinya maintaince melebihi estimasi, wooyy di benahin cara maintaince sistemnya, jgn potongan bulanan di gedein, layanan gak di benahin",1,alah sekali maintaince lebih estimasi wooyy benahin maintaince sistem jgn potong bulan gedein layan benahin,0,0,Negative
+d3510a3d-ac33-42aa-9504-498f25946455,"maintence nya ganggu pengguna, sudah di estimasi waktunya. setelah estimasi selesai malah masih gitu juga. sangat tidak puas",1,maintence ganggu guna estimasi estimasi selesai gitu tidak puas,0,0,Negative
+1ca569fd-1594-4b43-89ba-8011d06fbd08,"buka my bca jam 4pagi ini, tulisan nya mah lg pemeliharaan sistem.. lg kenapa dah bca? pdahal udh update an terbaru.",4,buka bca jam pagi tulis mah lg pelihara sistem lg dah bca pdahal udh update an baru,1,0,Negative
+083b639c-d2bd-4128-95a4-20f0aa63a96a,coba kalau pembaruan tu jan terlalu lama ini sampe jam 04:00 udah lewat masih aja tau orang ada urusan mau transfer,3,coba baru tu jan sampe jam tau orang urus transfer,0,0,Negative
+de0b9473-67d7-4ea7-8804-e07c495c1de3,"GEDEG BANGET SAMA SYSTEM PERBAIKAN MYBCA YG TERUS TERUSAN DI LAKUIN DARI JAM 00-04 PAGI KITA KEHABISAN TOKEN MAU ISI HARUS NUNGGU SELAMA ITU, UDAH DI TUNGGU SMPE JAM 4 PAGI MALAH TTP GA BISA HARUS NUNGGU LAGI, JAM 23-01 PAGI GA BISA ISI TOKEN JAM 00 ADA PERBAIKAN SMPE JAM 4 MY BCA NI LAMA LAMA NGESELIN KLO LG URGENT GINI, KOCAK",1,gedeg system baik mybca terus lakuin jam pagi habis token isi nunggu tunggu smpe jam pagi ttp nunggu jam pagi isi token jam baik smpe jam bca ni ngeselin klo lg urgent gin kocak,0,0,Negative
+9a3a8465-b461-496f-a79c-24a6c93c6964,"Ngeselin amat anjrit kalau udah maintenance, lama banget susah kalau lagi urgent butuh uang harus ke ATM dulu jadinya",1,ngeselin anjrit maintenance susah urgent butuh uang atm,0,0,Negative
+2175e534-4a2f-471f-9c8f-908c42499d80,terlalu lama mainstream nya,1,mainstream,0,0,Negative
+553683b3-b433-4f88-9531-f9acbab29a1e,pemeliharaan sistem nya lama banget mending pakai seabank aja,1,pelihara sistem mending pakai seabank,0,0,Negative
+d9983da5-045e-4542-b8aa-1de20c662671,ganguan kok lama sekali di pemberitahuan sampai jam 04.00. udah waktu nya masih gak bisa buka gimana ini,2,ganguan pemberitahuan jam buka gimana,0,0,Negative
+ea96e24d-a5bf-4b8b-af37-95a7962a47c8,kok ga bisa di pake mbangking nya bos? tolong di cek ya nanti saya kembalikan bintang 5.,1,pake mbangking bos tolong cek kembali bintang,0,0,Negative
+e678a7c2-e80b-4a17-91cd-ce65b016cb7c,parah pemeliharaan sangat lama,1,parah pelihara,0,0,Negative
+aeff6206-8c8c-4bcd-8627-bdca97f34299,"parah ini apk,banyakan eror nya",1,parah apk banyak eror,0,0,Negative
+24d395b0-94a0-4f98-afff-47b8b63971dc,ini pemeliharaan lama banget dari jam 00:00 sampe 04:00 kga bisa di akses,1,pelihara jam sampe kga akses,0,0,Negative
+5b3fa93e-a2d5-44e6-a31c-bbd4f7c33580,kelamaan pemeliharaan sistem nya,5,pelihara sistem,1,0,Negative
+affb9c7d-d61d-4c66-892c-d4f6ab9ef074,pemeliharaan sistem lama,1,pelihara sistem,0,0,Negative
+6cf352d5-f902-4ad1-98ae-57ff48a1a6f7,lama perbaikan nya,1,baik,0,0,Negative
+4a480438-7327-42cf-9104-d5ff3d738e14,Simple dan mudah,5,simple mudah,1,1,Positive
+82ae47b1-b8eb-4d82-b5b3-218da2e5a4fc,trimakasih sudah melanyan kita dngn baik,5,trimakasih melanyan dngn,1,1,Positive
+878628bb-988a-4ce2-acee-b105e1134547,kebanyakan update,1,banyak update,0,0,Negative
+f94c4930-4a29-45e1-87b6-fa94408b83b2,giliran urgent maintenance mana lama lagi kalau maintenance,1,gilir urgent maintenance maintenance,0,0,Negative
+a961406c-c0f0-429e-8fa0-ba4118365088,kurang kurangin maintenance nyaa my BCA gw mau transaksi maintenance mulu hadeuhh,1,kurang rangin maintenance nyaa bca gw transaksi maintenance mulu hadeuhh,0,0,Negative
+8c29095c-fcd8-42f1-b686-c252d02d41e2,saya ada keperluan penting tidak bisa login karna pemeliharaan nya lama sekali padahal saya ada keperluan penting,1,perlu tidak login karna pelihara perlu,0,0,Negative
+5e04c9cf-42a0-4fb1-b1b9-1d78f678da79,hdehhhh sangkut amat ya apa lgi ini pemeliharaan GX jlasssss ada ada aja.aplikasi kurang bgus,1,hdehhhh sangkut lgi pelihara gx jlasssss aplikasi kurang bgus,0,0,Negative
+b7d184c5-4533-4a2c-a262-967bec29699a,"mau buka m banking aja GK bisa, masalah perbaikan la apalah, uang disitu semua, mana ATM ku juga gak ada. gak bisa belanja aku perkara perbaikan perbaikan. anjir",1,buka banking baik la apa uang situ atm ku belanja perkara baik baik anjir,0,0,Negative
+58f1780e-3591-4e5a-a87e-931dabd8ce74,cokcokk perkara pemeliharaan 4 jam jadinya gak bisa bayar.,1,cokcokk perkara pelihara jam bayar,0,0,Negative
+0b355eb1-50c4-4633-ad59-891553e01e13,maintenance kelamaan gak jelas,2,maintenance,0,0,Negative
+a3b7d605-f0e1-49f4-aa76-e305d53daac8,saya sedang di area yg tidak ada atm bca indomaret dan alfamart. cuma bisa cash dan qris. sedangkan bca pemeliharaan disaat kita kerja malam. tolong ya... kita butuh di jam malam,1,area tidak atm bca indomaret alfamart cash qris bca pelihara saat kerja malam tolong butuh jam malam,0,0,Negative
+9928d5ff-8e5a-4ee2-b507-10b414a59429,lemottttttttttt sistem lama buat cari yg satset Ng d anjurkn,1,lemottttttttttt sistem cari satset ng anjurkn,0,0,Negative
+77ee647a-f86c-496f-af26-59b12873c5a9,sumpah kenapa si harus maintenance mulu tiap malem?,1,sumpah si maintenance mulu malem,0,0,Negative
+e8cee054-880c-4afd-9f7a-888e58e9974a,ini kenapa sering pemeliharaan terus,1,pelihara,0,0,Negative
+75c17c47-e483-45db-bb79-0a1b949b9cad,knapa gangguan di saat jm 1.00sampai 4.00,2,knapa ganggu jm,0,0,Negative
+df6df814-4e19-4c94-a30f-cc9eb22e351d,bentar .. bentar .. gangguan . GK lama lagi gangguan. macam apa ini ..,1,bentar bentar ganggu ganggu,0,0,Negative
+0e7c813f-6a25-4402-8e9f-e4464a3170f5,good,5,good,1,1,Positive
+6768b259-a04a-4dc6-a931-d79fe1045506,"ga ngasih info klo ad masalah,",2,ngasih info klo ad,0,0,Negative
+7b8634e5-d433-4d10-a4b8-94c01000a4a2,"kenapa setiap pemeliharaan selalu di jam 00.00, trkadang saya ada keperluan di jam tersebut, tapi aplikasi tidak bisa digunakan sama sekali, sangat kecewa berat, aplikasi sebelah setiap ada pemeliharaan masih bisa dipergunakan, dan akan ada info jam nya sebelum pemeliharaan dilakukan, jadi masih bisa antisipasi, bintang 2 pun sudah terlalu bagus menurut opini saya.",2,pelihara jam trkadang perlu jam aplikasi tidak kecewa berat aplikasi belah pelihara info jam pelihara antisipasi bintang bagus opini,0,0,Negative
+d0306500-46d8-4e37-b4c5-516038a8086c,lagi laper tengah dalu pgn mcd.. eh pas byr gabs dibuka .. katanya ada pemeliharaan sampe jam 4 pagi.. astaga.. malu bener dah dliatin org2,1,laper dalu pgn mcd eh pas byr gabs buka pelihara sampe jam pagi astaga malu bener dah dliatin org,0,0,Negative
+74c78362-121f-4e76-878d-3396908e3cb8,"mau bayar tiket kereta pakek qris mbanking mybca malah maintainance , kenapa selalu jam 00.00 🤦🏻🤦🏻🤦🏻🤦🏻",1,bayar tiket kereta pakek qris mbanking mybca maintainance jam,0,0,Negative
+b0846961-748a-49fb-aa61-18880b421e33,kacau aplikasinya sekarang indikator merah terus,1,kacau aplikasi indikator merah,0,0,Negative
+d7a60483-32f4-491c-abc2-7027d8458fb7,Klo bisa mau minta kode otp itu gak harus lah ada pake pulsa,1,klo kode otp pake pulsa,0,0,Negative
+91b0bb07-f53d-4a8c-a8be-48bfa346bef2,hadehh lemot parah sekarang,5,hadehh parah,1,0,Negative
+36793515-e4ae-45cd-bb9a-f0ab10f8dc7c,"dibantu dong min, notif upgardenya. sebelumya kepencet skip.",3,bantu min notif upgardenya sebelumya pencet skip,0,0,Negative
+99a94f45-687d-4006-b8ac-a11020a4b832,kode negara Indonesia gak ada blok,1,kode negara indonesia blok,0,0,Negative
+18002738-f4ec-4522-a693-eeaeaac44405,benerin dong ovt ga masuk masuk pulsa ada sinyal bagus ga masuk masuk,1,benerin ovt masuk masuk pulsa sinyal bagus masuk masuk,0,0,Negative
+03de5a82-6f82-436b-a0f8-9ee7bccdc745,kode region indonesia tidak ada,2,kode region indonesia tidak,0,0,Negative
+50edf7b8-a20b-4be1-bfed-57428c9dc1fa,"gimana yaa lemot banget asli kalo mau buka tuh, tiap buka force close mulu, udah di hapus data dll tapi tetep force close trs....",2,gimana yaa asli kalo buka tuh buka force close mulu hapus data dll tetep force close trs,0,0,Negative
+a7534137-a137-42b7-ae0e-5ff17fcf7d63,aplikasi sangat bagus,5,aplikasi bagus,1,1,Positive
+d2042dc7-cae5-4a6e-8ae6-fce1cf52f7d5,"ini mau login ttpi knpa kode negara indonesia tidak muncul yaa, pdhl saya di jateng",1,login ttpi knpa kode negara indonesia tidak muncul yaa pdhl jateng,0,0,Negative
+5165b6d5-dcb7-4846-90a0-0470e02d9d5a,mau login susah gegara hp ke riset dan berkali2 verifikasi wajah gk masuķ aja. gagal mulu.. masa sih ngedetek wajahnya aja gk bisa aplikasinya di benerin dong.,2,login susah gegara hp riset kali verifikasi wajah masu gagal mulu sih ngedetek wajah aplikasi benerin,0,0,Negative
+853e005f-ae2a-4e6d-b16b-64cd26778db2,good ilike,3,good ilike,0,1,Positive
+fa13ec36-85e1-4bba-a4af-25ecd1d1af5f,gak bisa update,3,update,0,0,Negative
+6cfb4775-319e-424b-9bea-0e5e7e30f35c,bagus,5,bagus,1,1,Positive
+fb6674f9-791f-435b-b508-f184d89e9fb6,verifikasi wajahnya kurang membantu,1,verifikasi wajah kurang bantu,0,0,Negative
+0babd730-fd64-4041-9642-c5a1b5ba3428,"penggunaan gampang, transaksi lancar. ada masalahpun cs cepat tanggap dan terselesaikan. mantap ni BCA",5,guna gampang transaksi lancar masalah cs cepat tanggap selesai mantap ni bca,1,1,Positive
+a039c7a7-1432-40cd-b763-8ab9f898a599,sangat berguna,5,guna,1,0,Negative
+da5495bd-b6c0-4522-b275-37e91891312b,oke,4,oke,1,1,Positive
+6ebdb5d6-c598-4fec-9ef4-478d1936d9c0,"mau top up saldo flazz , transaksi gagal tetapi saldonya kepotong. Mana fiturnya ribet banget uangnya gabisa balik lagi ke saldo kita ( dihubungin gaada respon sm sekali dri pihak BCA ) saya coba top up di ewallet bisaa , walaupun sempet gagal sekali tpi saldonya dibalikin nya cepet ( belajar dari fitur ewallet skrg ) jangan nyusahin nasabah .",1,top up saldo flazz transaksi gagal saldo potong fiturnya ribet uang gabisa saldo dihubungin gaada respon sm dri bca coba top up ewallet bisaa sempet gagal tpi saldo dibalikin cepet ajar fitur ewallet skrg jangan nyusahin nasabah,0,0,Negative
+98a749f9-8665-417c-9625-a7f656ae75f0,Terimakasih membuat transaksi rakyat Indonesia lebih mudah semoga kedepan tetap konsisten,5,terimakasih transaksi rakyat indonesia mudah moga depan konsisten,1,1,Positive
+bc663fc5-3470-42da-9002-6705533ca2e0,baik is the best tp potong tinggi,4,is the best tp potong,1,0,Negative
+7f4a1c88-4cc4-4bab-9ce3-c5d891f2a7c7,👍,5,,1,0,Negative
+8cd47bca-3c73-4715-9ef4-54e9efd9db09,"apk gajelas,tiap dibuka bug, suka errorlah, sering ngebug, jd malas gw buka rekening kalo gak kebutuhan kerja aja kemarin,Ni OTP aja nunggu besok sedangkan gw butuh buat berobat sekarang, apa nunggu meninggal dulu baru diperbaiki?",1,apk gajelas buka bug suka errorlah ngebug jd malas gw buka rekening kalo butuh kerja kemarin ni otp nunggu besok gw butuh obat nunggu tinggal baik,0,0,Negative
+12f6ed28-b859-4211-b1f6-05c4d92b9562,gk ush keseringan update knpa update banyak bug nya tmbh lemot.gk di update gk bisa buka emang ngeselin,1,ush sering update knpa update bug tmbh update buka emang ngeselin,0,0,Negative
+0505c759-d810-4bca-9e7a-046fcfe2d00c,"saya menyarankan transaksi tarik tunai tanpa kartu tidak di batasi hanya 1.250.000 lebih baik di buat sma seperti menggunakan kartu, jdi tidak di batasi pertransaksi, di buatlah pilihan maksimal 5.000.000 bukan hanya 1.250.000",5,saran transaksi tarik tunai kartu tidak batas sma kartu jdi tidak batas transaksi buat pilih maksimal bukan,1,0,Negative
+89110d99-bee6-4508-8c54-3edcf98c736c,perbaili dong pas masuk di suruh pilih kode negara rpi tidak ada indonesia gimana si my bca ini?!!!!!!!,1,perbaili pas masuk suruh pilih kode negara rpi tidak indonesia gimana si bca,0,0,Negative
+d51b7f6b-c608-4332-89c2-d95983574e23,pas reg GK ada KODE HP INDONESIA,1,pas reg kode hp indonesia,0,0,Negative
+ba237f57-dc64-4a8b-8309-01526a06d1cc,ngebug parah... ndk recomend lah,1,ngebug parah ndk recomend,0,0,Negative
+9d1c8e2c-9dc9-4e7f-a79b-1bb27e1f1ac4,sangat terbantu,5,bantu,1,1,Positive
+1c23909d-9ca0-44d4-bd7b-63ea975a346c,"saya sudah chat cs ngobrol bahkan sampai disarankan hapus app buat bisa login dengan biometrik tapi ujung²nya tetap sama aja, setelah liat rating versi hp sama ternyata mereka ngeluh hal yang sama hadehhh. tolong lah login masukin password ketika belanja diluar itu ribet dan berisiko diintip orang juga tolong solusinya ini",3,chat cs ngobrol saran hapus app login biometrik ujung nya liat rating versi hp ngeluh hadehhh tolong login masukin password belanja luar ribet risiko intip orang tolong solusi,0,0,Negative
+944e89fe-8998-493d-ab59-2b0034cc6bad,"kenapa pas login, terus mau mencantumkan nomor telepon tidak ada kode negara Indonesia ya? terus saya login ke aplikasinya gimana dong inii?",2,pas login cantum nomor telepon tidak kode negara indonesia login aplikasi gimana ini,0,0,Negative
+d1d03daf-ace2-4805-9fa9-880a8ebd86e1,baik,5,,1,0,Negative
+ba1a8e68-3a7c-4439-b8cf-cd1ec25b13fe,"sekarang kok susah login sih loading terus,mau bayar qris jadi susah.",3,susah login sih loading bayar qris susah,0,0,Negative
+1eabc93a-8099-46b2-afe8-29205944b272,BCA terpercaya,5,bca percaya,1,1,Positive
+412801ac-4407-4eac-a233-7ac77d17ff7b,"tidak bisa verifikasi wajahpas waktu daftar, tailah",1,tidak verifikasi wajahpas daftar tailah,0,0,Negative
+ef74b73f-a6c8-4f88-9cee-7f3699fc0e0f,"kok gak bisa login , gadak no +62 nya",1,login gadak no,0,0,Negative
+b64ee0d1-1164-44e9-9d57-7efeccda7e1f,suka eror juga,4,suka eror,1,0,Negative
+e791bbd9-c3ed-499e-9db7-a24bedda76b8,"Ganti device dibuat ribet, foto selfie utk verifikasi gagal terus, giliran video call gak bisa nyambung",2,ganti device ribet foto selfie utk verifikasi gagal gilir video call nyambung,0,0,Negative
+af0d950f-d63f-4f32-8176-47949bba9f84,mantap cepat,5,mantap cepat,1,1,Positive
+e2276a58-ee14-486c-965b-fbb52db39c9e,tidak bisa masukan kode nomor telepon,3,tidak masuk kode nomor telepon,0,0,Negative
+9716a20b-3df5-4262-828a-b3bc139dfdb4,"aplikasi busuk, tiap mau verifikasi muka saat pertama kali login, gagal terus, akhirnya harus vidcall CS, kacau",2,aplikasi busuk verifikasi muka kali login gagal vidcall cs kacau,0,0,Negative
+d0f20fb8-5b33-4b52-8126-f6893681bbf2,"gajelas mau daftar telepon tapi gak ada buat Indonesia (+62), hapus aja apk ga guna",1,gajelas daftar telepon indonesia hapus apk,0,0,Negative
+2d20bffc-2caf-4da6-9735-d08d8895356e,bsgus sekali,5,bsgus,1,0,Negative
+02c01442-180e-4209-acb1-858ba8b2ba6f,verivikasi wajah gagal mulu cuma ganti hp doang padahal,5,verivikasi wajah gagal mulu ganti hp doang,1,0,Negative
+d33462a3-bc30-49e3-80a9-469003f63d7a,sangat sangat membantu terimakasih myBCA,5,bantu terimakasih mybca,1,1,Positive
+75916ffa-5d76-4de1-bb4b-1dbee2dbeefa,"verifikasi wajah gagal, padahal muka udah jls, mintol buka blokir via halo bca gk bisa, malah di suruh kecabang, ribet sekarang, gk kaya dulu",1,verifikasi wajah gagal muka jls mintol buka blokir via halo bca suruh cabang ribet kaya,0,0,Negative
+2da8d30b-8617-42d2-b1bf-d254ce394a67,"KELAMAAN UNTUK VERIFIKASI WAJAH, DI SETEL LAGU MULU. AKUN KE LOGOUT PADAHAL MAU GESEK TUNAI. NGEREPOTIN BANGET SUMPAH DAH",1,verifikasi wajah setel lagu mulu akun logout gesek tunai ngerepotin sumpah dah,0,0,Negative
+8c4bfb58-8869-44b2-80bb-0a99f3cdbcbe,"pindah prangkat tapi kesalahan scan wajah. ga bisa login, harus telpon call center, nah masalahnya call center cuma jam 6 - 22 malam. padahal malam harus transfer uang. yang prangkat di lama juga kekunci. alhasil harus ke KCP Bca. tersinggung kadang berasa dicurigai maling bank sendiri. Rating 3,0 pantasan orang asing takut investasi di negeri ini. hhh",1,pindah prangkat salah scan wajah login telpon call center call center jam malam malam transfer uang prangkat kunci alhasil kcp bca singgung kadang asa curiga maling bank rating pantas orang asing takut investasi negeri hhh,0,0,Negative
+ee9290aa-95ad-4be0-b30b-6b52c63e2b34,bagus fitur layanannya,5,bagus fitur layan,1,1,Positive
+ad38c655-c5b2-4584-aaf5-7ddee58cf00e,ups.. terjadi kesalahan mau verifikasi tidak bisa teruss...,1,ups salah verifikasi tidak teruss,0,0,Negative
+5544aa04-715b-41b7-8208-40f0e00550f7,aplikasi paling ribet sumpah,1,aplikasi ribet sumpah,0,0,Negative
+b9352fc3-9ba9-424a-a907-be030448e6ff,lemot,4,,1,0,Negative
+13b12347-7200-40e1-9eb1-65d12abef6c1,"bayar qris sangat sering berkali kali gagal, gk tau di igd sangat mebutuhkan, apk ini sangat tidak rekomend sekali, bagi yg butuh apk cepat tanggap apk ini sangat buruk",1,bayar qris kali kali gagal tau igd mebutuhkan apk tidak rekomend butuh apk cepat tanggap apk buruk,0,0,Negative
+ea6361ac-af78-4386-bc85-4acf3c80899c,lengkap,5,lengkap,1,1,Positive
+48898d31-6915-4818-a73c-217d4e20a691,sering id terblokir,1,id blokir,0,0,Negative
+18ffc87d-3caf-4504-b0d5-02d6fbee754e,setelah di update makin lemot tolong perbaiki lagi bug nya.. mau tf aja loading lambat sampai harus keluar dr aplikasi😭 untung saldo gak ke potong,5,update tolong baik bug tf loading lambat dr aplikasi untung saldo potong,1,0,Negative
+f12d878b-83da-481c-8eeb-521c5ac277b1,memudakan layan kami.sangaat puas,5,muda layan sangaat puas,1,1,Positive
+e71ead5a-2db5-4a0f-8e2f-469b3ab030e1,"Kenapa ya bca ribet banget kalo mau login ..harus perbarui ini itu aku mau login tapi verifikasi wajah gak bisa harus kecabang dulu ,harus perbarui verifikasi wajahnya , asli ribet dan bikin sulit",2,bca ribet kalo login baru login verifikasi wajah cabang baru verifikasi wajah asli ribet bikin sulit,0,0,Negative
+b6f5f3b1-ad67-4c27-86bf-dd96d2a63ad9,tampilkan my BCA saya di branda hp,5,tampil bca branda hp,1,1,Positive
+9155e39d-0514-4f47-95fc-4d94a41059f8,"semalem tf dr e wallet ke BCA tapi sampe skrg belum masuk² padahal dr e wallet nya uda sukses, gimana si BCA ni",1,semalem tf dr wallet bca sampe skrg belum masuk dr wallet uda sukses gimana si bca ni,0,0,Negative
+5abf9266-1a9c-4033-a16d-6c52e5867d15,"kok ga bisa masuk yaa, tulisannya terjadi kesalahan terus... takut ke blokir lama""... aneh banget",5,masuk yaa tulis salah takut blokir aneh,1,0,Negative
+b393a58a-f2a6-42a8-b922-75235f4aeccb,Ribet,2,ribet,0,0,Negative
+a3fb6d2a-7069-4a18-a0b6-0e2013f7a848,sangat mudah,5,mudah,1,1,Positive
+28a3d0b7-d1bf-47f2-b66b-ad64258f002d,"tlong ino gak bs buka aplikasi myBCA di perangkat Xiaomi dengan android versi 16, setiap mau buka aplikasi langsung keluar lagi",3,tlong ino bs buka aplikasi mybca perangkat xiaomi android versi buka aplikasi langsung,0,0,Negative
+1c3ecc3c-dad8-41f3-9963-71b3fcb118b3,yesel daftar uwang sayah g masuk ilang teraster dua kali g ada yang masuk yesel sumpah aplikasi g amanah,1,yesel daftar uwang sayah masuk ilang aster kali masuk yesel sumpah aplikasi amanah,0,0,Negative
+d27a512c-45db-4d20-a267-c166de8f825c,buat vertifikasi wajah gk bisa dan itu berulang kali,1,vertifikasi wajah ulang kali,0,0,Negative
+e1f2cddc-ed8b-4d7c-a6d2-8b09668fedf7,bagus,4,bagus,1,1,Positive
+eb31d3b8-a392-458b-920a-0493808f1215,josss,5,josss,1,1,Positive
+042beeab-d142-4750-bbe0-5974f34f380c,bagus,5,bagus,1,1,Positive
+a347d240-9d71-470b-bc07-9f8aee1d1fe0,halo my bca tolong diperbaharui dong aplikasnya suka lemot dan harus restart terus jd terkendala klu transaksi,1,halo bca tolong baharu aplikasnya suka restart jd kendala klu transaksi,0,0,Negative
+ef7e0ca0-a568-4f40-858c-11a681928518,good,5,good,1,1,Positive
+c383173a-7431-4591-9c11-d00cdc383dc1,setaaan doang.. di update bukannya lancar malah lemot sampai gak bisa di buka. emangnya bca gak bisa cari IT yg profesional.. IT bloon kok di pake..,1,setaaan doang update lancar buka emang bca cari it profesional it bloon pake,0,0,Negative
+1bed95d0-33f0-4a8a-a275-34293680cbb2,yampun ribet banget deh masa kalau mau bikin rekening harus video call iya kalau bisa ini udah coba beberapa kali dan cobanya pas jam kerja masih gak bisa,1,yampun ribet deh bikin rekening video call iya coba kali coba pas jam kerja,0,0,Negative
+f08359fe-59a8-4614-baec-d0a95894569b,saya mengalami kendala tidak bisa. di buka aplikasinya ketika dli klik kluar terus kenapa ya,3,alami kendala tidak buka aplikasi dli klik kluar,0,0,Negative
+7d8af24a-ac3b-4615-8507-5a1eed754800,oke,5,oke,1,1,Positive
+86ee413d-dfc9-42a2-aa5f-e0e5d1291b72,masa dua kali transaksi d potongan nya 150rb ga jelas BCA kapok,1,kali transaksi potong rb bca kapok,0,0,Negative
+1995e810-325c-424b-9944-80c09f5c5f24,kenpa pas mau poto diri sllu ga bisa,1,kenpa pas poto sllu,0,0,Negative
+426f60ce-0a60-45ed-b76c-d8311d7f3dbc,bagus sangat membantu,5,bagus bantu,1,1,Positive
+b89bee8b-a331-4e15-b60b-0a1cb7aa661c,"BCA stress, saldo tiba2 kepotong 50rb padahal admin 15 rb per bulan, gajelas, ga transparan.",1,bca stress saldo potong rb admin rb gajelas transparan,0,0,Negative
+0096ab3e-777b-4391-97ea-70d8ea94eba7,gangguan trus ini gmana dah,1,ganggu trus gmana dah,0,0,Negative
+d5990992-2ea0-4557-9ea9-b41692bf003c,"Gimana ya.. Aplikasinya emang bagus. tapi kenapa pas saya mau login selalu da notif toast ""Matikan Opsi Pengembang""? Padahal fitur itu sudah saya matikan, aksesibilitas juga sudah saya matikan, overlay app juga sudah + Restart Hp. Tapi tetep muncul. Benerin dong. Masa di handphone lain yang opsi developernya nyala aman aja.",2,gimana aplikasi emang bagus pas login da notif toast mati opsi kembang fitur mati aksesibilitas mati overlay app restart hp tetep muncul benerin handphone opsi developer nyala aman,0,0,Negative
+2454302a-f260-4632-b820-7a913a9fa89b,"udah gak support hp kentang, yaudah lah emang paling bener pake dana atau ovo",1,support hp kentang yaudah emang bener pake dana ovo,0,0,Negative
+297da684-6d63-46a7-ab39-91ecb20fd2fe,aplikasi bobrok,1,aplikasi bobrok,0,0,Negative
+cb096395-c299-49ef-9c46-33a02ba4e0bd,apk nya bagus mudah d gunakan,5,apk bagus mudah,1,1,Positive
+0a4dc162-172a-4368-a1c3-fa7bcb7ec9d9,mohon diperbaiki lagi karna Klo Mau Loding Gak bisa2 jadi susah transaksi ujung nya Harus ke bank juga hadeeeh,4,mohon baik karna klo loding susah transaksi ujung bank hadeeeh,1,0,Negative
+069d6f6f-385a-43b0-ae26-68ce6d386ff6,"kenapa setelah hp saya update OS ke android 16, ko kode Biometrik nya gagal terus ya? apa masih ada bug di apk nya ?? atau apk yg blom support ke android 16? atau bagaimana? soalnya sebelum nya gak ada masalah waktu masih os android 15. tolong penjelasan nya. terimaksih",2,hp update os android ko kode biometrik gagal bug apk apk blom support android os android tolong jelas terimaksih,0,0,Negative
+91604cac-1661-4c28-a094-3ee0948ce0f7,"Kurang srek aja dengan mybca sekarang menu makin komplek,aksesibilitas meski di matikan dengan alasan keamanan, lah kenapa ga dibuat protect tanpa harus mengorbankan yang lain. kan kebutuhan orang beda beda. Akhir kata MyBca ga se ""worth it"" dulu",1,kurang srek mybca menu komplek aksesibilitas mati alas aman protect korban butuh orang beda beda mybca worth it,0,0,Negative
+2cd34658-3613-4b96-9b97-d4cd277422d8,saldo tidak masuk ke rekening tujuan,1,saldo tidak masuk rekening tuju,0,0,Negative
+03cdbb03-5261-40c0-a080-264ba2303cd5,aplikasi jelek gak jelas. error terus,1,aplikasi jelek error,0,0,Negative
+585a5a5e-e7fc-4d0e-8d97-0508499df7a6,"gagal login , Kode Negara Indonesia gk ada , makin kesini makin sampah yah ini apk",1,gagal login kode negara indonesia kesini sampah yah apk,0,0,Negative
+045ea7dd-0164-4b5b-b867-964dfd9464a3,"apasih mau registrasi error mulu, app gk jelas",1,apasih registrasi error mulu app,0,0,Negative
+c0475733-4c48-42ee-816b-af54763d05b9,abis di update malah ga bisa masuk,1,abis update masuk,0,0,Negative
+3d4beeed-90c1-4e81-bb98-b210c39f81b1,aplikasi sangat membantu,5,aplikasi bantu,1,1,Positive
+ef70b249-bd9a-41ce-9f8b-cc27d2854cea,ok,5,ok,1,1,Positive
+1c9c29a5-6772-493c-bc93-ce07ad14201c,mau login malah ngestuk di no telepon karna kode negara Indonesia tidak ada,1,login ngestuk no telepon karna kode negara indonesia tidak,0,0,Negative
+60545550-cea6-4f21-a410-0e994387f7d2,sering eror,1,eror,0,0,Negative
+2b356269-612b-461b-8c87-6bc3f41bf1fd,"habiss update jadi lelett poll, transfer dan pembayaran sangat lelet. bahkan untuk sekedar cek saldo muncul ""saldo tidak dapat di akses"" mending versi yg sebelumnya",5,habiss update lelett poll transfer bayar lelet dar cek saldo muncul saldo tidak akses mending versi,1,0,Negative
+773cb2d3-ac0e-4755-9710-e00c31578990,saya selalu mendo'akan my BCA mudah-mudahan sukses & tidak ada kendala di my BCA ini,5,mendo bca mudah mudah sukses tidak kendala bca,1,1,Positive
+88e6fc2f-6c5f-4eb9-85c6-3bd004f5f1be,"kirain apply cc tambahan BCA lewat myBCA cepet,ternyata lama juga",2,kirain apply cc tambah bca mybca cepet,0,0,Negative
+cb30349d-2085-41c2-9b6b-12c8774b4d15,"baru buka rekening, saldo ngilang 50K, sekarang login susah padahal koneksi stabil.",1,buka rekening saldo ngilang login susah koneksi stabil,0,0,Negative
+468c3464-6a23-4702-a561-37710a71eb14,Kenapa saya tidak bisa pakai M Banking ya,5,tidak pakai banking,1,0,Negative
+20a937ea-72d6-4566-8bfd-194d2d3ad578,biometrik error tidak memudahkan,2,biometrik error tidak mudah,0,0,Negative
+6b94d55a-6595-40b4-99dc-053e7e21add3,sangat bagus,5,bagus,1,1,Positive
+a890f6a7-104d-4466-8e62-80ad366e0c1d,"Tidak bisa scan QRIS selalu erorr, tolong segera perbaiki",2,tidak scan qris erorr tolong baik,0,0,Negative
+231c1443-e5ae-4b4d-9a2a-4eeb5a212ad0,good,5,good,1,1,Positive
+20648603-8a78-48e7-8fcf-7ea0e76ee20e,gblg anjg tf 50rb masuk 17rb,1,gblg anjg tf rb masuk rb,0,0,Negative
+540fccf6-51c1-4ec0-9f5b-44a14276f5ff,Dulu pas pertama download apk mybca udh excited banget biar gampang transaksi kalo belanja apapun..ehh ini udh kejadian 2x bayar gacoan pake qris saldo ke tarik ke gacoan nya ga masuk..ke jadian tdi siang sama beberapa bulan yang lalu...selain itu sering update sama sering eror pula.!!!,1,pas download apk mybca udh excited biar gampang transaksi kalo belanja apa ehh udh jadi bayar gaco pake qris saldo tarik gaco masuk jadi tdi siang update eror,0,0,Negative
+26c7eca8-68df-4d0a-b122-ff4328a070f1,susah login,1,susah login,0,0,Negative
+01fe3c85-31e9-409d-9f13-df126ed87f64,"ini PENTING, TOLONG DI PERHATIAN UNTUK PENYEDIA APLIKASI MY BCA, NOMER TRANSFER KE TUJUAN KENAPA SEKARANG NGGAK PAKAI ANGKA YG TEBAL AJA KAYAK DULU??? SEKARANG ANGKA DI BIKIN AGAK NGEBLUR, BIKIN REPOT DAN TAKUT SALAH TRANSFER. MY BCA MAKIN PAYAHHH",1,tolong perhati sedia aplikasi bca nomer transfer tuju nggak pakai angka tebal kayak angka bikin ngeblur bikin repot takut salah transfer bca payahhh,0,0,Negative
+706f6975-aa8a-4f4d-987d-635d32879d47,saya kecewa dg my BCA untuk reset password hanya satu yaitu menggunakan no kartu ATM . bayangkan jika saya kecopetan KTP hilang ATM hilang sedang uang cuma ada di rekening.karna panik salah isi pasword dan untuk reset harus Dateng ke kantor dg harus urus KTP juga . mohon untuk ditambahkan alternatif lain untuk reset password misalnya face identitas.atau fingerprint.....saya baru ngerasain pahitnya jadi nasabah online BCA ..😭😡,1,kecewa dg bca reset password no kartu atm bayang copet ktp hilang atm hilang uang rekening karna panik salah isi pasword reset dateng kantor dg urus ktp mohon alternatif reset password face identitas fingerprint ngerasain pahit nasabah online bca,0,0,Negative
+2e9497f4-e0a3-45f1-b115-f21eeb122a85,di opsi nomor telephone tidak ada code negara indonesia,1,opsi nomor telephone tidak code negara indonesia,0,0,Negative
+a8a6402a-8fd9-4aa8-a118-3d7b63d185b3,Bagus,5,bagus,1,1,Positive
+c4411a8c-641d-4319-9263-7d1638752f4d,aku isi saldo ga masuk ke sistem nya kecewa bgt sih,1,isi saldo masuk sistem kecewa bgt sih,0,0,Negative
+5a9f6abb-c1a2-469e-8948-93660e7d3e66,Alhamdulillah,5,alhamdulillah,1,1,Positive
+cb9c38dc-7aa6-4892-9979-4c03715ad806,dicoba dulu.,4,coba,1,0,Negative
+a0546a03-478e-4349-a847-39d29ffda4cc,eror terus masuk dengan biometrix,1,eror masuk biometrix,0,0,Negative
+5cc33e40-d527-4884-b630-5b79ac4d4547,"SELALU KELUAR, NGABISIN PULSA TERUS, SEKALI LOGIN TBTB CLOSE SENDIRI LOGIN LAGI PAKE PULSA LAGI. NGERUGIIN!!",1,ngabisin pulsa login tbtb close login pake pulsa ngerugiin,0,0,Negative
+e51ded1e-bf2f-4065-a116-a9bd0db8b4e3,"ko bisa y gra2 gw cmn instal doang brpa buln,trus gw dowloand lg pas mau tf pin slh dh jlas2 it pin gw di blng slh.ahira ny ke blokir.",1,ko gra gw cmn instal doang brpa buln trus gw dowloand lg pas tf pin slh dh jlas it pin gw blng slh ahira ny blokir,0,0,Negative
+13662644-faa6-43b1-b38c-2f4b78da1edf,akun saya tiba2 diblokir,1,akun blokir,0,0,Negative
+818fff51-3381-42b9-8a39-953ff6d351ca,mantul,5,mantul,1,0,Negative
+6049987d-8184-4a45-8efb-c1950cfbfba3,sangat kecewa tiba tiba akun saya di blokir saya salah apa uang saya di akun 11 JT lebih tapi my bca tidak bertanggung jawab.,1,kecewa akun blokir salah uang akun jt bca tidak tanggung,0,0,Negative
+5e507779-2d2e-4de7-a092-01ed7890a6d4,kenapa registrasinya TDK berjalan lancar,4,registrasi tdk jalan lancar,1,1,Positive
+fb465bd5-b833-4c39-8241-d3ffed98240d,lemot kali servernya utk dipake sehari-hari. sering sulit login akses,1,kali servernya utk dipake hari sulit login akses,0,0,Negative
+40d2c407-987a-482c-8cce-fb6fde02d389,"KOK NGEBUG GIMANA, UANG TERAKHIR SAYA TINGGAL 100K DI APLIKASI INI GABISA DI AMBIL GTU??!!",1,ngebug gimana uang tinggal aplikasi gabisa ambil gtu,0,0,Negative
+f6f2b40f-9b5e-4eec-8608-39532c72a2d2,bug anjeng aplikasi macam apa ini,2,bug anjeng aplikasi,0,0,Negative
+a6aa6a21-1622-464d-9f53-7ca4c5b81002,banyak bug,2,bug,0,0,Negative
+582bfc28-1443-4ef4-8d88-047c51aa7ed9,good aplikaai,5,good aplikaai,1,1,Positive
+02075e7d-a41b-44e3-b2e1-94aa690b35dd,banyak BUG apk di buka tidak bisaaaaa apa iniiii,1,bug apk buka tidak bisaaaaa iniiii,0,0,Negative
+45fd7aa3-b939-46a8-a9fd-1cdff5711feb,kenapa ga bisa diinstal kehpsamsung m34?,1,diinstal kehpsamsung,0,0,Negative
+1a99972b-2ca6-4102-9504-f46deb1f3be1,kenapa aplikasi inj gk bisa di bug sistem mendeteksi adanya bug di sitem,2,aplikasi inj bug sistem deteksi bug sitem,0,0,Negative
+8ace5a35-cdfe-407d-8fc4-4b98997e9a00,ok,5,ok,1,1,Positive
+0c3b3371-a9b8-4694-a566-f11bbedc11c7,keterangan bug gak bisa masuk tau² keluar sendiri.keterangan suruh nunggu pengembang memperbaharui kesalahan,5,terang bug masuk tau terang suruh nunggu kembang baharu salah,1,0,Negative
+01a4b5d8-9d09-483a-897c-583bb22e629c,ok,5,ok,1,1,Positive
+64e6cad8-6f94-46a4-9924-a297d4caf065,"apk ga jelas keluar""mulu",1,apk mulu,0,0,Negative
+7c213deb-85f7-4d2e-b9ab-d6dc9b8fb3db,sangat membantu bertransaksi,5,bantu transaksi,1,1,Positive
+5e1ba078-b563-4ef4-8544-1876e7aaac7c,kok ngak bisa login pas login kepental sendiri,3,ngak login pas login pental,0,0,Negative
+71418328-7900-40f9-9032-de9d85443bfd,sya mau login ke pental mulu keluar lah masuk lagi gk bisa gimna ini setiap mau login gk bisa pulsa ada tapi gk bisa emng gk jelas buat apa sya vertifikasi?,1,sya login pental mulu masuk gimna login pulsa emng sya vertifikasi,0,0,Negative
+6075cda5-218e-4c8b-88b7-1125f2870413,woooyy kenapa ini apknya ngak bisa dibuka?,1,woooyy apknya ngak buka,0,0,Negative
+71992ae2-32f7-4ab9-b63b-5fec8ced5d43,"tiba2 mybca ga isa dibuka. saya instal ulang jg sama. "" aplikasi ini ditutup , karena aplikasi ini memiliki bug "" knp ini",3,mybca isa buka instal ulang jg aplikasi tutup aplikasi milik bug knp,0,0,Negative
+42eb8016-48e3-461d-9225-f07a00308910,ini lg error kahh gabisa dibuka apknya,4,lg error kahh gabisa buka apknya,1,0,Negative
+ce0bdfdd-1648-420f-bba2-50b7247b8d09,"setelah di update,malah force close mulu.herann deh.",1,update force close mulu herann deh,0,0,Negative
+bf390d42-0f0b-4088-80e0-79c07ddd1481,"setelah update bukan nya makin bagus malah banyak bug, tiap masuk myBCA malah keluar terus ga bisa masuk.. kenapa ini myBCA oy",5,update bukan bagus bug masuk mybca masuk mybca oy,1,0,Negative
+a5e42cf0-e50e-49e2-81f6-5702c6b7a0f1,💩,1,,0,0,Negative
+69df29af-9d0c-4401-a11d-9b5f47083679,good,5,good,1,1,Positive
+d8494b10-0fa5-48ba-8706-1dfbd5b15181,kenapa setiap mau login di dini hari selalu force close?,1,login force close,0,0,Negative
+37676f3e-9fb9-4a03-8062-6ba092a0fe7a,gajelas login gabisa baru aja dibuka udah keluar sendiri,1,gajelas login gabisa buka,0,0,Negative
+021c6e91-1384-45d0-9f71-eb66b3702e67,Apk longor. GK bisa di buka,1,apk longor buka,0,0,Negative
+6fa0a96e-6b6f-4fbf-9564-280dfa8c23db,di buka mendal terus,1,buka dal,0,0,Negative
+af504e48-f5a9-4aeb-8fad-51e2f4550797,udah mulai cepat lafi,4,cepat lafi,1,1,Positive
+73fe7e34-293f-4281-8dde-80ad64939b8d,membantu,5,bantu,1,1,Positive
+e692035f-69eb-4ffc-b1ec-8c83b6750d41,ng bug terus bos,1,ng bug bos,0,0,Negative
+32d2a02a-b6d5-487d-bcda-dcbc0fda8fc7,setelah di up malah gk bisa di buka,1,up buka,0,0,Negative
+eaa70891-e906-4303-988c-48af5059edd8,tidak bisa masuk karena app memiliki bugs,1,tidak masuk app milik bugs,0,0,Negative
+e1235836-6db5-405d-a6f7-4331e293fcba,knpa setelah daftar mlh gx bisa dibuka aplikasinya tolong di bantu diperbaiki ya,3,knpa daftar mlh gx buka aplikasi tolong bantu baik,0,0,Negative
+577c038e-1202-425b-a55a-0cdca0c318ac,kenapa aplikasi nya susah di buka,4,aplikasi susah buka,1,0,Negative
+b46ad4d7-9d59-4fd4-8383-9672c7cc5a63,sering bug lagi buka blokir malah ke luar dan ga bisa masuk lagi,2,bug buka blokir masuk,0,0,Negative
+60bdf9c7-7196-4c08-82a8-9230b720d728,kenapa setelah update malah gak bisa di buka aplikasinya,3,update buka aplikasi,0,0,Negative
+ba00a878-f1df-4263-a145-e63620f73b71,aplikasi apa sih ini transfer masuk nya lama,1,aplikasi sih transfer masuk,0,0,Negative
+ba3d0d46-f395-4b30-a213-83c9bf5c7eaa,jangan berikan data saya digunakan orang lain,3,jangan data orang,0,0,Negative
+cff370d7-7c86-46bb-8516-9c13d8dc8304,susah banget dapet otp ga jelas,1,susah dapet otp,0,0,Negative
+c6fb3a17-9958-4705-b3cf-dc2c9da5b0fc,"contoh aplikasi brimo tuh ,, setiap transaki langsung ada mutasi /aktipitas nya ,, ini mah gak bisa langsung cek hasil teransaksi ribettt",3,contoh aplikasi brimo tuh transaki langsung mutasi aktipitas mah langsung cek hasil teransaksi ribettt,0,0,Negative
+80c7e9c2-ac6e-4c41-8819-176eb4c9c7ae,mantap,5,mantap,1,1,Positive
+3e408257-5e04-4d49-aedb-f77b0c3ca541,gajelas,1,gajelas,0,0,Negative
+7e9a1be3-dc11-4cbf-97f9-fb29e00febc9,bisa gak kirim kode otp lewat wa atau email,5,kirim kode otp wa email,1,0,Negative
+a1ffe31f-261b-4df1-bc42-bba319db25a7,"lemot banget bukanya, kadang pas tf loading nya lama, padahal sinyalnya ok, sangat mengganggu",2,buka kadang pas tf loading sinyal ok ganggu,0,0,Negative
+2dd4168d-f5f4-4976-9445-4077461264ef,"kenapa skrang lemot,mau masuk aplikasi susah banget 🥲",1,skrang masuk aplikasi susah,0,0,Negative
+3e6f0607-6234-4439-92d2-f6bed04b4a1c,bank gajelas ribet banget cuma bikin rekening bank aneh banget,1,bank gajelas ribet bikin rekening bank aneh,0,0,Negative
+e9492b99-2720-4b79-abd5-af001dcc7b91,pasword id MY BCA saya kadang bisa di gunakan kadang tidak aws ya kalau gini terus AQ angkat urusan yang ini. ddi rapat umum pemegang saham tahunan ( RUPS) sumpah ganggu banget sama pelayanan m bbekingnya,3,pasword id bca kadang kadang tidak aws gin aq angkat urus ddi rapat pegang saham tahun rups sumpah ganggu layan bbekingnya,0,0,Negative
+9fceec41-17e4-4d1c-bcc8-b02fa5eb7dd5,kenapa stelah login harus tambah kan no handpone padahal no handpone sudah terdaftar dan aneh nya kode negara indonesia tidak ada,3,stelah login no handpone no handpone daftar aneh kode negara indonesia tidak,0,0,Negative
+08f64085-1fc5-4efd-b2b5-dde004ec31e9,luar biasa,5,,1,0,Negative
+f3e8706b-422d-452b-9622-346e52a9a38d,tolong dong my bca setelah update ko jadi lemot banget ya,3,tolong bca update ko,0,0,Negative
+40201ae3-3204-46f5-8e34-d5418b04972a,"tiap hari trouble muluuuu, mau masuk gabisa2 mulu. heran",2,trouble muluuuu masuk gabisa mulu heran,0,0,Negative
+b2b28e74-31c0-43d0-ba60-e56ed6c757e1,"bikin aplikasi bagus2 tapi pengaduan ttep harus call.. gimana sih, mau lapor pengembalian dana karena top up flazz gagal tapi saldo kepotong. harus call. duitt lagi",1,bikin aplikasi bagus adu ttep call gimana sih lapor kembali dana top up flazz gagal saldo potong call duitt,0,0,Negative
+ff144582-c696-4e71-ab87-b90d60405179,Trima kasih myBCA yg dengan sangat mudah membantu menggunakan dalam bertransaksi sehari hari,5,trima kasih mybca mudah bantu transaksi hari,1,1,Positive
+1480542c-8523-43dd-b77c-08b96bbc4f13,kenapa gak bisa daftar online ya kenapa jaringan nya rifak berlaku nasional? ada yg bosa ada yg tidak? mau ngambil data doamg ya,1,daftar online jaring rifak laku nasional bosa tidak ngambil data doamg,0,0,Negative
+111cf5d4-1c31-4ebc-bb63-d26a69ded244,bagus,5,bagus,1,1,Positive
+11f4c1a2-31e5-45c3-8e35-f478ae118603,ini gimana ya ko saya kaga ada kode negara indonesia?,1,gimana ko kaga kode negara indonesia,0,0,Negative
+42c34e4b-07f8-4a66-aa1a-a01eb0ab42e9,"pdhl di apk warnanya bagus n lucu jir, kirain pas kartunya dicetak ikut kaya diaplikasi,, malah biasa aja warna biru wkwk kecewa dikit",5,pdhl apk warna bagus lucu jir kirain pas kartu cetak kaya aplikasi warna biru wkwk kecewa dikit,1,0,Negative
+c7039018-c769-4cd1-bd89-eb41428efe85,ok,5,ok,1,1,Positive
+2bdc0be8-0fe5-4ce8-b296-1286b381cb78,"apakah saya bisa mendaftar apk mybca , karna saya blum punya kartu bca",5,daftar apk mybca karna blum kartu bca,1,0,Negative
+53230950-802e-482e-9e64-068fb05003c9,parah ada masalah sat login suruh vermuk gagal trus udah lapor sama bae harus vermuk sedangkan vermuk gagal mulu parah,1,parah sat login suruh vermuk gagal trus lapor bae vermuk vermuk gagal mulu parah,0,0,Negative
+748e6470-1ecb-4fcb-9743-77fd10edfd2c,Setelah di Update KeNaPa Jadi LemoOotttt. . . .,2,update lemoootttt,0,0,Negative
+5e9166d5-ca96-4d09-94b9-c1c5dea8864a,password bener tapi disalahin aneh,1,password bener disalahin aneh,0,0,Negative
+0d2123b5-db59-43cf-9ca2-3f7f2c0f03f3,gajelas pindah device gagal mulu. video call cs juga gabisa tersambung. banyak bug aplikasinya,1,gajelas pindah device gagal mulu video call cs gabisa sambung bug aplikasi,0,0,Negative
+07c9c627-97bc-46e8-b691-e362843fa466,susah verifikasi wajah pas login dihp baru.. pdhl smuanya mengikuti arahan,3,susah verifikasi wajah pas login dihp pdhl smuanya ikut arah,0,0,Negative
+bbdb7548-9dba-4d5a-a29c-dfacef6f41e7,gaenak admin trossssss,1,gaenak admin trossssss,0,0,Negative
+d4ea3ff9-096d-4750-bd5d-e3a26c3b297a,bagus aja,5,bagus,1,1,Positive
+58bdb58d-56d5-4c87-987f-2a1a330fc39b,cukup membantu,5,bantu,1,1,Positive
+469e328f-8227-4ef1-9497-c5382007ec1e,kenapa sekarang ga ada menu masuk dengan sidik jari,5,menu masuk sidik jari,1,0,Negative
+b619ec8f-091e-45d5-bf5d-8bca53d63f58,sya kecewa banget padahal sya udh lama pake tpi mengecewakan sekali🙏di toup ratusan yg masuk cmn puluhan ribu🙏,2,sya kecewa sya udh pake tpi kecewa toup ratus masuk cmn puluh ribu,0,0,Negative
+340e107d-f808-492a-9bf3-01dbf58fa060,"sebenernya agak ribet ya my bca ini kalau mau buat bca id harus kekantor terus saya mau tf belum bisa dan harus aktivasi kekantor juga,",5,sebenernya ribet bca bca id kantor tf belum aktivasi kantor,1,0,Negative
+da45c167-0526-4ae0-a4d7-4b0c19dbda5f,Bagus,5,bagus,1,1,Positive
+2fa10150-af36-403f-9f4d-30abd1569f41,muak udah sama ni aplikasi udah mah login ga bisa bisa eh udah bisa malah minta login lagi habis habisin pulsa aja tolong nih di bantu pihak BCA masa iya BCA gini malu malu in,1,muak ni aplikasi mah login eh login habis habisin pulsa tolong nih bantu bca iya bca gin malu malu in,0,0,Negative
+3a55b8d1-4e22-4161-a595-ae6404c28847,bru kmrn udah bisa buka tapi error smpe 2 hari ga bisa login my bca permintaan masukan nmr tlp dan adaa kode negara cm indo ga ada gmn ini mau login,3,bru kmrn buka error smpe login bca minta masuk nmr tlp adaa kode negara cm indo gmn login,0,0,Negative
+f3777411-7fd8-490b-bd32-2e3dbfc3096e,"Saya tidak diterima jadi Nasabah BCA, walaupun punya gaji tetap sebagai ASN. Tapi temanku yg blom punya kerjaan tetap diterima. Kocak 😅",1,tidak terima nasabah bca gaji asn teman blom kerja terima kocak,0,0,Negative
+7509dc9a-680a-4ba7-b863-5a8b5e8f02bc,mau login suruh update di klik malah muter2 doang,1,login suruh update klik muter doang,0,0,Negative
+c423701b-e76d-4736-826f-323eac1ecfb2,"transferan dari luar negri kalau hari libur dan tanggal merah selalu pending, di Terima pas hari kerja, kalau bank lain hari apapun bisa tanpa pending",1,transfer negri libur tanggal merah pending terima pas kerja bank apa pending,0,0,Negative
+e2c1c681-7198-4560-ae96-ddaabe0bad5d,masa setiap bulan potonga 80rb😬😬😮‍💨,1,potonga rb,0,0,Negative
+09365370-91ed-4aec-b1b7-d50642749115,saa kasik 2star karena kesulitan reset pasword id MyBCA padahal data roaming dan pulsa ada namun saat login tertulis terjadi kesalahan silahkan coba lagi.. skrg saya dimalaysia. tolong lah bca reset bamking pasword yg lin tidak maslah numun ini mybca sulit sekali... tolong masukan pihak bank bca agar mybca saya bisa digunakan kembali. trims kasih,2,saa kasik star sulit reset pasword id mybca data roaming pulsa login tulis salah silah coba skrg dimalaysia tolong bca reset bamking pasword lin tidak mas numun mybca sulit tolong masuk bank bca mybca trims kasih,0,0,Negative
+6975997d-3fe9-4b9d-947b-5130c48ae4cc,ok,5,ok,1,1,Positive
+95aa031b-f16b-4284-b6a1-d8621ab773f7,semakin kesini layanan aplikasi my BCA tambah ancur... verifikasi wajah hampir 30x gak ada yg berhasil.... call costumer service malah menyalah kan jaringan... macam lempar batu sembunyi tangan ajah kau bca... payah,1,kesini layan aplikasi bca ancur verifikasi wajah hasil call costumer service salah jaring lempar batu sembunyi tangan ajah kau bca payah,0,0,Negative
+7a7265f1-2003-4ea0-92bf-f6892c783e2f,top,5,top,1,1,Positive
+13689c03-18f8-482e-bcbc-5d9fc98b9fdb,"kenapa ya ini aplikasi sering uninstall sendiri? padahal ga aku hapus / uninstall. udah diinstal besoknya hilang (uninstall sendiri), aku instal lagi hilang lagi, gitu aja terus setiap hari. cape banget dah harus tiap hari instal lagi dan lagi.",1,aplikasi uninstall hapus uninstall diinstal besok hilang uninstall instal hilang gitu cape dah instal,0,0,Negative
+e6ccb4f4-996e-4537-bfbd-f3e4cf6f994e,sangat membantu sekali,5,bantu,1,1,Positive
+d4165566-b0e2-4339-bc8e-b80182455fb7,ngelag bgt bca skrg gasuka. pdhl sinyal aku bagus,1,ngelag bgt bca skrg gasuka pdhl sinyal bagus,0,0,Negative
+13f7cbfb-f5ae-4258-9221-bee260a86e74,"login susah minta ampun, minta otp pakai pulsa, mau verifikasi wajah gak bisa, apa harus pakai lampu mercusuar baru bisa wajah tampan saya terdeteksi? aneh.",1,login susah ampun otp pakai pulsa verifikasi wajah pakai lampu mercusuar wajah tampan deteksi aneh,0,0,Negative
+b37e8910-68ac-44cd-b6a7-e6bdb1875333,login lemot,2,login,0,0,Negative
+78c93023-f1bf-49fb-9c25-4c441bc9b15e,buka aplikasi nya aga susah sinyal,5,buka aplikasi aga susah sinyal,1,0,Negative
+b6fd8f20-a0c9-48cd-8c53-384f2e47edb8,"hati-hati jika transaksi gagal dari pihak bank susah mengembalikan kembali saldo, perampokan jaman now!! sampai saat ini saya belum mendapatkan pengembalian uang qris yg dipotong (msh dalam proses) dr tgl 12 mei 2026",5,hati hati transaksi gagal bank susah kembali saldo ampo jaman now belum kembali uang qris potong msh proses dr tgl mei,1,0,Negative
+d278b6c3-967d-4b52-8f9c-270074db646d,reset password paling ribet.. Udah pernah pakai aplikasi bank lain dan aman² aja.. tapi baru kali ini komplain aplikasi bank.. mengecewakan,1,reset password ribet pakai aplikasi bank aman kali komplain aplikasi bank kecewa,0,0,Negative
+5eb81064-514e-420e-83ce-bdd0c673096b,"Tidak ada pilihian No HP Negara Indonesia, tidak ada",1,tidak pilihian no hp negara indonesia tidak,0,0,Negative
+5570b9f6-238a-4cfe-81fb-923d17af984a,"bagus, lebih bagus dari bca mobile",5,bagus bagus bca mobile,1,1,Positive
+fa6a2189-d46b-490e-a4cd-7ec70e2e6e91,selalu aja gagal bikin rek,1,gagal bikin rek,0,0,Negative
+ba7eef39-133e-476a-8dff-3aa4c487e5ad,eror parah masa BCA id sama password udah bener masih gak bisa login..??,1,eror parah bca id password bener login,0,0,Negative
+d5642cac-9318-4447-b208-99b4886c2f68,blm ada pengalaman,5,blm alam,1,0,Negative
+c5088998-8226-4571-93a5-555076d57588,"saya mau registrasi di mybca. lalu di tahap vidio call dengan CS kenapa gk bisa2 udh seminggu lebih saya coba tiap hari. selalu keterangan nya ""oops terjadi kesalahan silahkan coba lagi"" masaaa begitu terus. jaringan saya stabill. bahkan di coba pakek wifi pun masih sama",3,registrasi mybca tahap vidio call cs udh minggu coba terang oops salah silah coba masaaa jaring stabill coba pakek wifi,0,0,Negative
+a0f20d31-1f08-46c4-966d-9dd17edf7694,"update aplikasi terus log out sendiri, pas login minta lagi nomor buat verifikasi tapi gak ada pilihan Indonesia (+62) buat kode negara, ya gimana bisa login. mantap 👽",1,update aplikasi log out pas login nomor verifikasi pilih indonesia kode negara gimana login mantap,0,0,Negative
+38a0c9da-b5e3-4bba-8c5b-9f91326337c3,"memudahkan semua segala transaksi,, good bangeet",5,mudah transaksi good bangeet,1,1,Positive
+c9e7bf02-5ce3-4c9b-8323-353c47cbb105,"sangat membantu, mudah dimengerti",5,bantu mudah erti,1,1,Positive
+9aaa324b-f027-4d12-98aa-ad0de2fbadd7,bagus,5,bagus,1,1,Positive
+94d5adfc-7b01-4f61-a1da-f854c2c57023,gangguan terooooossssss. lagi urgent malah gangguan.,3,ganggu terooooossssss urgent ganggu,0,0,Negative
+a55d1eef-d25e-4dfd-ae2a-d6915ac7aad9,trimakasih myBCA,5,trimakasih mybca,1,1,Positive
+8f298e6c-9e48-47fb-82c0-1f9a2470c0ec,"biaya admin xpresi di saya 10 rb, di teman saya 2 rb, apa yang membedakan biaya ini",2,biaya admin xpresi rb teman rb beda biaya,0,0,Negative
+c21fbb86-f51d-428e-8533-900caf354e7e,Setelah d update gak bisa login malah terblokir info k cs katanya di bantu malah tetap gak bisa . payaaaahhhh,2,update login blokir info cs bantu payaaaahhhh,0,0,Negative
+a185d1af-3a54-4ba3-84d0-44c3e6e8ebdb,tidak senang sekali kecewakan aja ku meskin,1,tidak senang kecewa ku meskin,0,0,Negative
+ad406542-c265-4d2f-a327-5fb2253be304,ga bisa nerima OTP pengaturan sudah di izinkan semua,4,nerima otp atur izin,1,0,Negative
+853b3c6b-e8c5-4f2b-be5f-ee3e8c152663,"semoga segera di perbaiki aplikasinya mybca, karena setelah update terakhir beberapa transaksi sering tidak dapat diproses dan ketika sudah melakukan transfer juga delay notif uang keluar. overall good hanya perlu segera diperbaiki agar jauh lebih baik.",4,moga baik aplikasi mybca update transaksi tidak proses transfer delay notif uang overall good baik,1,0,Negative
+7dd9feae-7a67-47b9-bcf5-09ea569d0cab,ganti device mau login lagi ajasusah,1,ganti device login ajasusah,0,0,Negative
+05ca4770-4890-4df4-a72b-5d1817ce2505,"biometriknya sering eror, padahal untuk login aman",3,biometriknya eror login aman,0,0,Negative
+68538a41-0bda-46e3-a510-f6089e50c9f9,nambah pengalaman dan pengetahuan,5,nambah alam tahu,1,1,Positive
+e6fe1e07-e5b2-4e14-8467-592b562ab5fc,semoga tetap amanah dan selalu aman .. untuk sekarang aman aman saja,5,moga amanah aman aman aman,1,0,Negative
+72beb0ac-aa18-4396-9b65-e7ba0c6bc975,"gajelas verif muka di hp sendiri gagal mulu, verif di hp temen bisa hadehh",1,gajelas verif muka hp gagal mulu verif hp temen hadehh,0,0,Negative
+c62f82c8-450c-4677-a651-ad5698ab948a,mau masuk tapi susah banget. pas masuk suruh masukin nomor tp pas pilih kode nomor malah ngga ada indonesia. my bca malah tambah ribet sekarang dah,3,masuk susah pas masuk suruh masukin nomor tp pas pilih kode nomor ngga indonesia bca ribet dah,0,0,Negative
+1e8fe9be-d516-4840-af5a-4872dee73e10,Aplikasinya lebih payah dr yg sebelumnya,1,aplikasi payah dr,0,0,Negative
+0b05904e-69a4-4989-a150-9edb74adaeaf,"ko aneh bayar admin 1 bln bisa 2 kali potongan, tgl 1 10rb sama tgl 15 10rb punya kalian sama ngga sobat",1,ko aneh bayar admin bln kali potong tgl rb tgl rb ngga sobat,0,0,Negative
+f8f594e3-bc76-4767-a0d2-ea63d1dc8e5e,"sbnernya permaaalahnnya apa ya ko tbtb uang tbtb hilang 50rb lebih , jujur ga 1 2 kali aku ngalamin hal tersebut , aku jga udah coba ngosongin beberapa hari trus tf dengan nominal 50 di mbangking ku juga ga msuk pdhal sudah sesuai , tapi gmna lagi ya soalnya aku gajian juga mke bca , tpu jujur rugi bgt kalo tiap bulan uang hilang mulu huhu , di cek dimutasi jga gada transaksinya lagi hadehhh bgt deh",1,sbnernya permaaalahnnya ko tbtb uang tbtb hilang rb jujur kali ngalamin jga coba ngosongin trus tf nominal mbangking ku msuk pdhal sesuai gmna gaji mke bca tpu jujur rugi bgt kalo uang hilang mulu huhu cek mutasi jga gada transaksi hadehhh bgt deh,0,0,Negative
+013b743d-f17d-49f6-ac95-bdc1ed2155ca,"saya setor tunai di salah satu mesin ATM setor 2jt yg masuk cuma 1.9jt..jd uang saya hilang 100rb gt,saya adukan jawaban cs gak enak ,tak memuaskan katanya ini lah itu lah mau ditangani pihak terkait bodo amat ,mau saya adukan ke ojk cuma 100rb biarlah wes Lo makan saja uang ku",1,setor tunai salah mesin atm setor jt masuk jt jd uang hilang rb gt adu cs enak muas tangan kait bodo adu ojk rb biar wes lo makan uang ku,0,0,Negative
+5e03b1d1-fccf-436a-905d-adce41c2a0ee,"hallo kak, saya ingin login ke mybca tapi hp saya gabisa verifikasi muka karna kameranya rusak, boleh izin di bantu",5,hallo kak login mybca hp gabisa verifikasi muka karna kamera rusak izin bantu,1,0,Negative
+453d8b47-eecd-4656-933b-dfb86555c910,Kenapa sih harus up date ?,3,sih up date,0,0,Negative
+6c1efcd4-ecf4-465e-8c9e-3d521a600d7c,"sy mau login di aplikasi, setelah masukan username dan password lalu meminta nomor hp, tapi ga ada pilihan untuk kode negara indonesia, kenapa ga ada negara indonesia??? 😌",1,sy login aplikasi masuk username password nomor hp pilih kode negara indonesia negara indonesia,0,0,Negative
+988a72da-33a9-44a4-adce-ac14c0f2d354,daftar pakai wifi dikira vpn dan pakai paket data koneksi bermasalah. mau apakah?,1,daftar pakai wifi vpn pakai paket data koneksi masalah,0,0,Negative
+006f89bb-b8d0-48ab-822e-b041763f1985,mybca keluar sendiri lanjut minta login keluar lagi login lagi terus begitu dari 3 hari yg lalu,2,mybca login login,0,0,Negative
+dc8c2924-415e-4e7b-aac9-7d2f475cf2f1,"apk simpel,, semua jd mudah",5,apk simpel jd mudah,1,1,Positive
+8ab44618-d791-4fc5-8ab4-a3624dc1de6a,brengsek verivikasi wajah nya susah banget... angus aja duit gua ga bisa masuk mbca,1,brengsek verivikasi wajah susah angus duit gua masuk mbca,0,0,Negative
+55c2d160-eb21-448d-adc1-a063070bbc9a,"setelah diperbaharui kok susah login yaaa, ada yang bisa bantu jelasin?",1,baharu susah login yaaa bantu jelasin,0,0,Negative
+8c54da4c-354b-41d4-b60d-488ae0d56e19,"admin help kenapa OTP gagal malah nyeret email saya, saya baru migrasi nomer hp dan apps mBCA ke MyBCA",1,admin help otp gagal nyeret email migrasi nomer hp apps mbca mybca,0,0,Negative
+0adfbb6e-f5f0-4675-b978-8bd5fbdda61e,"saya ganti hp dg operating system yg lebih baru dari hp lama saya tapi pas verifikasi wajah kok selalu di tolak ya, tp pas verifikasi wajah d hp lama saya selalu berhasil",2,ganti hp dg operating system hp pas verifikasi wajah tolak tp pas verifikasi wajah hp hasil,0,0,Negative
+33f362d0-2e7d-4287-a2ce-fe2162273b64,verifikasi wajah gagal mulu,1,verifikasi wajah gagal mulu,0,0,Negative
+2b215d78-3d1e-41a6-9858-f1607e25bbaf,ini giman sih keluar Mulu dari apknya Uda dimasukin id sama pasword gak dapet otp.,1,gim sih mulu apknya uda dimasukin id pasword dapet otp,0,0,Negative
+46d13eed-ea80-4df9-a157-813d74306dd4,kenapa si sering loading saya beli paket m3 saldo udah kepotong tapi gak masuk2 kuota data nyaa hiisss harus bolak balik k3 my m3 sama ke bank BCA kenappaaaa lahhh dan ternyata harus nunggu 5hari kerja .semoga aja bner masih tak tunggu 5hri kedepan. kalau bner aku ganti ulasannya😭😭😭,2,si loading beli paket saldo potong masuk kuota data nyaa hiisss bolak bank bca kenappaaaa lahhh nunggu kerja moga bner tunggu hri depan bner ganti ulas,0,0,Negative
+4239e587-91e4-40b3-8998-63f8fe2d8f56,diupdate jadi lemot padahal sinyal bagus,2,diupdate sinyal bagus,0,0,Negative
+2a6cae77-00e6-4262-bec6-6e5890b6768c,mantapsssssssss,5,mantapsssssssss,1,0,Negative
+5130f231-ea4c-42b8-ae86-910e4feca418,"aplikasi payah, login susah.",1,aplikasi payah login susah,0,0,Negative
+2e526253-ba04-490d-8f22-3a8a91df6f7b,"verifikasi log in, menbagongkan.. nyusahin males pake BCA lagi",1,verifikasi log in menbagongkan nyusahin males pake bca,0,0,Negative
+41e49189-8ab0-4c06-9c18-f42aa03f4408,b aja,4,,1,0,Negative
+7f824803-58bd-4dc0-957d-d8d1c29086c1,aplikasi nya makin ke sini makin berat dan lemot parah,1,aplikasi berat parah,0,0,Negative
+212f0561-52d9-4d72-9206-8e31812a6449,Kenapa saldo saya tiba tiba hilang sendiri? saya cek di mutasi tidak ada pemberitahuan apapun,2,saldo hilang cek mutasi tidak pemberitahuan apa,0,0,Negative
+284f4139-4091-4dba-b87b-730ca65c0ae9,"aplikasi rusak, menyesal buat. bagusan BRImo Dan Livin dari pada ini",1,aplikasi rusak sesal bagus brimo livin,0,0,Negative
+0d8231df-29a4-4efb-ab88-bf259864ce4c,sudah bisa.,5,,1,0,Negative
+7867b21c-3bb3-4d07-b151-8485b582014f,force close terus....,4,force close,1,0,Negative
+981fd718-33cd-44cf-9617-ef7408291f86,kenapa tidak bisa masuk dengan jaringan wifi di rumah??? biasanya bisa kenapa sekarang tidak bisa..,4,tidak masuk jaring wifi rumah tidak,1,0,Negative
+c0514a8a-749d-4d5a-af3a-e98be2148c81,"busuk isi saldo 2 kali malah ga sampe"" dan gada konfirmasi nya",1,busuk isi saldo kali sampe gada konfirmasi,0,0,Negative
+73d81935-a686-43de-8c17-6e58bb0128c2,"makin buruk, kalo di buka lama, mau payment juga suka lama, suka ga bisa masuk, suka keluar sendiri, payah",1,buruk kalo buka payment suka suka masuk suka payah,0,0,Negative
+9a62387b-3817-4037-bd29-7d1c6d609ef1,kenapa dan kenapa tidak bisa masuk. sudah telp cs lewat halo bca buat buka blokir. masuk my bca verifikasi wajah tidak bisa . kenapa harua call cs lagi. dan harus nunggu jam 06.00 . genting urusannya kalau malam mah,2,tidak masuk telp cs halo bca buka blokir masuk bca verifikasi wajah tidak harua call cs nunggu jam genting urus malam mah,0,0,Negative
+ff5a84be-1499-49e9-a7e6-b627df8c553c,"SUSAH BUKA APLIKASI, LOADING TERLALU LAMA KALAU MAU LOGIN. GAK BAGUS BANGET MBAKING BCA SAMA MY BCA JELEK SEMUA . NYUSAHIN MALAH, MULU MALUIN",1,susah buka aplikasi loading login bagus mbaking bca bca jelek nyusahin mulu maluin,0,0,Negative
+6ddf400f-6ee7-42fd-8eef-48b1e5a3ccaa,halo slmt mlm kak sejak update gmail jarang msk lelet sm apl ny lelet jg gmn ini trmksh,2,halo slmt mlm kak update gmail jarang msk lelet sm apl ny lelet jg gmn trmksh,0,0,Negative
+ea27e819-bf35-4da7-b60e-c3c5a349e9ca,sering banget hrs update² pdhl sama aja gitu sangat ganggu kalo mau bayar,1,hrs update pdhl gitu ganggu kalo bayar,0,0,Negative
+0911b6b2-67f3-4d61-9f9c-3a4429567f8c,"astaghfirullahaladzim ribetnya bgt verif beli pulsa dulu eror Mulu udah vc cs masih aja gabisa akun punyaku sendiri verif wajah salah terus kesel bgt lama"" dah",1,astaghfirullahaladzim ribetnya bgt verif beli pulsa eror mulu vc cs gabisa akun punya verif wajah salah kesel bgt dah,0,0,Negative
+9130b4f3-fd3a-4925-9c39-4b3dcd3a2d15,"Ujung"" nya suruh datang ke kantor cabang terdekat,,ya namanya bukan online😁😇",2,ujung suruh kantor cabang dekat nama bukan online,0,0,Negative
+c5b62ebb-5961-4ee6-a8e2-5c96fccae41e,sukaaaa,5,sukaaaa,1,0,Negative
+b2cceaf0-31c8-4cda-a292-a662e31dfb27,sangat membantu dan memudahkan,5,bantu mudah,1,1,Positive
+260b56c9-b7c5-4b9b-a165-9c711689de79,"saya ngisi bca dari e wallet,di transaksi nya berhasil cuman duit nya ilang,ternyta my bca apk rampok 🥲",1,ngisi bca wallet transaksi hasil cuman duit ilang ternyta bca apk rampok,0,0,Negative
+e14ffefd-6673-4008-9f9f-43df575fd66f,dari tanggal 22 mei sampe sekarang saya dapet tranferan dri ayah saya tidak masuk masuk katanya di suruh tunggu gmna tah ini....,1,tanggal mei sampe dapet tranferan dri ayah tidak masuk masuk suruh tunggu gmna tah,0,0,Negative
+850c0502-7983-4417-a112-03fb94f11ace,"kenapa setiap mau masuk verifikasi wajah, verifikasi nya selalu gagal yah kak? padahal itu udah tahap akhir utk masuk di apknya tapi selalu gagal, katanya verifikasi tidak dapat dilanjutkan, saya juga udah ikutin panduan verifikasi nya 😭 pas di apk lain pake verifikasi nya bisa , tapi pass di mybca gak bisa",1,masuk verifikasi wajah verifikasi gagal yah kak tahap utk masuk apknya gagal verifikasi tidak lanjut ikutin pandu verifikasi pas apk pake verifikasi pass mybca,0,0,Negative
+066da470-668f-4a41-8aa4-89bbe44d9fe3,dalam beberapa waktu proses reksadana autodebet tidak dapat di nonaktifkan dan proses pencairan yg looping saat persetujuan mohon segera diperbaiki. terima kasih.,4,proses reksadana autodebet tidak nonaktif proses cair looping tuju mohon baik terima kasih,1,0,Negative
+e442cce7-28d7-4e28-9b03-c219cda6da70,pelayanan bagus,5,layan bagus,1,1,Positive
+e6ccfd99-1657-4f3d-9fa2-472066ba6035,"bca bego , kcp nya di daerah2 bukan di jabodetabek ibu kota, cs dan kepala cabang nya idiot semua, ga ada solusi jg ga sopan",1,bca bego kcp daerah bukan jabodetabek kota cs kepala cabang idiot solusi jg sopan,0,0,Negative
+dd83d13d-dff1-4d77-8746-9bf352dca1ee,mantap,5,mantap,1,1,Positive
+d1b28f4f-eebf-4126-b6bb-512f2d1c80c3,beberapa hari ini gak bisa dipakai. loading lama parah. !!!,1,pakai loading parah,0,0,Negative
+87ae5b7d-7d39-41e6-9544-28908e4f8355,knp punya saya keblokir uang saya ada di BCA lagi,1,knp blokir uang bca,0,0,Negative
+785911a8-3bcf-49a1-b6b6-ca45624acc74,mantap,5,mantap,1,1,Positive
+4df0b1d5-e0be-45c3-82e2-d78744e4ea5a,"aplikasinya nge bug kayanya, mau login malah ga ada kode negara +62, jdi ga bisa login dh, kalo udh bisa lagi saya naikin bintang 5",3,aplikasi nge bug kaya login kode negara jdi login dh kalo udh naikin bintang,0,0,Negative
+abc1fcb9-c97b-4c9a-895b-b958e9a86f99,verifikasi KTP dan wajah gagal terus,3,verifikasi ktp wajah gagal,0,0,Negative
+e727eb75-c9ab-4e54-89a1-2d0a28027333,sering sekali tidak berhasil untuk log in,1,tidak hasil log in,0,0,Negative
+b92f6453-6978-4e01-86be-14756539552e,sangat bagus sekali,5,bagus,1,1,Positive
+2f9e53c6-8a69-44cd-a0f1-99c8a3575931,bagus dan simple,5,bagus simple,1,1,Positive
+eb3c241c-cb30-4af2-aabe-9caadd232251,aplikasi tidak bisa dibuka,1,aplikasi tidak buka,0,0,Negative
+03de8166-3cbe-4844-9445-d8b881141b42,saldo saya terpotong 50rb tanpa ada mutasi,1,saldo potong rb mutasi,0,0,Negative
+33e7a5c8-d777-487b-8470-ce7da497c083,"opsi login fingerprint selalu error saat mau login, biasanya lancar kenapa ya?",3,opsi login fingerprint error login lancar,0,0,Negative
+4ca2f45c-72ba-4bab-a491-838c82703818,"GK ADA NEGARA INDONESIANYA YG NOMOR Edit : gk ad opsi buat lanjut ke tahap selanjutnya, gk bisa di ""back"" juga, gw dipaksa isi nomor hp.. ini kan gw baru login setelah gk prnah gw buka ni rekening.. ini gw bingung",1,negara indonesia nomor edit ad opsi tahap back gw paksa isi nomor hp gw login prnah gw buka ni rekening gw bingung,0,0,Negative
+1b281e96-5a10-4b48-912d-e053bf65f60c,"entah kenapa bbrp hari ini ga bisa login biometrik... padahal semua fitur oke. pakai fingerprint. pas ulang daftar juga oke, tapi pas mau dipakai login keluar error 😔",3,bbrp login biometrik fitur oke pakai fingerprint pas ulang daftar oke pas pakai login error,0,0,Negative
+e8139894-8315-4004-9f82-b719ce093c0a,kode negara Indonesia nya mana ini enggak bisa masuk klo enggak ada kode negara,1,kode negara indonesia masuk klo kode negara,0,0,Negative
+14d736f1-7442-4d07-be09-d39730b3f291,bapak/ ibu saya sudah buat akun bank tapi belum di bikin kartunya lalu hp saya yang dulu di pakai untuk daftar bank rusak apakah bisa di bkin kartu nya ? terimakasih,3,akun bank belum bikin kartu hp pakai daftar bank rusak bkin kartu terimakasih,0,0,Negative
+971cc2a8-cfff-480c-98ee-806089f0561c,Bank BCA mantap luar biasa,5,bank bca mantap,1,1,Positive
+e12b280e-63c7-4edc-b687-4293a808bfc0,males update mulu,1,males update mulu,0,0,Negative
+fbdaf974-3752-4214-a57b-a855a57bcca7,saran gua jangan pernah pakek rekening BCA soalnya riwayat transaksi enggak jls masak Iyya duit gua tiba tiba habis dan enggak ada bukti pengeluarannya lagi intinya gua nyesel pakek rekening BCA,1,saran gua jangan pakek rekening bca riwayat transaksi jls masak iyya duit gua habis bukti keluar inti gua nyesel pakek rekening bca,0,0,Negative
+5546bc8a-2b1b-4cdd-99a3-6882802ae4ec,mantap,5,mantap,1,1,Positive
+fda62511-9240-40a3-ab80-d69d80483146,saya pake my BCA tapi selalu tiba2 kepotong 15 ribu atau 10 ribu . padahal setiap bulanya udh kepotong .. tapi setiap menyimpan saldo tetep pasti kepotong ...,2,pake bca potong ribu ribu bulanya udh potong simpan saldo tetep potong,0,0,Negative
+af8e6a4e-c71b-465c-b518-979c67602e1b,"Buset dah ini aplikasi lemot nya ampun dah, gak usah bikin berat-berat ini aplikasi, gak usah kebanyakan iklan di dalem nya, gak penting banget, Mobile Banking udah kaya KORAN BERJALAN...",1,buset dah aplikasi ampun dah bikin berat berat aplikasi banyak iklan dalem mobile banking kaya koran jalan,0,0,Negative
+bc46263b-e90e-408d-997a-5e74d1384271,transkasi nya gak jelas di mutasi masuk 56.500 tetapi di saldo cuman 23.000 sisanya k mn tidka tercatat di mutasi tidak transparan,1,transkasi mutasi masuk saldo cuman sisa mn tidka catat mutasi tidak transparan,0,0,Negative
+6096bf84-9efd-4a1b-89f9-90df4d519164,"saat masuk aplikasi mybca ga bisa masukan no.tlp, kode negara ga keluar pdhl sdh ga pake angka 0, pas centang ga bisa kirim.. aplikasi bc kok receh gini 👎👎👎",3,masuk aplikasi mybca masuk no tlp kode negara pdhl sdh pake angka pas centang kirim aplikasi bc receh gin,0,0,Negative
+efa2d81e-5d63-454b-a245-6fb438334101,"may bca parah kacau verifikasi sangat buruk sudah mangap"" akhir nya gagal ga rekomen",1,may bca parah kacau verifikasi buruk mangap gagal rekomen,0,0,Negative
+273a4132-d8ef-485e-a60c-bb15b8b3f570,sering error,1,error,0,0,Negative
+d48e612f-ecff-41bd-bab1-59d2cadbdb36,"mau bikin kartu BCA Sudah saya TF 50K k nomor rekening Malah saldo udah kepotong tp GK masuk di nomor rekening baru saya, trus mau bayar gimana? kok aneh sih.",1,bikin kartu bca tf nomor rekening saldo potong tp masuk nomor rekening trus bayar gimana aneh sih,0,0,Negative
+7d8aa0f4-3d4b-459a-96aa-03a0215d0378,jangan d download saya selalu ada saldo mengendap tanpa alasan yang jelas 50k d potong berkali kali bca pun tidak memperbolehkan transaksi kapan saldo itu bisa terpakai jadi jangan d download merugikan rakyat kecil bayangkan 1 org yang kena berujung puluhan d potong 50k untung merekanya kalau 1x tidak apa2 wajar ini berkali kali,1,jangan download saldo endap alas potong kali kali bca tidak boleh transaksi saldo pakai jangan download rugi rakyat bayang org kena ujung puluh potong untung mereka tidak wajar kali kali,0,0,Negative
+d8ae0189-130a-4364-9b79-e725734375c4,terimakasih pelayanan yang sangat memuaskan,5,terimakasih layan muas,1,1,Positive
+61c1fcda-1713-4fed-be48-f9798147d44a,"bagus, cuma kepotong admin nya agak gede ya 15 ribu",2,bagus potong admin gede ribu,0,0,Negative
+598b2080-ed29-4e36-9e39-d90cb34260c2,setelah update mlh gak bisa digunakan muncul ulangi beberapa saat lagi sdh seminggu video call juga gak bisa terus coba layanan bca ktnya sdg maintenance kok lma bgt maintenance nya,2,update mlh muncul ulang sdh minggu video call coba layan bca ktnya sdg maintenance lma bgt maintenance,0,0,Negative
+618a59d8-f0f4-46ba-9eac-9dd941fef8f0,masa transaksi saya di pending,1,transaksi pending,0,0,Negative
+714ba876-ae8f-4e6b-bd7e-eb52145db4b6,"saya sudah membuat akun tetepi tetap terus disuruh membuat akun ketika ingin login, tolong diperbaiki lagi sistemnya",1,akun tetepi suruh akun login tolong baik sistem,0,0,Negative
+9f3329ba-3ee9-45f9-9717-53b89d7b9e0b,"Sesusah itu bikin rekening, Untuk pelajar mahasiswa 18 tahun memang tidak bisa ya, Hmm tak apa apa lah, Celengan juga udah berarti menemani",5,susah bikin rekening ajar mahasiswa tidak hmm celengan tani,1,0,Negative
+439c26bc-7b9b-4dd3-9a4d-5e4d35d87332,bagus,5,bagus,1,1,Positive
+b5f99236-bc3a-406b-b5ba-48ec6162b4c6,gak bisa qris scan,1,qris scan,0,0,Negative
+c630ab88-d7f1-4bff-a5f7-8a93c955fe26,SALDO BERKURANG KENA POTONGAN ADMIN MULU PADAHAL BLOM LAMA ADA POTONGAN ADMIN.EMANH SEBULAN BERAPA X MOTONG SI,1,saldo kurang kena potong admin mulu blom potong admin emanh bulan motong si,0,0,Negative
+5af6a21b-e026-4722-90f7-9c70b89709ac,"masukkan kode negara.. indonesia gak ada, nge bug aplikasi lu",1,masuk kode negara indonesia nge bug aplikasi lu,0,0,Negative
+7297f167-afc4-47f6-b2d0-c752aca6caa8,lebih keren,5,keren,1,1,Positive
+1b8f9fdb-e9a1-46ff-b19e-11ebb72ea94c,🤖 aplikasi PV tidak beres 🤖,1,aplikasi pv tidak beres,0,0,Negative
+b2097a10-5cd4-4244-9571-234a3187f8de,mantap,5,mantap,1,1,Positive
+dc4fa27d-aca6-4000-b889-8bb4aff00023,kenapa sering saldo tiba-tiba hilang udah 3 kali lumayan 10rb terus ga ada notifnya tau kemana kesel aja. tolong dong bca jangan begitu terlalu gede ngambil untungnya,2,saldo hilang kali lumayan rb notifnya tau mana kesel tolong bca jangan gede ngambil untung,0,0,Negative
+5b798763-c308-4e5a-8775-34868969b304,aneh kemaren tanggal 20 dipotong skrng knp tanggal 2 yg kepotong sumpah parah ini GK nyaman pke BCA.,1,aneh kemaren tanggal potong skrng knp tanggal potong sumpah parah nyaman pke bca,0,0,Negative
+c91e5f4b-6b84-466e-87e8-21ac9885e0ce,pelayanan nya baik,5,layan,1,0,Negative
+e6a8ed6c-8a57-47fa-9afb-86e409ea2776,mudah dan gampang,5,mudah gampang,1,1,Positive
+cc231954-e033-42a1-8649-e00d2240a0ac,wemoga wukses,5,wemoga wukses,1,0,Negative
+ae682c12-b04e-4026-81f0-573a37bba97c,ok josss,5,ok josss,1,1,Positive
+bac7152c-c727-4104-b0e6-08dfeaf3cc24,"sering bangett mau login tiba² lama bngt loadingnya, pdahal jaringan stabil ga ada kendala apa² buat buka platform yg lain, tapi buat login lama bangett, trus udah bisa masuk mau transaksi lama poolll sampe transaksi gagal karna klamaan loading, tolong lah diatasi, overall oke, dapat notifikasi transaksi juga mantab, cuma itu masalah nya loading nya bikin stress bikin gaenak juga kalo lagi antri",1,bangett login tiba bngt loadingnya pdahal jaring stabil kendala apa buka platform login bangett trus masuk transaksi poolll sampe transaksi gagal karna klamaan loading tolong atas overall oke notifikasi transaksi mantab loading bikin stress bikin gaenak kalo antri,0,0,Negative
+66abbdc2-fb8a-4412-86e6-439aab47f738,"sangat rumit untuk digunakan, untuk masuk aja susah, udah berulang kali daftar mbanking tetap tidak bisa, kendala di bagian, memasukkan no identitas, sangat rumit",3,rumit masuk susah ulang kali daftar mbanking tidak kendala masuk no identitas rumit,0,0,Negative
+1af42ded-90bd-4784-a7b5-569b6a264610,lemot bat buset,1,bat buset,0,0,Negative
+f51a5532-7fba-4cee-bacf-cc04a574fec5,setiap buka my BCA selalu harus diperbaharui terus dn loading nya lemot,4,buka bca baharu dn loading,1,0,Negative
+ab99ebcf-de51-444b-910e-5d4293c6198e,udah ngisi data lengkap tapi di tolak Mulu padahal udah jadi nasabah BCA udah 15thn data kaga ada yg berubah.,1,ngisi data lengkap tolak mulu nasabah bca thn data kaga ubah,0,0,Negative
+7b6412df-42b3-42fa-b5e6-accd3d35d6f4,"aplikasi terlalu berat, lemot dan lelet",1,aplikasi berat lelet,0,0,Negative
+cea1fbb0-1cd4-4625-9389-92bc788e7f6d,"buset makin stress sma mybca, makin lemot mau setoran juga susah hamir tiap hari kaya gini",1,buset stress sma mybca setor susah hamir kaya gin,0,0,Negative
+bc6b1787-0868-418b-a6da-ea80a9c174ca,terlalu ribet untuk registrasi... dua sering closing dan reply prosedur...udh terdfre..login lagi dfte lagi terus bgtu. mengecewakan,1,ribet registrasi closing reply prosedur udh terdfre login dfte bgtu kecewa,0,0,Negative
+3e8085d0-d6c2-4b14-b21d-8eee557465d4,"gw heran dg fitur pembiayaan di BCA ini ok benar di ceklist BI Gw C1 tp tergolong Masih lancar tp kenapa ngajuin paylater mulai awal th 2023 sampai sekarang kalau di hitung potongan biaya admin tiap bulan 25rb di kali udah 1jt lebih 😄😄😄 masa kasi limit 500k aja pelit amet tu BCA mentang"" bank besar jadi nya g kayak bank lain macam sea bank bank saqu super bank yg berbasis bank gol 3 tp mereka percaya sama nasabah gw aja di sea bank ada limit 20jt lebih di bank saqu ada 14jt di super bank ada",1,gw heran dg fitur biaya bca ok ceklist bi gw tp golong lancar tp ngajuin paylater th hitung potong biaya admin rb kali jt kasi limit pelit amet tu bca mentang bank kayak bank sea bank bank saqu super bank bas bank gol tp percaya nasabah gw sea bank limit jt bank saqu jt super bank,0,0,Negative
+1d172466-c042-458f-87db-406376a53120,"baru tanggal 1 Juni 2026 sudah potong admin, kemarin 16/17 mei udh dipotong..... mantapppp",1,tanggal juni potong admin kemarin mei udh potong mantapppp,0,0,Negative
+73404106-3c85-48b0-9add-519074cc8831,sehabis ada pembaharuan gak bisa login,3,habis baharu login,0,0,Negative
+e3cee254-8dfd-44af-b8dd-305b8151302b,gagah,3,gagah,0,0,Negative
+3d37a045-95f0-4e59-ae04-eb65edef4489,"kenapa tiba² ke logout ya? aneh loh , sumpah masa masuk lagi minta otp ulang ga sekali 2x loh begini kepotong pulsa melulu",1,tiba logout aneh loh sumpah masuk otp ulang loh potong pulsa melulu,0,0,Negative
+5c81cea9-a24b-45f0-a971-7ed3aa63e639,"maaf di bulan mei sya sudah kepotong admin di tanggal 19 itu sebesar 17.000 dan 5.000,, akan tetapi di awal juni tgl 1 ini kenapa dipotong lagi saldo saya sebesar 17.000, mohon direspond dan dijelaskan, saya sbagai pengguna BCA dr tahun 2014 sangat kecewa.",1,maaf mei sya potong admin tanggal juni tgl potong saldo mohon direspond sbagai guna bca dr kecewa,0,0,Negative
+4feeb1da-cf66-49cf-b263-c51f8bf85c78,sangat baik,5,,1,0,Negative
+704a3938-64b1-49df-ae70-ac6d74d348a0,Sekarang dipake buat transaksi lemot,1,dipake transaksi,0,0,Negative
+8890e85c-5baa-435d-ad9e-7b4a1b5f78f2,gagal untuk login verifakasi gagal,1,gagal login verifakasi gagal,0,0,Negative
+00808c7e-d77b-49af-a19b-0947e5df9e86,lemot banget kenapa ini,3,,0,0,Negative
+00cae291-fec3-4565-b629-b8e3a907b0d7,"sistem harus ada pulsa hapus lah woy. gue pake bc buat terima gaji doang, jd suka gua apus kalau full memory. ini tiap mau login harus dpt verifikasi kode dr sms tp HARUS PUNYA PULSA. miskin banget sih. beda sama bank2 lain. sebel gue",1,sistem pulsa hapus woy gue pake bc terima gaji doang jd suka gua apus full memory login dpt verifikasi kode dr sms tp pulsa miskin sih beda bank sebel gue,0,0,Negative
+40e5691c-3db5-4681-a50d-59ff410e2059,saya kasi bintang 4 aja.karna saya baru mencoba,4,kasi bintang karna coba,1,1,Positive
+6ecaa75c-5499-4438-bd26-a23c455eb3cd,saat saya sudh mendaftarkan akun dngn bnr tapi knpa akun saya tdk bisa bisa,1,sudh daftar akun dngn bnr knpa akun tdk,0,0,Negative
+d3acb79a-3825-4788-81a9-275fbd74d51c,semoga bisa d gunakan tidak ribet untuk penggunax,5,moga tidak ribet penggunax,1,0,Negative
+015ce172-a8fc-49e8-af31-bb32db3e0412,"kode negara indonesia hilang ,mau login apl jd ga bisa makin susah pake my bca",1,kode negara indonesia hilang login apl jd susah pake bca,0,0,Negative
+3c173cd2-2977-4e18-b705-ac31c0586687,ini kenapa forclose mulu ketika verifikasi wajah -_,1,forclose mulu verifikasi wajah,0,0,Negative
+771d0ce6-d6de-4b79-ad02-45f10352e492,"gabakal download lagi, karena baru pertama kali isi saldo ga masuk mutasi",2,gabakal download kali isi saldo masuk mutasi,0,0,Negative
+93f3eff6-4c9a-4f4b-a1fe-831e658c2abd,"Kenapa ya menggunakan wifi loading, menggunakan data seluler lancar...",3,wifi loading data seluler lancar,0,0,Negative
+a40c6894-1fc5-438a-9518-78a9113f9d01,"apk nya sangat mantap dan kece banget,hanya saja terasa berat buat login dan buat qris,,selebihnya saya sangat puas dg apk my BCA.",5,apk mantap kece berat login qris lebih puas dg apk bca,1,1,Positive
+709ff3d6-84ae-4394-87a8-34eea283bbdc,Saya udah update yg terbaru tapi masih gak bisa juga... Error mulu,1,update baru error mulu,0,0,Negative
+782a556a-b507-4b5b-81b3-69c9d249239a,ok,5,ok,1,1,Positive
+0da7ece0-a2d2-44d2-8240-5fa778451b54,"aku mau masuk, diminta nomer HP, cari kode negara Indonesia kog gaada, gimana mau masuk ini",1,masuk nomer hp cari kode negara indonesia kog gaada gimana masuk,0,0,Negative
+5f8925df-61c1-4c0f-885d-c55b6066bb7b,terlalu banyak update!,1,update,0,0,Negative
+9eb70ada-8dca-4253-a0e8-e5a578c95e64,kenapa di bulan mei ini gabisa Qris ya?,3,mei gabisa qris,0,0,Negative
+ddb0dd65-3b17-453e-8b3c-ff522814635a,Saya Bingung kenapa Apk setelah Di Abdret malah Masukin No HP ga Ada Kode negara Indonesia.,2,bingung apk abdret masukin no hp kode negara indonesia,0,0,Negative
+c272108f-6388-4bd5-acaa-98f10a096b5a,masa gua transaksi gagal terus gmn si uda punya gua ke block,1,gua transaksi gagal gmn si uda gua block,0,0,Negative
+d9881ea7-6e8e-4680-9de5-22468e3b9b58,"akun gmail sayA lupa sandi, bca id saya juga lupa kenapa kirim bca id ke alamat email",5,akun gmail lupa sandi bca id lupa kirim bca id alamat email,1,0,Negative
+cfdc2182-442f-41eb-b114-3c74900ba5e3,saat melakukan penggantian sandi saya tidak bisa melanjutkan verfikasi akun saga,3,ganti sandi tidak lanjut verfikasi akun saga,0,0,Negative
+d7bfe068-5b26-44c2-b9f9-d9010cfda754,sumpah kesel banget pake biometrik sidik jari gk mau kebaca parah banget gimna mau log in 😭😭😭,1,sumpah kesel pake biometrik sidik jari baca parah gimna log in,0,0,Negative
+6000c063-5f5b-470a-8c10-44c82139dc97,"haduh mau verif nomor malah terjadi kesalahan mulu, padahal udah bener nomornya",1,haduh verif nomor salah mulu bener nomor,0,0,Negative
+a03ede5f-7641-465d-84e4-de07238aceca,kenapa error lagi error lagi admin ke blokir lagi ini akun saya udah berapa kali ini saya ganti pw udah malas rasa nya ribet nih apk bca nya buruk 👎,1,error error admin blokir akun kali ganti pw malas ribet nih apk bca buruk,0,0,Negative
+aa6fa39d-429e-4796-8fde-b4837b4472b7,"setelah install kembali ke info aplikasi, ketika mau dibuka kembali ke info aplikasi, apa maksudnya ya ? apakah karena harga saham anjlok terus ?",1,install info aplikasi buka info aplikasi maksud harga saham anjlok,0,0,Negative
+b19d0006-69ca-4f66-9d23-82a56e7516f3,kode otp tidak masuk,1,kode otp tidak masuk,0,0,Negative
+d697b4df-de95-4846-a47d-08e9d2eea979,harus nyaa my bca di perbarui lagii bir cpat gak lemoot,1,nyaa bca baru lagi bir cpat lemoot,0,0,Negative
+0e6d8bee-365c-4f65-8874-81de72aa8631,aplikasi goblog gabisa masuk verifikasi wajah,1,aplikasi goblog gabisa masuk verifikasi wajah,0,0,Negative
+79b0922c-46c2-4a28-8249-7b72d834e1b5,mantap semua sudah bagus,5,mantap bagus,1,1,Positive
+00a7113a-8ca4-43ba-963a-b329a0e0e3db,"saya tidak bisa login ulang, sdh beberapa kali mencoba buat login",2,tidak login ulang sdh kali coba login,0,0,Negative
+721aebd4-036b-42ec-98e3-dfa995b26a36,good,5,good,1,1,Positive
+86c0f2de-7689-4751-a1e5-73ec222b6e02,"Min tolong diperbaiki aplikasi nya dong masak masuk harus update terus kalau gak update masak gak bisa login ke aplikasi pliss lahh,capek banget harus update trs mana makan ruang banyak 😒",2,min tolong baik aplikasi masak masuk update update masak login aplikasi pliss lahh capek update trs makan ruang,0,0,Negative
+66343a45-28d6-491d-948d-3da0572f17b9,"Kode negara +62 mana cok , apa harus pilih negara konoha baru bisa login.",1,kode negara cok pilih negara konoha login,0,0,Negative
+d1bcbc6f-b389-44ff-b0d0-e233cdec4c87,"Metode verifikasi perangkat baru yang gk jelas, sudah input ID BCA dan PW dengan benar juga sudah verifikasi OTP, tapi masih perlu verifikasi wajah lagu dan selalu gagal, sudah telpon halo BCA katanya data wajah saya tidak terecord dan diarahkan untuk verifikasi datang langsung ke kantor cabang, sedangkan sekarang sedang libur panjang dan butuh transaksi urgent, repot, kapok pake BCA padahal saya suka fiturnya yang cardless",1,metode verifikasi perangkat input id bca pw verifikasi otp verifikasi wajah lagu gagal telpon halo bca data wajah tidak terecord arah verifikasi langsung kantor cabang libur butuh transaksi urgent repot kapok pake bca suka fiturnya cardless,0,0,Negative
+6042f29c-b9a9-4d93-a92a-2e08fa3ae30c,"UDAH KESEKIAN KALINYA G BISA DI BUKA, GA DI UPDATE GA BISA DI BUKA DIUPDATE JUGA GA BISA DI BUKA HERAN",1,sekian kali buka update buka diupdate buka heran,0,0,Negative
+52f22213-a9eb-4ac9-a65a-c7086ca69f23,sampel dan mudah dipahami,5,sampel mudah paham,1,1,Positive
+68e6ac47-b0c6-48aa-bd24-8ecbf05b00ce,"myBCA agak susah dibuka sekarang ni, padahal jaringan bagus. Terpaksa pake mobile BCA lebih cepat.",3,mybca susah buka ni jaring bagus paksa pake mobile bca cepat,0,0,Negative
+28758d6a-28ae-4d6b-82aa-fbd0c6af23ef,ok,5,ok,1,1,Positive
+4b07329d-dd0c-4d83-bf4d-a9cad3ce0345,saya ganti device ke tablet advan sketsa karena device lama mati kena kuah soto. kenapa tiap mau verifikasi wajah selalu force close jadi g bisa buka sama sekali aplikasinya,3,ganti device tablet advan sketsa device mati kena kuah soto verifikasi wajah force close buka aplikasi,0,0,Negative
+7b6b1b6a-905f-4554-a14a-4f665450debf,"gembel susah banget login, tiba2 logout mau login lgi masukan unser id, udh masukin id minta otp, otp pun harus pake pulsa, sedangkan pulsa nol, mau isi pulsa saldo di rek semua haduh, gembel gembel",1,gembel susah login logout login lgi masuk unser id udh masukin id otp otp pake pulsa pulsa nol isi pulsa saldo rek haduh gembel gembel,0,0,Negative
+dce88eeb-0f8c-4469-b8f1-1f8dba928b08,mengapa klu buka aplikasi mybca kok sulit,5,klu buka aplikasi mybca sulit,1,0,Negative
+32bc44ae-cdc1-4cb5-9bba-1009d59e69c3,oke👍,5,oke,1,1,Positive
+475b14e1-6f62-43bd-aa8d-a9564c11e4b5,"selalu ada notif ""ops something went wrong"" mulu...jd ny harus masukin bca id terus..tolong lah diperbaiki wahai bca",1,notif ops something went wrong mulu jd ny masukin bca id tolong baik bca,0,0,Negative
+1813f1a7-d0ab-42eb-afc0-271b4162e63c,pengiriman kartu debit lama... ga ada resi nya pula ga bisa tracking.. cuma pemberitahuan lewat sms doang sedang dikirim ga tau di mana .. primitif bnget pake sms,2,kirim kartu debit resi tracking pemberitahuan sms doang kirim tau primitif bnget pake sms,0,0,Negative
+e78a46f1-4be4-4522-b653-0dd5d88ac94a,kenpa tidak bisa di install di hp Saya...,1,kenpa tidak install hp,0,0,Negative
+90bdb7a5-f1ed-41b9-b095-642d97e5dd42,aplikasinya hari ini tgl 30 mei 2026 jam 19.00 ngebug kah?? Kok gak bisa masuk ke aplikasi?,1,aplikasi tgl mei jam ngebug kah masuk aplikasi,0,0,Negative
+c94daba0-1962-4e89-b3ef-90639a2beb8a,"eror terus , pasword aplikasi padahal udah bener tapi pas di masukin salah sampai terblokir dan harus minta bantuan buat buka blokir , pas udah di ganti dan selang beberapa jam saya masuk dengan pasword yg baru dan benar malah salah lagi ,sampai pulsa kebuang sia² buat kode otp saking sering nya kejadian kyk gitu haduh",2,eror pasword aplikasi bener pas masukin salah blokir bantu buka blokir pas ganti selang jam masuk pasword salah pulsa buang sia kode otp saking jadi kyk gitu haduh,0,0,Negative
+1df6952d-8da1-4ca8-baec-c5c27112c6a6,sangat mudah,5,mudah,1,1,Positive
+5d6fb4dc-7cb8-4c74-bfdd-c79172509df6,sering terjadi kendala error,1,kendala error,0,0,Negative
+866d2664-ae42-4722-807d-b467be670baf,"ribet, verifikasi wajah gagal terus",1,ribet verifikasi wajah gagal,0,0,Negative
+a0a1a629-83d1-45b6-85be-c00a724b7bfd,"kenapa verifikasi wajah tifak bisa di lanjutkan,dan gagal terus kenapa sudah di tempat terang pakai paket data dan pulsa ada .tapi ke email ada notif pindah tapi tetep ga bisa verifikasi di wajah ribet sekali",2,verifikasi wajah tifak lanjut gagal terang pakai paket data pulsa email notif pindah tetep verifikasi wajah ribet,0,0,Negative
+e97dc84a-2251-4898-a081-fbf7da732c19,"error bagian otp nya, padahal udah bener ngasih nomor hp nya, udah di ulang beberapa kali tetap gak muncul, dan waktu nyoba minta otp lagi tulisannya error, dan setengah jam padahal",1,error otp bener ngasih nomor hp ulang kali muncul nyoba otp tulis error jam,0,0,Negative
+769523cf-6a2e-40ed-aabf-776b96c7aedc,Mantap,5,mantap,1,1,Positive
+714220fc-d448-4489-8627-73733d5b8463,tiap bulan pasti minta update tapi kyknya sama saja menu nya,4,update kyknya menu,1,0,Negative
+8afbfafb-5ffd-41e3-8eac-dffa92681858,saya user my bca lama tpi setelah saya ganti HP mlah gk bisa log in gagal verivikasi wajah,1,user bca tpi ganti hp mlah log in gagal verivikasi wajah,0,0,Negative
+9a35577d-6480-4a38-82c0-e5a0973e61c3,sangat membantu,5,bantu,1,1,Positive
+e4283dd6-0a02-464f-8790-6097701e58be,akun saya selalu terblokir 1 bulan sekali tanpa tau penyebabnya,3,akun blokir tau sebab,0,0,Negative
+50d95639-b87f-4192-9fa8-01ab09c4cd30,"bolak balik update, mana sering lag waktu mw bayar Qris.",2,bolak update lag mw bayar qris,0,0,Negative
+963eafd8-e2f2-45b0-96b9-0d502970db9f,enak punya aplikasi mobile banking BCA mudah dan cepat sebagai alat transaksi serta tarik uang,5,enak aplikasi mobile banking bca mudah cepat alat transaksi tarik uang,1,1,Positive
+06d52aab-84d4-45b5-950b-8a51d57c1720,"tidak ada notifikasi samasekali, mutasi gak muncul",1,tidak notifikasi samasekali mutasi muncul,0,0,Negative
+4f0ee55c-bbdc-4a66-ae18-f8119105116d,apk nya susah di buka,1,apk susah buka,0,0,Negative
+bc0180e9-4f78-4fc7-be94-f1da2e7c1aa4,"mau masuk tpi ada peringatan suruh update giliran udah di update malah bca id nya keblokir mau masuk ga bisa karna keblokir gimana solusinya? tolong dong ga usah dikit"" suruh update biar ga kejadian kaya gini",5,masuk tpi ingat suruh update gilir update bca id blokir masuk karna blokir gimana solusi tolong dikit suruh update biar jadi kaya gin,1,0,Negative
+e89f66db-c6a7-4c39-b48f-d932add623a6,Alhamdulillah sangat baik .,5,alhamdulillah,1,1,Positive
+e37377b7-6ee9-4abf-9ee5-7b483ef4e9fa,"parah lemot dah update malh lemot login juga lama, padahl memori hp bsar.",4,parah dah update malh login padahl memori hp bsar,1,0,Negative
+205c00f7-e993-4218-96ef-e778b9abf020,cukup baik,5,,1,0,Negative
+14eac756-f2b3-47a7-bbb9-1018eb177b81,"nanti,dilain waktu",5,lain,1,1,Positive
+484035a1-2c58-4654-b7b2-0df1ff64f4f5,"aneh pas update dahhh, masa gak bis akebuka dahh harus pake wifi terus saya bingung asli bingung",3,aneh pas update dahhh bis akebuka dahh pake wifi bingung asli bingung,0,0,Negative
+6a8cb78a-50b3-4b82-9fd2-68cebd260e5a,verifikasi di persulit padahal pas foto dah terang,1,verifikasi sulit pas foto dah terang,0,0,Negative
+b094ed20-2a79-439d-9695-b974676252e6,verifikasi wajah gagal terus padahal sudah mengikuti instruksi,1,verifikasi wajah gagal ikut instruksi,0,0,Negative
+bbfe270f-7f0f-43f7-83a3-b9bb01ab8ad8,"ini kenapa yah sya mau masukin no gak ada untuk negara indonesia nya jdi susah buat dapet verifikasinya ,",3,yah sya masukin no negara indonesia jdi susah dapet verifikasi,0,0,Negative
+a56ddf40-e5d8-4d22-825e-96dbfa58fb08,verifikasi wajahnya terlalu sulit.,2,verifikasi wajah sulit,0,0,Negative
+f7a95575-a6c9-4bc8-b1c4-52f6620c1466,"sering lemot & error, pdahl koneksi internet lancar buat lainnya.",2,error pdahl koneksi internet lancar,0,0,Negative
+1ed73b69-5ba7-4713-ad8b-0cc68fe36c12,sangat membatu,5,batu,1,0,Negative
+a1e25ab7-0672-4932-acb1-62ef9e410878,bagus dan lebih mudah tanpa keluar nyari ATM lagi,5,bagus mudah nyari atm,1,1,Positive
+c98492f9-7a4d-4153-a2c5-cd4a127f1052,bagus,4,bagus,1,1,Positive
+4a81748e-3af6-4500-b28c-febbf490ef96,ini kenapa tolong update baru tp ini muter terus gak selsai selsai ngeinstalnya,1,tolong update tp muter selsai selsai ngeinstalnya,0,0,Negative
+ec21dc3d-5680-45b8-8512-efb9534cd8b8,verifikasi gagal sangat susah dimengerti,2,verifikasi gagal susah erti,0,0,Negative
+e5c7246c-3d31-4470-80ee-fe40e536cccf,"ribet lupa sandi doang udh telpon costumer servis banyak tanya ujung nya harus ke kantor jga ,ngabisin waktu kirain bisa kpn aja ke kantor",1,ribet lupa sandi doang udh telpon costumer servis ujung kantor jga ngabisin kirain kpn kantor,0,0,Negative
+5df1a050-7a2c-4ff8-b58b-e84bdbcc5dc5,plis aku gbsa tranfer maupun nerima transfer aku gbsa,1,plis gbsa tranfer nerima transfer gbsa,0,0,Negative
+e75dbe8f-4bf8-4cf1-aea6-fda221faaa28,saya mau masukan kode Negara Indonesia di kolom pengisian no HP. tp Nama dan Kode Negara Indonesia tidak ada,1,masuk kode negara indonesia kolom isi no hp tp nama kode negara indonesia tidak,0,0,Negative
+a1f278d6-939c-44a0-b15c-ff760869214f,payah,1,payah,0,0,Negative
+8e59b2b4-801e-407c-8401-bdc198061806,good,5,good,1,1,Positive
+a278e167-5ea7-4280-adfe-2072529a0cd7,wey ini gmn gua tf ke dana saldo udh berkurang tapi gaada masuk duit nya ke dana kocak,1,wey gmn gua tf dana saldo udh kurang gaada masuk duit dana kocak,0,0,Negative
+fb5f3ea0-402e-451b-ab07-2b8ee9659d76,akhir2 ini tbtb sering terblokir sendiri padahal sedang tidak di gunakan. sangat meresahkan,1,tbtb blokir tidak resah,0,0,Negative
+0b2a6ddc-ead7-4154-8b7b-ef99ea273201,"verifikasi wajah gagal terus, emang muka saya berubah apa gimana oplas kagak jenggotan kagak, gak pake aksesoris gak pake kacamata, pencahayaan udah terang, tetep ajah gagal. ribet lu lama lama 👎",1,verifikasi wajah gagal emang muka ubah gimana oplas kagak jenggot kagak pake aksesoris pake kacamata cahaya terang tetep ajah gagal ribet lu,0,0,Negative
+b1f084ce-58ed-4e91-b7a2-391e9d5a130b,"error, wasting my time walaupun sudah dikantor cabang",1,error wasting time kantor cabang,0,0,Negative
+1a2e0f49-17f8-4a7c-8fd1-4c3e15aeda3a,"Apk nya bagus, namun sayang cabang bca di padang Pariaman, ataupun di loebangau gak ada. aku pindah dari serang ke padang Pariaman, dan disini gak ada kantor cabang nya satu pun. Mohon Untuk pihak bca mungkin bisa memperluas lagi cabang kantornya hingga kepelosok dan kabupaten. Sisa nya bca bagus, cuma kurang luas jangkauan kantor cabang nya aja",3,apk bagus sayang cabang bca padang pariaman loebangau pindah serang padang pariaman kantor cabang mohon bca luas cabang kantor pelosok kabupaten sisa bca bagus kurang luas jangkau kantor cabang,0,0,Negative
+d6e3d195-fc6e-4c1f-97cd-3059ee263e06,tolong untuk mybca jangan kebanyakan di upgrade . yang mengakibatkan memori penuh terus. dan semakin lemot pas dibuka .,1,tolong mybca jangan banyak upgrade akibat memori penuh pas buka,0,0,Negative
+8073af5b-a50d-4ffe-828d-e1c9a4695c2c,sudah males transaksi via bca playlater kartu kredit tidak di acc semua mending bri BNI lngsung dpt limit,2,males transaksi via bca playlater kartu kredit tidak acc mending bri bni lngsung dpt limit,0,0,Negative
+2de7d52f-a74e-433a-be42-4ee760426b73,"APLIKASI RUSAKK, KEBANYAKAN BUG DAN RIBET",1,aplikasi rusakk banyak bug ribet,0,0,Negative
+7c410cb2-7809-4521-b85f-7c101869d05a,"bikin rekening lama banget, saya nunggu 3 jam buat video call doang",1,bikin rekening nunggu jam video call doang,0,0,Negative
+45017603-5dac-4a0a-b776-eff125de0454,tolong di perjelas aplikasi nya mau pilih negara Indonesia GK ad pas mau masukan no harus nya +62 tapi ini gak ad opsinya aneh gak tuh . saya GK bisa login ke aplikasi,1,tolong jelas aplikasi pilih negara indonesia ad pas masuk no ad opsi aneh tuh login aplikasi,0,0,Negative
+2ded36f5-39d2-4776-9d47-47196c472cde,TIDAK BISA LOGIN MENGGUNAKAN NOMOR HP KARNA TIDAK ADA KODE NEGARA INDONESIA,1,tidak login nomor hp karna tidak kode negara indonesia,0,0,Negative
+ccd0b7c5-97aa-4c6f-807c-c4c2606256f5,susah banget verifikasi wajah gagal terus ribet,1,susah verifikasi wajah gagal ribet,0,0,Negative
+4fbb216d-973d-4104-a927-a18469130015,"Bikin rekening ribet banget harus VC segala, pas mau vc gabisa-bisa krn katanya customer service lagi melayani nasabah lain, heyy customer service kalian cuma sebiji? Lagian kenapa sih harus vc segala, kan dr awal sudah scan ktp dan wajah, kenapa harus pake vc vc segala",1,bikin rekening ribet vc pas vc gabisa krn customer service layan nasabah heyy customer service biji sih vc dr scan ktp wajah pake vc vc,0,0,Negative
+3524129f-4973-42cf-b0e4-021009da4379,sangat membantu,5,bantu,1,1,Positive
+fcea8279-09a5-46cb-852f-ebb0f03049a7,"aplikasi minusan , buka rekening harus vdcal , itupun ga bisa ,pelayanan sangat buruk",1,aplikasi minus buka rekening vdcal itu layan buruk,0,0,Negative
+8eeb0899-ad9d-471e-a6be-6351ed1abc48,mantap,5,mantap,1,1,Positive
+38124c19-96ee-4a7c-b415-14c94f8880d7,sangat baik,5,,1,0,Negative
+2fe7760b-0ea1-4629-bda4-a6b713c50568,sangat membantu bertransaksi,5,bantu transaksi,1,1,Positive
+948e08ba-e05f-48d5-ad0c-cf2497aa8071,sangat puas,5,puas,1,1,Positive
+b2122d9b-0c0a-4a7e-93c9-5d20c1cb9bbc,bagusds,5,bagusds,1,0,Negative
+fa97b54a-698d-41b4-9f56-b82d599f18ed,Terlalu sering update tapi engga bikin lebih baik,1,update engga bikin,0,0,Negative
+50db2de4-12a6-40a2-b0f5-ced9d1466a50,"Sebelum di update aplikasi lancar.. tapi setelah di update gila lemooootttttt parah.. mau buka aplikasi aja loading lama.. isi token lama, saldo udah kepotong tapi nomor token ga keluar2.. tolong di perbaiki",1,update aplikasi lancar update gila lemooootttttt parah buka aplikasi loading isi token saldo potong nomor token tolong baik,0,0,Negative
+754b29d1-8e19-4ddf-b183-359088e4565b,ok,5,ok,1,1,Positive
+85444bab-f075-44f1-8ae0-473fa09938d1,kebanyakan update,1,banyak update,0,0,Negative
+a1ea1d96-9d79-42dc-8bec-928673450306,josss,5,josss,1,1,Positive
+a9ee73b6-2766-4b7c-87f5-f0a0144ad2ed,dulu aplikasi ini simple.. masuk tinggal sidik jari kelar... sekarang sidik jari malah gagal entah kenapa,2,aplikasi simple masuk tinggal sidik jari kelar sidik jari gagal,0,0,Negative
+ae0ba7b4-bf93-4488-a89b-fd169e2b8952,Semoga mybca saya segera buka,5,moga mybca buka,1,0,Negative
+dd6a2a6b-a62b-4f40-9ec2-fb052582a486,sangat puas,5,puas,1,1,Positive
+34abdc12-f811-4dc1-a0d2-ac328f08960e,aplikasi jelek 👎🏻👎🏻,1,aplikasi jelek,0,0,Negative
+13295e5e-68ea-46cb-9ae0-9e200db7cf96,"ini ga jelas bangat di suruh update tp ko ga bisa"" masuk kenapa ya ko bisa kaya gitu masa mesti ke banknya langsung si?my BCA saya g bisa masuk"" padahal password nya udah bener gimana si ini",2,bangat suruh update tp ko masuk ko kaya gitu mesti bank langsung si bca masuk password bener gimana si,0,0,Negative
+c88d6140-0c70-46ca-8dac-95d6c4052654,"udah di isi saldo nya kok gak masuk ya udah 2 hari,coba jelaskan",2,isi saldo masuk coba,0,0,Negative
+bc2a2f92-d6d5-4318-9853-ee3ec82aca99,"Aplikasinya lemot padahal jaringan bagus, apk mbanking lain aman aja, cuma MyBCA yg lemot",1,aplikasi jaring bagus apk mbanking aman mybca,0,0,Negative
+c34a9991-2296-4dbe-bf77-1f2307b02f29,bagus,5,bagus,1,1,Positive
+8f036f7f-99a8-4620-a2ea-b1e87adab6d0,maaf tapi kenapa setiap verifikasi muka pas mau buat rekening selalu stuck? padahal punya jaringan bagus,3,maaf verifikasi muka pas rekening stuck jaring bagus,0,0,Negative
+f90018f5-1410-43b2-acc8-ac754d3c9b79,terimakasih,5,terimakasih,1,1,Positive
+9f212553-a698-43ad-bbb9-0928a567bf76,buruk eror terus,1,buruk eror,0,0,Negative
+a3a3340e-a4ab-47af-b9ab-96774d91f22a,kepada BCA tbk.coba tolong aplikasi nya dibikin bagus lagi lebih elegan,5,bca tbk coba tolong aplikasi bikin bagus elegan,1,0,Negative
+f58669cd-cb9b-460f-b8e5-345da36d21ed,sangat bagus aplikasinya,5,bagus aplikasi,1,1,Positive
+7cc56d57-3db0-4f3a-abd6-7703256fdd74,proses daftar,5,proses daftar,1,0,Negative
+3fd5a686-1071-45a0-b745-61b509d4e277,verifikasi wajah aja error terus aplikasi banking anjinggg!,1,verifikasi wajah error aplikasi banking anjinggg,0,0,Negative
+c3012496-f228-4991-99a4-b05be3e3c525,mantapppp,5,mantapppp,1,0,Negative
+6823c992-a488-4a85-97c5-d9fa4e1c060e,apk nya sering keluar sendiri,3,apk,0,0,Negative
+4171ebee-2639-4689-b6df-a88a7385937d,"apk nya tidak membantu, sampai akun saya terblokir",1,apk tidak bantu akun blokir,0,0,Negative
+6b9a92db-a094-46d7-b812-844aded77914,my bca sangat buruk respon lama ngga rekomen banget,1,bca buruk respon ngga rekomen,0,0,Negative
+fce231d4-5de6-4767-a705-5c58135d4c4d,Ok,5,ok,1,1,Positive
+1fbbcc2b-f510-4576-8523-33ab48ba42d5,kenapa tidak ada pilihan untu negara Indonesia,1,tidak pilih untu negara indonesia,0,0,Negative
+f94d06e2-3fff-42de-b1eb-44bc3462becc,good,5,good,1,1,Positive
+f26183f9-0690-47ec-aa08-b2fbed473b63,"yah jawaban tamplate, pulsa ada, koneksi bagus, nomor aktif, apa lagi?... dulu bagus performenya, skrg sampah...mana minta reset psswrd dicoba berkali2 ga mau kirim OTP...tapi pulsa saya habis dipotong...ke office nya malah dibilang ga ada pulsalah, pengaturan sms-lah msh ga bisa, telp ke halo bca operatornya jawaban tamplate, dan ada satu operator yg ketus ga bisa mgelayani komplen client. saya sdh berminggu2 ga pakai mybca, tolong perbaikilah....",1,yah tamplate pulsa koneksi bagus nomor aktif bagus performenya skrg sampah reset psswrd coba kali kirim otp pulsa habis potong office bilang pulsa atur sms msh telp halo bca operator tamplate operator ketus mgelayani komplen client sdh minggu pakai mybca tolong baik,0,0,Negative
+8e14df21-85c6-43ff-8e3f-ead3c37a59d2,saya paling males kalo suruh ufdate lg,1,males kalo suruh ufdate lg,0,0,Negative
+08b0f3e9-6f21-4e66-bcad-83f834fbfb88,kenapa masuk pakai locksmart sekarang gak bisa ya kak ? setelah update banyak sekali penurunan d BCA. thank you,4,masuk pakai locksmart kak update turun bca thank you,1,0,Negative
+8aa3361f-4d6c-4675-95c8-9abe36419b99,males banget baru pindahin ke new device ada kendala di bca id udah telp Cust service selesai.. mau login lagi pake muka ga kedetek mulu.. heran,1,males pindahin new device kendala bca id telp cust service selesai login pake muka kedetek mulu heran,0,0,Negative
+84920468-f56c-41c3-9d53-6e35c3ba5618,ini mybca emg gabisa masuk pakai wifi kah?,2,mybca emg gabisa masuk pakai wifi kah,0,0,Negative
+d40a67f8-9780-4f57-8097-4ae363163a06,bca memang terbaik dan selalu dipercaya,5,bca baik percaya,1,1,Positive
+09179c71-1eb3-4724-916c-a3241a7db02a,saya coba login ulang tidak bisa lantaran saat proses memasukan nomor hp tidak ada negara indonesia,1,coba login ulang tidak lantar proses pasu nomor hp tidak negara indonesia,0,0,Negative
+df2d2b98-690b-4e45-99f1-9d9aa739f212,"Verifikasi Wajahnya Susah, Tidak Semudah Mandiri, Saya Sampai Terblokir 2 kali",1,verifikasi wajah susah tidak mudah mandiri blokir kali,0,0,Negative
+7d05c5ed-455a-40f9-bab8-285ee3fcbfe8,lemott,3,lemott,0,0,Negative
+97aa1f68-e6e0-4fdd-b62d-81ebf47131ef,otp ga masukdan cs gada solusii,1,otp masukdan cs gada solusi,0,0,Negative
+552d5c76-9fbe-436a-9cb6-0557578fcdfc,"Ini sudah bagus Apk nya lancar di HP Oppo F7 Login langsung masuk beda Versi Sebelumnya Apk nya sering keluar sendiri saat mulai dibuka jadi terasa terganggu krn sering keluar sendiri saat mulai login dan susah masuknya klu diulang2 malahan tambah error apk nya beda yg sekarang sudah sangat bagus, pertahankan👌👍👍👍👍👍",5,bagus apk lancar hp oppo login langsung masuk beda versi apk buka ganggu krn login susah masuk klu ulang error apk beda bagus tahan,1,0,Negative
+52ad58dc-17c3-4f80-97bd-0f14fc9283d3,aplikasi maling.... duit gua 10jt ilang gitu aja kocak... emang bank indon enggak ada yang bener bye dah...,1,aplikasi maling duit gua jt ilang gitu kocak emang bank indon bener bye dah,0,0,Negative
+3d251ca1-ac04-4fd8-bb6d-713794924efb,duit ilang sendiri,1,duit ilang,0,0,Negative
+d302fdc6-f014-45f4-854b-7a32ac8174a1,"jadi lemot, ribet dan sering eror bank Sebesar BCA kenapa begini, mohon di perbaiki agar nyaman aman dalam transaksi Mobile",2,ribet eror bank bca mohon baik nyaman aman transaksi mobile,0,0,Negative
+3cc03407-da84-442d-aa5e-ef59c3145c55,mantap,5,mantap,1,1,Positive
+05bd091c-4e95-4680-980b-94cc90e48cc7,"sumpah kesal banget sama kode otp yang ga muncul"" di SMS padalah semuanya udah oek, jelek bgt si aplikasinya, nyusahin banget",1,sumpah kesal kode otp muncul sms pada oek jelek bgt si aplikasi nyusahin,0,0,Negative
+3ecb99e5-b5f5-424e-9740-090beb23bf19,"Transaksi cicilan kartu kredit jangan masuk notifikasi, biasa masuk tengah malam, sangat mengganggu. makin sering minta pengkinian data, banyak error transaksi qris, payah",2,transaksi cicil kartu kredit jangan masuk notifikasi masuk malam ganggu kini data error transaksi qris payah,0,0,Negative
+6abdf09f-00c6-489f-ace1-3cf88cdf6561,ga bener ga bisa isi etol parah di tab juga ga bisa,1,bener isi etol parah tab,0,0,Negative
+aa1938f0-cac3-4378-8c56-394c805aae20,fitur fiturnya ditambah lagi,4,fitur fiturnya tambah,1,1,Positive
+c52137ef-10eb-4c90-aa42-47ec5de70fea,kenapa aplikasi Bank BCA tidak bisa di opdate,4,aplikasi bank bca tidak opdate,1,0,Negative
+f44b4269-a31f-4460-97a1-e7ddaa940218,transaksi qris gagal tapi saldo terpotong,5,transaksi qris gagal saldo potong,1,0,Negative
+0624ad79-7fa4-4457-b496-97e7f4df1348,baik sekali,5,,1,0,Negative
+fda03c2f-b8ce-426c-ac1f-5268cbde6810,"Brengsek nyusahin banget nih aplikasi, susah banget ngirim kode OTP padahal pulsa banyak,,, kalau saja rekening saya bukan bca, males banget download aplikasi payah seperti ini",5,brengsek nyusahin nih aplikasi susah ngirim kode otp pulsa rekening bukan bca males download aplikasi payah,1,0,Negative
+dd5a207d-fa6e-447e-b68f-d85ae630dc1a,mantap,5,mantap,1,1,Positive
+ab3b4b32-6a6f-4632-8ebb-e291144e3748,"cuhhhh.....apk gaguna, mau narik duit tp waktu cek saldo malah nunggu sesaat. Sesaatnya brp jam? ato berhari-hari?",1,cuhhhh apk gaguna narik duit tp cek saldo nunggu saat brp jam ato hari,0,0,Negative
+14529e54-c66c-4a18-89c5-3fe2792142b7,"aplikasi malah ga bisa dibuka,,",1,aplikasi buka,0,0,Negative
+961cf384-d48f-439f-83bc-f59dd979c93c,bank yg selalu bikin nasabahnya kecewa,1,bank bikin nasabah kecewa,0,0,Negative
+806c7635-af84-4b04-8a60-806c2f158059,Tingkatkan.. Biar semua akses lebih muda jgn smpe ada gangguan.Mybca good luck,5,tingkat biar akses muda jgn smpe ganggu mybca good luck,1,1,Positive
+321c3af6-3808-4cea-b38d-541f193f1f4c,"sering bgt maintenance ya, merepotkan",2,bgt maintenance repot,0,0,Negative
+863517ed-d612-4f49-8df4-3d7af1d92367,"beberapa hari ini BCA error terus, ga bisa dipakai pada saat urgent, kecewa sekali",3,bca error pakai urgent kecewa,0,0,Negative
+b8e57fcf-9f7e-4107-a8c7-58a9d33f309d,"26/05/26 : mau transaksi payment qrish diresto ga bisa, tarik tunai ga bisa, UNTUNG SAYA MAKAN BERDUA GA SENDIRI!! APA GA MALU GARA2 APLIKASI ERROR NGERUGIIN ORANG TAU GA!! BIKIN MALU!! CS DITLP GA BISA!!!",1,transaksi payment qrish diresto tarik tunai untung makan dua malu gara aplikasi error ngerugiin orang tau bikin malu cs ditlp,0,0,Negative
+5e685a97-c098-4646-b5c5-24e39d1d8dfb,aplikasi ini sangat penting sekali,5,aplikasi,1,0,Negative
+47a498ca-742c-4b8f-adc3-b42876ac6bc8,kadang loading lama,3,kadang loading,0,0,Negative
+e1c40271-dcad-468a-a281-bb93b87d0d91,"SALDO KEPOTONG, UDAH CHAT GA ADA BALESAN ERROR MULU, GA ADA SOLUSI",1,saldo potong chat balesan error mulu solusi,0,0,Negative
+e86e6421-b999-4555-8e6e-5940986c5b96,sekelas BCA bisa BAPUK juga,1,kelas bca bapuk,0,0,Negative
+921ee1dd-e745-4df0-8ab8-4b4fabcd138f,bayak gangguan,1,bayak ganggu,0,0,Negative
+4149b0e7-74d2-4dd4-ac94-7ba7284212a4,gangguan parah,1,ganggu parah,0,0,Negative
+8291a3c7-5468-44eb-b8af-26090d075928,"ga bisa transaksi,gua udh selesai makan suruh bayar pakek daon guaaaaa????",1,transaksi gua udh selesai makan suruh bayar pakek daon guaaaaa,0,0,Negative
+d93dd480-20f5-4106-b52a-cd47c56de33e,blm maksimal,3,blm maksimal,0,0,Negative
+46800af3-03a5-4aa5-9cf9-5ba76850f6d2,aplikasih lelet,1,aplikasih lelet,0,0,Negative
+f6595a4d-d900-48ce-8908-9d8b55899054,nybca hri ini tgl 26 mei 2026 pukul 22.00 wib trouble tidak bisa cek saldo maupun tarik tunai,5,nybca hri tgl mei wib trouble tidak cek saldo tarik tunai,1,0,Negative
+415d9fe3-773b-48c4-8693-4d6e2428fa89,bagusin lagi ini aplikasinya kadang ERORR sering gangguan saat akan membayar dengan Qris.,1,bagusin aplikasi kadang erorr ganggu bayar qris,0,0,Negative
+be1292df-d0db-423b-a6ef-0758d96c37c7,"lama2 bca gak bener kenapa si ? gila aja .masak transaksi kepending , udah sering loh kaya gini trus, berapa minggu lalu kepending dan gak ada refund / pengembalian dana udah gua diemin aja karna cuma 50rb, sekarang kepending lagi, dan buat laporan katanya nunggu 1*24 jam untuk buat laporan lg. ya kali uang pribadi mau make harus nunggu selama itu dan belum tentu pengembalian dana langsung . karna dulu gua juga pernah buat laporan ke bca karna pending dan proses nya 7 hari .tolong dong benerin",1,bca bener si gila masak transaksi pending loh kaya gin trus minggu pending refund kembali dana gua diemin karna rb pending lapor nunggu jam lapor lg kali uang pribadi make nunggu belum kembali dana langsung karna gua lapor bca karna pending proses tolong benerin,0,0,Negative
+efa377ce-2da1-4d59-886e-efe364779e07,gangguan terus,1,ganggu,0,0,Negative
+651039d9-bd2a-41bd-b650-e9a7a4b8ee8a,ada apa dengan BCA saldo tiba tiba hilang transaksi slalu gagal slalu ada saja gangguan nya,2,bca saldo hilang transaksi slalu gagal slalu ganggu,0,0,Negative
+463f7769-15d6-44d7-853a-cff1f52af734,kaga bagus udh kebangetan parah inih aplikasi cek saldo aja kaga bisa KACRUT.,1,kaga bagus udh banget parah inih aplikasi cek saldo kaga kacrut,0,0,Negative
+7fe109c8-2817-480b-880b-ae6a0d741c6c,"aplikasi mbanking baru kali ini annoying bgt, tiap sebulan ada terus pemeliharaan sistem, 1 bulan ada BRP kali dan itu ganggu bgt pas mau byr qris, plis la kalo gak ada kepentingan jgn dikit"" pemeliharaan najissss",1,aplikasi mbanking kali annoying bgt bulan pelihara sistem brp kali ganggu bgt pas byr qris plis la kalo penting jgn dikit pelihara najissss,0,0,Negative
+901aab3b-3390-4f0d-a5eb-36ec48750ddf,kenapa sering eror sekarang,2,eror,0,0,Negative
+0321e643-01d9-4d2c-802b-37bca9388c4b,"ko lemot banget ya skrng, my bca sm bca mobile",1,ko skrng bca sm bca mobile,0,0,Negative
+e4be49b7-cf3b-4edf-b1d1-86a623ea4738,"Direktur, Manajer IT dan semua yg jd app developer perlu disentil. komunikasi kalian Jelek! kalau ad masalah atau pemeliharaan sistem BILANG! PAKAI POP UP NOTIF! PAKAI NOTIFIKASI! JANGAN CM DIEM2 TP TIBA2 G BS DIPAKAI! GW UD AKTIFIN NOTIFIKASI! INI SALAH LU!",1,direktur manajer it jd app developer sentil komunikasi jelek ad pelihara sistem bilang pakai pop up notif pakai notifikasi jangan cm diem tp bs pakai gw ud aktifin notifikasi salah lu,0,0,Negative
+0602f379-848e-46e0-87f0-c4d402828c09,terlalu banyak bug,1,bug,0,0,Negative
+0ba17652-870e-46bb-984d-b39c2542d421,Bagus tapi kadang Error,5,bagus kadang error,1,0,Negative
+e2b51728-4a8e-4a9f-b63e-9cee39f05fa6,tolong dong min di perbaiki sistem nya kok lemot bngt malahan sesudah di update,1,tolong min baik sistem bngt update,0,0,Negative
+d5da51d5-f515-4c48-b345-7feea100e89a,sudah seminggu ini my bca trouble trus . transfer susah . terima susah . bayar qr susah . kenapa ini,2,minggu bca trouble trus transfer susah terima susah bayar qr susah,0,0,Negative
+2a7dc56d-3935-4987-8743-9dcee0e5ff42,sangat baik sekali,5,,1,0,Negative
+a5d1aeb8-1052-4a88-abbe-b688b531f170,tidak bisa verifikasi wajah.,1,tidak verifikasi wajah,0,0,Negative
+76af4280-4e80-4146-ba09-0876c55fb949,"aplikasi gajelas, jelas² verifikasi muka muka gw kenapa ga bisa² setiap di HP baru masa harus telpon layanan terus 😮‍💨😮‍💨👎👎👎👎👎👎👎",1,aplikasi gajelas jelas verifikasi muka muka gw bisa hp telpon layan,0,0,Negative
+1c24e29c-fb9c-4fa9-8e6f-e3d75580252d,susah banget bukanya kalau lagi dibutuhin,1,susah buka dibutuhin,0,0,Negative
+147ee96c-b76b-4f23-a838-6c324476321f,"MyBCA ini kenapa dah, setiap bulan minta update, udah gitu updatenya susah lagi, ngak semua penyimpanan HP orang luas, minta update terus, tapi aplikasinya gitu² aja, buruk amat nih aplikasi",1,mybca dah update gitu updatenya susah ngak simpan hp orang luas update aplikasi gitu buruk nih aplikasi,0,0,Negative
+09442cef-fee1-4198-b2e9-9dd7982aa2ca,"trimakasih ,",5,trimakasih,1,1,Positive
+58fe598f-7ff0-4bba-83fd-a92385650851,mantap,5,mantap,1,1,Positive
+54ffb9a6-1211-4fb3-8046-26b8e2801d84,ada ada aja pake gak bisa di buka,5,pake buka,1,0,Negative
+62defb58-0e86-4263-b8d3-90186ab83418,"bolak balik verifikasi ulang, buang waktu",1,bolak verifikasi ulang buang,0,0,Negative
+d18b0edc-8bb8-4d9e-9748-328561393815,"BCA makin kesini makin kesono semakin lama makin bobrok sering gagal tf kmrn sy topup ovo utk beli pempers di akun saya berhasil, saldo berkurang, tp di tempat abang ny belom masuk2 sampe sekarang, saldo ga balik BCA makin kesini makin BOBROK",1,bca kesini sono bobrok gagal tf kmrn sy topup ovo utk beli pempers akun hasil saldo kurang tp abang ny bom masuk sampe saldo bca kesini bobrok,0,0,Negative
+f32c0b96-9717-4c21-9306-94843c1bb117,oke,5,oke,1,1,Positive
+2de0f8f1-32ef-41f0-9176-00fdd58e4516,bagus,5,bagus,1,1,Positive
+880e9f56-06bc-4ef8-8b63-45d84243f3f9,suka,5,suka,1,1,Positive
+a64eaa08-6788-447d-8565-eebd6f457e01,"mau login kode negara Indonesia tidak tertera,jadi gak ada gunanya",1,login kode negara indonesia tidak tera guna,0,0,Negative
+737aea1d-d4f0-4ff9-9b50-348e69841edb,"dari segi pelayanan sudah sangat bagus dan sangat mudah,tapi tolong untuk pengiriman kartu card fisiknya lama banget untuk sampai,di keterangan 7 hari maksimal tapi nyatanya tidak sesuai",5,segi layan bagus mudah tolong kirim kartu card fisik terang maksimal tidak sesuai,1,1,Positive
+74495396-79c8-4c13-aad1-3e4e059c5483,Aplikasi tidak kompitebel dengan perangkat anda,2,aplikasi tidak kompitebel perangkat,0,0,Negative
+509d887a-b893-4e63-8c9d-0a8b85ca27fb,"setiap kali transfer ke bank bca, saldo yang kepotong melebihi biaya admin",1,kali transfer bank bca saldo potong lebih biaya admin,0,0,Negative
+4994386f-1f41-4d5a-b57b-177e943b7fe1,top,5,top,1,1,Positive
+e35737ad-7dd5-46cd-a452-dc39e57ea529,aman dan amanah,5,aman amanah,1,0,Negative
+07805fd5-f1b0-466d-90a7-1d55c361b4c8,sangat membantu sekali,5,bantu,1,1,Positive
+8f905f5f-9198-4a35-bb17-effd1369e2ec,"apk kebanyakan eror,saya ingin masuk ke akun saya tidak bisa, saya kasih bintang 5 biar nongol, kalo kebanyakan gini orang² yang baru daftar bakal nyesel daftr di apk ini .",5,apk banyak eror masuk akun tidak kasih bintang biar nongol kalo banyak gin orang daftar nyesel daftr apk,1,0,Negative
+f3496b35-0526-4b87-8772-85a00f66f1ab,"Semua layanan lengkap dan mudah digunakan. Tapi sayang seringkali BCA ID terblokir padahal sudah memasukan password yang benar, jadi harus gonta-ganti password dan menghubungi haloBCA.",4,layan lengkap mudah sayang seringkali bca id blokir pasu password gonta ganti password hubung halobca,1,1,Positive
+5994de03-44a6-4e1d-ac7f-825289c74edb,knp ya kalo bca saldo bnyak bnyak bngt tlfon seluler penipuan masuk giliran saldo dibikin 0 sama sekali ga ada tlfon penipu??,2,knp kalo bca saldo bnyak bnyak bngt tlfon seluler tipu masuk gilir saldo bikin tlfon tipu,0,0,Negative
+3f358721-f3f8-4916-acf3-522020cd03b4,Biaya Bulanan Termahal,1,biaya bulan mahal,0,0,Negative
+57120d22-d4c8-445c-82e8-5480903f00be,semoga berjln lancar..,5,moga berjln lancar,1,1,Positive
+bc125b11-7a7f-48cd-a685-ba82fbdf9874,Ukurannya jgn besar² cuma mau update memori tidak mencukupi kalo tidak d update gak bisa di buka. Ini juga tuntutan pekerjaan min kalo bukan karena menyangkut pekerjaan juga gak nginstal harus e apk ne d update lebih fleksibel yg bisa ngikutin hpnya jangan karena cuma mau nginstal apk harus ganti hp dulu,1,ukur jgn besar update memori tidak cukup kalo tidak update buka tuntut kerja min kalo bukan kerja nginstal apk ne update fleksibel ngikutin hpnya jangan nginstal apk ganti hp,0,0,Negative
+5d631397-e8c0-4ccd-ab52-74c8dad711d5,kenapa sering skali minta update,3,skali update,0,0,Negative
+e6d9db97-2432-4a7b-9395-b9acd35b4534,"kenapa ngak bisa buat login?kalau login tulisannya gagal terus, disuruh masukin pasword juga salah terus padahal pasword benar!!",2,ngak login login tulis gagal suruh masukin pasword salah pasword,0,0,Negative
+8798f144-6254-4f02-be14-1806ed17a54c,mybca ok banget,5,mybca ok,1,1,Positive
+78f7a34c-93df-457d-af16-a585a0b1de32,sangat cocok untuk sahari hari,5,cocok sahari,1,0,Negative
+90d37e09-3e5d-457c-835b-e49c060e9000,"min tolang perbaiki,soalnya aplikasinya lag banget pas buka atau scroll",3,min tolang baik aplikasi lag pas buka scroll,0,0,Negative
+8e2df94d-599a-4e3a-bed0-3d38e744ab76,Selalu suka dengan MyBCA,5,suka mybca,1,1,Positive
+ad942e25-952f-4f1d-8264-7962a35a198b,"Daftar aja di bolak balik trs goblokk bener , bikin orang emosi doank,",1,daftar bolak trs goblokk bener bikin orang emosi doank,0,0,Negative
+7a21e81f-23bc-4bf7-830b-0b99f9192e29,Lancar jaya,5,lancar jaya,1,0,Negative
+04024dcb-0293-464b-b938-63cf46b155db,mau buat rekening baru aja lemot nya setengah mati,1,rekening mati,0,0,Negative
+e3b5d4d5-51e9-4d4a-b72c-6b965d02f9b7,terlalu sering pemblokiran Tampa keterangan yang jelas,1,blokir tampa terang,0,0,Negative
+4304faf3-caaf-4b17-a66b-fc003a497ab7,gangguan nya lama kali,1,ganggu kali,0,0,Negative
+e8cee828-0d40-4754-af3d-79a56d3d429a,"Ribet bngt pin my bca lupa aja harus banget ke kantor cabang nya buat apa ada hallo bca & my bca kalo ujung""a di suruh ke kantor cabang juga kocak.. ribet aplikasi nih kebanyakan pin.. mending M-banking kalo gini mah.",3,ribet bngt pin bca lupa kantor cabang hallo bca bca kalo ujung suruh kantor cabang kocak ribet aplikasi nih banyak pin mending banking kalo gin mah,0,0,Negative
+89521f39-9050-47eb-88db-b359b4d9f58e,buat bca,5,bca,1,1,Positive
+aa73c30c-5fba-4529-b20a-c991610f980e,keren,5,keren,1,1,Positive
+9ad4ace7-4ccf-44ec-ad39-2463ca1db301,"tolong ditingkatkan lagi aplikasi ny, Uang saya sering nyangkut di flazz bahkan terkirim 2 kali saat pengiriman karna gagal, kalau gini terus saya bakal pindah ke bank lain",1,tolong tingkat aplikasi ny uang nyangkut flazz kirim kali kirim karna gagal gin pindah bank,0,0,Negative
+4ba00760-0704-4d2e-8ab7-b0d322ad7077,"hari ini 25/05/2026 saya selaku nasabah BCA kecewa transaksi saya gagal. saldo terpotong, tidak ada mutasi dan penerima juga tidak menerima dana. saya hubingi CS infonya kendala dari pagi, namun tidak ada pemberitahuan lebih awal. saya kira nama yang besar menjamin profesionalitas namun ternyata tidak",1,nasabah bca kecewa transaksi gagal saldo potong tidak mutasi terima tidak terima dana hubingi cs info kendala pagi tidak pemberitahuan nama jamin profesionalitas tidak,0,0,Negative
+e2b92b36-0924-4335-bf70-f2f9c0d60cc2,kenapa sih my bca ketika transaksi gagal saldo selalu terpotong dan yg bikin keselnya lagi ketika ada kendala qris ataupun virtual account gak ada notifikasi,1,sih bca transaksi gagal saldo potong bikin kesel kendala qris virtual account notifikasi,0,0,Negative
+5265a9a0-8338-48bd-81af-b89277128a40,bagus,5,bagus,1,1,Positive
+23ccb528-85fb-4a7c-990a-6175407860e1,error terus belakangan,1,error,0,0,Negative
+4e4ca663-6553-4456-8506-6c3edec0e176,pembelian paket data di BimaTri dengan qris my bca berhasil. tapi di aplikasi BimaTri gagal..,1,beli paket data bimatri qris bca hasil aplikasi bimatri gagal,0,0,Negative
+362efe74-316c-4a0e-a4b6-8204968519b9,abis update malah suka gagal transaksi gimana sih ini,2,abis update suka gagal transaksi gimana sih,0,0,Negative
+736ac170-2e0a-4722-9724-09f364ba7e78,"kenapa aplikasi nta gbisa di update, tkutnya pas mo bayar pke qris nanti tbtb malah gbisa dipake klo diupate aja gbusa",3,aplikasi nta gbisa update tkutnya pas mo bayar pke qris tbtb gbisa dipake klo diupate gbusa,0,0,Negative
+d562ac72-6c3c-4543-a93a-fa47b12e5712,josss,5,josss,1,1,Positive
+40b4ac50-2a02-46b4-9b44-8724da2592c1,"sering gangguan disaat momen yg g tepat. Udh masalah uang, paniknya bukan main. gmna ini, akhir2 ini kok jadi makin sering trjadi.",3,ganggu saat momen udh uang panik bukan main gmna trjadi,0,0,Negative
+cba9d5ef-1e41-4137-91e8-f4bbf86e811f,"setelah di upgrade kok malah jadi lemot ya, hari kemaren malah susah banget buat login 🥲 tolong dong diperbaiki",3,upgrade kemaren susah login tolong baik,0,0,Negative
+f901a14f-9c68-4815-9e35-7a16fcaa732f,sekarang top-up uang elektronik tp ga masuk 😭😭 gagal keluar parkiran,2,top up uang elektronik tp masuk gagal parkir,0,0,Negative
+dbda8007-33c9-402d-98a0-16c6c7851650,kenapa saya tf ke shopee uang gk masuk tapi duit mah kepotong ya?,1,tf shopee uang masuk duit mah potong,0,0,Negative
+65679e80-acfb-463c-ab7b-4ce166e31529,ok.,5,ok,1,1,Positive
+4db90530-b238-49b2-9a9c-b86b4ca579e9,"kenapa aplikasinya sering gangguan ya? kadang error, kadang tidak bisa tf, sering bgt terjadi 2x tf eror tapi saldo berkurang, setelah 15 mnit baru muncul notif pengeluaran saldo",2,aplikasi ganggu kadang error kadang tidak tf bgt tf eror saldo kurang mnit muncul notif keluar saldo,0,0,Negative
+8d697ff5-d136-498a-8758-a1d4d7f1ba03,setelah di update bukannya makin lancar malah makin lemot,3,update lancar,0,0,Negative
+7d0c5148-8feb-43b6-9b99-a1acfa2b3e24,"aplikasi sampah ga ada perbaikan mau transaksi qris,salah tekan pasword bukannya di ulang malah error keluar minta id lagi, lupa id kirim ke email , masukan id malah si blokir, bener2 sampah cuma bikin susah ini aplikasi ga ada bagus2 nya, bank maling transaksi gagal tapi saldo terpotong uang tidak dibalikin",1,aplikasi sampah baik transaksi qris salah tekan pasword ulang error id lupa id kirim email masuk id si blokir bener sampah bikin susah aplikasi bagus bank maling transaksi gagal saldo potong uang tidak dibalikin,0,0,Negative
+a0e1f61a-f70e-48b8-a4aa-b1e2b444eacb,kalau bisa akses dengan pembaca layar TalkBack karena banyak tombol-tombolnya yang tidak terbaca dan lebih bagus lagi kalau ada mode gelap dan semoga dipertimbangkan terima kasih,5,akses baca layar talkback tombol tombol tidak baca bagus mode gelap moga timbang terima kasih,1,0,Negative
+f87803e0-ccaf-478f-8d5d-996275b4d281,"sering banget gangguan heran deh, duit kepotong tapi blom berhasil pembayarannya",1,ganggu heran deh duit potong blom hasil bayar,0,0,Negative
+31d6eb7f-c1fb-4e12-aab4-e22612f45839,ruet setengah matii,1,ruet mati,0,0,Negative
+f6c92ab6-9789-4f9b-a345-ff5dd66b4ec2,lemot banget abis update,3,abis update,0,0,Negative
+6abc7a66-06f3-4f99-a78a-96c0c7859516,"Makin kesini makin Jelek , sering terjadi gangguang System Transaksi sering gagal tapi Saldo Berkurang",1,kesini jelek gangguang system transaksi gagal saldo kurang,0,0,Negative
+5ca243fc-e895-440d-9927-1b900cd68c8e,"ini bca gimana dah, transaksi gua gagal tapi saldonya udah berkurang anjir bgt, gua ulangin sekali malah tiba2 berkurang saldo tapi gagal, dan history transaksinya gak ada, gak masuk juga ini saldonya ke yg gua tf. kacaau banget sih.",1,bca gimana dah transaksi gua gagal saldo kurang anjir bgt gua ulangin kurang saldo gagal history transaksi masuk saldo gua tf kacaau sih,0,0,Negative
+fa955a0b-0f2e-4a61-abbb-c22e5c53573b,kalo perbaikan ga pernah ada info tiba-tiba ga bisa digunain apknya,1,kalo baik info digunain apknya,0,0,Negative
+e959c97b-d283-4014-be7d-82c67172c71b,"apk kaga jelass, loading mulu padahal sinyal bagus, tiba tiba gagal ga danta",1,apk kaga jelass loading mulu sinyal bagus gagal danta,0,0,Negative
+65c6bf71-6b87-4cba-bb2c-bd7390522ca2,kenapa sering eror sihhh... ?? transfer aja masalah terus.. saldo udah kepotong tapi belum terkirim.,2,eror sihhh transfer saldo potong belum kirim,0,0,Negative
+a9cf46db-fb02-40b5-86f2-f2009ad97539,aplikasi perbankan terburuk si. mending Brimo. bisa sehari 2 kali bermasalah ni aplikasi,1,aplikasi perban buruk si mending brimo hari kali masalah ni aplikasi,0,0,Negative
+14614172-f297-4cee-ac82-03e5c62e84d0,APLIKASI SANGAT LAMBANNN ‼️‼️‼️‼️‼️‼️‼️‼️‼️‼️,1,aplikasi lambannn,0,0,Negative
+85b70e09-3cc2-443f-bdec-1217f69e56e5,simple tp beberapa kalo sering trouble,4,simple tp kalo trouble,1,0,Negative
+b325415c-eb08-462d-9645-d3e92b834d1c,"Plis banget, sekalinya lama beneran lama banget kalau mau ngurus apa-apa di aplikasi ini.",1,plis sekali beneran ngurus aplikasi,0,0,Negative
+1e7f91e2-a991-4221-abdd-8c0081f76773,blm bisa bisa,3,blm,0,0,Negative
+b675dd1b-329d-4d38-aef4-82591831af28,"apk butut, sinyal kuat buat buka loading mulu",1,apk butut sinyal kuat buka loading mulu,0,0,Negative
+4c60a707-65fe-4059-bbdc-d235753e987c,saat foto wajah tidak bisa kenapa ya,3,foto wajah tidak,0,0,Negative
+c4d01677-f598-41c5-b861-bd7816b15422,Nice apps,5,nice apps,1,0,Negative
+fe4cc660-5a99-4d71-b6f0-2e01e77ac54d,bagus,5,bagus,1,1,Positive
+47141cb7-6c49-4ad6-81b2-ebe07355100d,saya tidakk bisa masuk kode negara indonesia nya gk ada,1,tidakk masuk kode negara indonesia,0,0,Negative
+2758c44c-86b5-4e6c-95df-24a5207b1646,"cs nya lama, dari pagi sampe siang blm bisa vdcall",1,cs pagi sampe siang blm vdcall,0,0,Negative
+c8e778f3-b2a1-4ed8-bb61-2de047931af2,mantap,5,mantap,1,1,Positive
+bd808f8e-ddc7-4e42-a55d-de12455586dc,sangat bagus,5,bagus,1,1,Positive
+9608416f-edb1-4800-8b95-78bd01997b06,"buat verifikasi via video callnya susah banget. jaringan bagus, tapi di barnya merah",2,verifikasi via video callnya susah jaring bagus bar merah,0,0,Negative
+d59d9cf0-8cf3-414f-8934-b8e8ed4bd48d,ngeselin sumpah di suruh update giliran udah mau di update malah ga bisa di buka susah banget ga bisa di install,1,ngeselin sumpah suruh update gilir update buka susah install,0,0,Negative
+55e63699-c612-4183-9317-4f9d013fcbdf,ok,5,ok,1,1,Positive
+a7bb8745-f775-4188-909c-b9f54e3ca9d9,"Mata saya minus. Verifikasi muka lepas kacamata, saya ngga tau disuruh ngapain, tulisannya ngga keliatan, 3 kali saya diblokir dan vc sama cs nya. Semoga paham.😭",3,mata minus verifikasi muka lepas kacamata ngga tau suruh ngapain tulis ngga liat kali blokir vc cs moga paham,0,0,Negative
+cf440e2f-a2ed-4a84-9324-0392ac6a095d,sering ganguan knpa yh setiap transaksi gagal terus,3,ganguan knpa yh transaksi gagal,0,0,Negative
+3700134e-003b-43bd-9f4a-df17071aebb5,"Makin lama makin Lemot, padahal sinyal bagus hp juga yg terbaru.",1,sinyal bagus hp baru,0,0,Negative
+1ba3c3f6-a7d3-480e-8880-d442ca9a8388,lemot banget ih kesel,1,ih kesel,0,0,Negative
+d297100e-1c8f-4ae8-a194-fa27fa3ceb4b,Bagus,5,bagus,1,1,Positive
+1deac76e-c332-43f0-ac31-61d5775d9a1a,sangat membantu transaksi,5,bantu transaksi,1,1,Positive
+d577739a-4a32-4611-9505-8c85b9635408,easy and usefull,5,easy and usefull,1,0,Negative
+a12cef1c-c691-40bf-8166-96c4df1c4e6f,bagus,4,bagus,1,1,Positive
+c88541e5-7345-4966-8ad8-df562ec8a58f,ini gimana tolong ko banyak update dan kadang kalo update saldo sisa malah hilang😕,2,gimana tolong ko update kadang kalo update saldo sisa hilang,0,0,Negative
+5a32f573-2678-4e4b-80ce-5493d73edd28,aplikasi rusak,1,aplikasi rusak,0,0,Negative
+254d70ec-6a53-4f96-837e-0334099cb30f,aplikasi busuk ga guna mau akses aja eror mulu klo ga bisa stabil mnding apus aja,1,aplikasi busuk akses eror mulu klo stabil mnding apus,0,0,Negative
+665ebaf5-fd58-4d45-9567-315af09ad15a,"kok saya tf ke rekening BNI dari semalem ndak masuk ke rekening yg bersangkutan ya? pdhl status berhasil terkirim... jadi tanda tanya besar ini, ataukah ada gangguan ya?",5,tf rekening bni semalem ndak masuk rekening sangkut pdhl status hasil kirim tanda ganggu,1,0,Negative
+4b2e645f-7a2b-43d2-9544-123cda4cced7,kebanyakan update,2,banyak update,0,0,Negative
+7c898be3-4f2e-492b-b5a4-f25143a9223f,pelayanannya sangat sangat baguss 👍🏻👍🏻,5,layan baguss,1,0,Negative
+ab311f89-85d1-4c0b-a6fa-1555dc55a9f3,mantap,5,mantap,1,1,Positive
+3c5dccd8-c722-4227-b187-94f1479ecc80,ok,2,ok,0,1,Positive
+0fa4bc92-fd92-4b90-8bbb-8bdd42c2365e,"Setelah hp ke reset, gak bisa masuk, verifikasi wajah gagal terus😌 lah emang wajah tetangga yang di daftarin??! Saya verifikasi app yang lain ok ok aja tuh. Ini doang bikin emosi. Aaarrggghhh!!!",1,hp reset masuk verifikasi wajah gagal emang wajah tetangga daftarin verifikasi app ok ok tuh doang bikin emosi aaarrggghhh,0,0,Negative
+21bb4480-0f4c-46f8-96d5-362ac32c3ab8,good,5,good,1,1,Positive
+6685f6d7-051c-4bcd-9940-203c220a9ffb,sangat senang sekali,5,senang,1,1,Positive
+33bf30e7-f9a3-4d0b-bc52-5624695bbc3b,rada eror aja sib,5,rada eror sib,1,0,Negative
+04d1cc70-4b9a-4ab3-ac10-11579dd0e107,"Aplikasinya sangat lama sampe 3 kali delay mau login lama, mau scan lama udah masukin pin lama kalau mau payment padahal sinyal dan kuota masih amat cukup.",1,aplikasi sampe kali delay login scan masukin pin payment sinyal kuota,0,0,Negative
+54a4d96e-eb33-4ab7-8b58-7725c41782fa,"ini kenapa dengan aplikasi ini,ko di update nya susah bangett ... penyimpanan slalu penuh Mulu,pdhal ruangan nya masih kosong ... tolong dong di perbaiki lagi,jadi ga nyaman .",1,aplikasi ko update susah bangett simpan slalu penuh mulu pdhal ruang kosong tolong baik nyaman,0,0,Negative
+aef7adbc-77fe-40e7-b3a6-786af5adbe68,parah. tidak bisa setor tunai cardless di atm BCA Indomaret . why ?,5,parah tidak setor tunai cardless atm bca indomaret why,1,0,Negative
+e7b239c7-0fdb-4868-b0bd-9bf8cf094c32,"Ini ko gabisa di update ya, katanya aplikasi sudah tidak kompatibel dengan perangkat saya, mau buka mybca jdi ga bisa, gimna dong",2,ko gabisa update aplikasi tidak kompatibel perangkat buka mybca jdi gimna,0,0,Negative
+1ce289a0-0f2c-4d48-8800-21bfe85b51c9,👍👍👍👍👍,5,,1,0,Negative
+c0b02409-e2e9-4bcc-bb58-5c7b905a4a4e,"Lah myBCA jadi gak bisa di buka sih , harus hubungi develover terus kenapa ya.",1,mybca buka sih hubung develover,0,0,Negative
+b7c9be6f-5b0d-4199-995a-771644396c42,bagus,5,bagus,1,1,Positive
