@@ -93,6 +93,11 @@ import re
 from Sastrawi.Stemmer.StemmerFactory import StemmerFactory
 from nltk.corpus import stopwords
 
+import nltk
+
+nltk.download('stopwords')
+
+from nltk.corpus import stopwords
 stop_words = set(stopwords.words('indonesian'))
 
 custom_stopwords = {
