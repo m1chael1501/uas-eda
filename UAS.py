@@ -77,13 +77,16 @@ st.sidebar.markdown("""
 # ===== LOAD DATA =====
 df_raw = pd.read_csv("data_scraping.csv")
 
+# hapus kolom cleaned_text dari tampilan
+df_raw = df_raw.drop(columns=["cleaned_text"])
+
 st.subheader(" Data Hasil Scraping")
 st.dataframe(df_raw.head(20))
 
 # ===== DATA HASIL CLEANING =====
 df_clean = pd.read_csv("hasil_cleaning.csv")
 
-st.subheader("🧹 Data Setelah Cleaning")
+st.subheader(" Data Setelah Cleaning")
 st.write(f"Jumlah data: {df_clean.shape[0]} baris")
 
 st.dataframe(df_clean.head(20))
