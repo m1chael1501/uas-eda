@@ -75,18 +75,15 @@ st.sidebar.markdown("""
 
 
 # ===== LOAD DATA =====
-df = pd.read_csv("output_csv.csv")
+df_raw = pd.read_csv("data_scraping.csv")
 
-# ===== INFO DATA =====
-st.subheader(" Dataset Overview with Cleaned Data")
-st.write(f"Jumlah data: {df.shape[0]} baris | {df.shape[1]} kolom")
+st.subheader(" Data Hasil Scraping")
+st.dataframe(df_raw.head(20))
 
-# ===== PREVIEW DATA =====
-st.subheader(" Preview Data (20 baris pertama)")
-st.dataframe(
-    df[['content', 'score', 'cleaned_text']].head(20)
-)
+df_clean = pd.read_csv("hasil_cleaning.csv")
 
+st.subheader(" Data Setelah Cleaning")
+st.dataframe(df_clean.head(20))
 import re
 from Sastrawi.Stemmer.StemmerFactory import StemmerFactory
 from nltk.corpus import stopwords
