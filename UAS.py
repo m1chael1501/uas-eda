@@ -75,19 +75,17 @@ st.sidebar.markdown("""
 
 
 # ===== LOAD DATA =====
-df = pd.read_csv("data_scraping.csv")
-df['cleaned_text'] = df['content'].astype(str)  # sementara aman dulu
-
-output_df = df[['content', 'cleaned_text']]
-
+df = pd.read_csv("output_csv.csv")
 
 # ===== INFO DATA =====
-st.subheader(" Dataset Overview with cleaned data")
+st.subheader(" Dataset Overview with Cleaned Data")
 st.write(f"Jumlah data: {df.shape[0]} baris | {df.shape[1]} kolom")
 
 # ===== PREVIEW DATA =====
 st.subheader(" Preview Data (20 baris pertama)")
-st.dataframe(df.head(20))
+st.dataframe(
+    df[['content', 'score', 'cleaned_text']].head(20)
+)
 
 import re
 from Sastrawi.Stemmer.StemmerFactory import StemmerFactory
