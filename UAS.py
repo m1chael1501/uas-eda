@@ -80,9 +80,12 @@ df_raw = pd.read_csv("data_scraping.csv")
 st.subheader(" Data Hasil Scraping")
 st.dataframe(df_raw.head(20))
 
+# ===== DATA HASIL CLEANING =====
 df_clean = pd.read_csv("hasil_cleaning.csv")
 
-st.subheader(" Data Setelah Cleaning")
+st.subheader("🧹 Data Setelah Cleaning")
+st.write(f"Jumlah data: {df_clean.shape[0]} baris")
+
 st.dataframe(df_clean.head(20))
 import re
 from Sastrawi.Stemmer.StemmerFactory import StemmerFactory
